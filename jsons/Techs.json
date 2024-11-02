@@ -1,0 +1,686 @@
+[
+	{
+		"columnNumber": 0,
+		"era": "Hadean",
+		"techCost": 20,
+		"buildingCost": 40,
+		"wonderCost": 185,
+		"techs": [
+			{
+				"name": "Formation of Earth",
+				"row": 6,
+				"quote": "Earth formed from the accretion of dust and gas in the solar nebula.",
+				"uniques": ["Starting tech"]
+			}
+		]
+	},
+	{
+		"columnNumber": 1,
+		"era": "Hadean",
+		"techCost": 90,
+		"buildingCost": 60,
+		"wonderCost": 185,
+		"techs": [
+			{
+				"name": "Moon Formation",
+				"row": 2,
+				"prerequisites": ["Formation of Earth"],
+				"quote": "A collision with a Mars-sized body called Theia led to the formation of the Moon."
+                                "uniques": ["Starting tech"]
+			},
+			{
+				"name": "Volcanic Activity",
+				"row": 5,
+				"prerequisites": ["Formation of Earth"],
+				"quote": "Intense volcanic activity and frequent collisions with other celestial bodies."
+			},
+			{
+				"name": "Formation of Crust",
+				"row": 7,
+				"prerequisites": ["Formation of Earth"],
+				"quote": "Cooling of the Earth’s surface led to the formation of a solid crust."
+			},
+			{
+				"name": "Primordial Atmosphere",
+				"row": 10,
+				"prerequisites": ["Formation of Earth"],
+				"quote": "Volcanic outgassing created an atmosphere rich in carbon dioxide, water vapor, and other gases."
+			}
+
+		]
+	},
+	{
+		"columnNumber": 2,
+		"era": "Hadean",
+		"techCost": 120,
+		"buildingCost": 100,
+		"wonderCost": 185,
+		"techs": [
+			{
+				"name": "Oceans",
+				"row": 5,
+				"prerequisites": ["Volcanic Activity","Formation of Crust","Primordial Atmosphere"],
+				"quote": "Condensation of water vapor led to the formation of the first oceans."
+			},
+		]
+	},
+	{
+		"columnNumber": 3,
+		"era": "Archean",
+		"techCost": 140,
+		"buildingCost": 200,
+		"wonderCost": 250,
+		"techs": [
+			{
+				"name": "Stabilization of Crust",
+				"row": 9,
+				"prerequisites": ["Oceans"],
+				"quote": "Formation of the first stable continental crusts."
+			},
+			{
+				"name": "Plate Tectonics",
+				"row": 5,
+				"prerequisites": ["Oceans"],
+				"quote": "Early evidence of plate tectonic activity."
+			},
+			{
+				"name": "Formation of Atmosphere",
+				"row": 7,
+				"prerequisites": ["Oceans"],
+				"quote": "Gradual changes in the atmosphere, still lacking significant oxygen."
+			}
+
+		]
+	},
+	{
+		"columnNumber": 4,
+		"era": "Archean",
+		"techCost": 170,
+		"buildingCost": 300,
+		"wonderCost": 250,
+		"techs": [
+			{
+				"name": "First Life Forms",
+				"row": 9,
+				"prerequisites": ["Formation of Atmosphere","Stabilization of Crust"],
+				"quote": "Emergence of simple, single-celled organisms like bacteria and archaea."
+			},
+			{
+				"name": "Photosynthesis",
+				"row": 5,
+				"prerequisites": ["Formation of Atmosphere","Plate Tectonics"],
+				"quote": "Development of photosynthetic bacteria, leading to the production of oxygen."
+			},
+			{
+				"name": "Stromatolites",
+				"row": 7,
+				"prerequisites": ["Formation of Atmosphere"],
+				"quote": "Formation of stromatolites, layered structures created by microbial communities."
+			}
+]
+	},
+	{
+		"columnNumber": 5,
+		"era": "Proterozoic",
+		"techCost": 250,
+		"buildingCost": 330,
+		"wonderCost": 300,
+		"techs": [
+			{
+				"name": "Eukaryotes",
+				"row": 1,
+				"prerequisites": ["Photosynthesis"],
+				"quote": "Emergence of eukaryotic cells, which have a nucleus and organelles."
+			},
+			{
+				"name": "Continental Growth",
+				"row": 3,
+				"prerequisites": ["First Life Forms"],
+				"quote": "Further stabilization and growth of continental landmasses."
+			},
+                        {
+				"name": "Multicellular Life",
+				"row": 6,
+				"prerequisites": ["First Life Forms"],
+				"quote": "Development of multicellular organisms."
+			},
+			{
+				"name": "Oxygenation",
+				"row": 7,
+				"prerequisites": ["Stromatolites"],
+				"quote": "Significant increase in atmospheric oxygen, known as the Great Oxidation Event."
+			}
+			{
+				"name": "Symbiosis",
+				"row": 9,
+				"prerequisites": ["Stromatolites"],
+				"quote": "Evolution of symbiotic relationships, such as those between mitochondria and their host cells."
+			}
+]
+	},
+	{
+		"columnNumber": 6,
+		"era": "Cambrian",
+		"techCost": 310,
+		"buildingCost": 390,
+		"wonderCost": 300,
+		"techs": [
+			{
+				"name": "Cambrian Explosion",
+				"row": 1,
+				"prerequisites": ["Eukaryotes","Oxygenation"],
+                                "uniques": ["[+1 Food] from [Algae] tiles [in all cities]","[+1 Food] from [Coast] tiles [in all cities]"],
+				"quote": "A dramatic increase in the diversity of life forms, including the first appearance of many major groups of animals."
+			},
+			{
+				"name": "Trilobites",
+				"row": 3,
+				"prerequisites": ["Continental Growth","Multicellular Life"],
+				"quote": "These were among the most successful and diverse groups of early arthropods, dominating the Cambrian seas."
+			},
+                        {
+				"name": "First Vertebrates",
+				"row": 6,
+				"prerequisites": ["Continental Growth","Multicellular Life"],
+				"quote": "Early fish-like creatures with primitive backbones appeared, marking the beginning of vertebrate evolution."
+			},
+			{
+				"name": "Complex Ecosystems",
+				"row": 7,
+				"prerequisites": ["Multicellular Life","Symbiosis"],
+				"quote": "The Cambrian seas were teeming with life, including predators like Anomalocaris and various types of prey, leading to complex food webs."
+			}
+]
+	},
+	{
+
+		"columnNumber": 7,
+		"era": "Ordovician - Silurian",
+		"techCost": 370,
+		"buildingCost": 440,
+		"wonderCost": 300,
+		"techs": [
+			{
+				"name": "Marine Biodiversity",
+				"row": 3,
+                                "uniques": ["[+35]% Strength <for [Aquatic Chordata] units>","[+5]% Strength <for [Aquatic Arthropoda] units>"],
+				"prerequisites": ["Trilobites","First Vertebrates"],
+				"quote": "The Ordovician saw a significant increase in marine biodiversity, with the appearance of new species of brachiopods, bryozoans, mollusks, and the first coral reefs."
+			},
+			{
+				"name": "First Land Plants",
+				"row": 7,
+				"prerequisites": ["Complex Ecosystems","Cambrian Explosion"],
+				"quote": "Simple plants like mosses and liverworts began to colonize land, setting the stage for more complex terrestrial ecosystems."
+			}
+]
+	},
+	{
+
+
+		"columnNumber": 8,
+		"era": "Ordovician - Silurian",
+		"techCost": 400,
+		"buildingCost": 550,
+		"wonderCost": 300,
+		"techs": [
+			{
+				"name": "Glaciation and Mass Extinction",
+				"row": 5,
+				"prerequisites": ["Marine Biodiversity","First Land Plants"],
+				"quote": "The Ordovician period ended with a major glaciation event that caused a significant drop in sea levels and a mass extinction, wiping out many marine species."
+			}
+]
+	},
+	{
+
+
+		"columnNumber": 9,
+		"era": "Ordovician - Silurian",
+		"techCost": 500,
+		"buildingCost": 550,
+		"wonderCost": 300,
+		"techs": [
+			{
+				"name": "Diversification of Jawed Fish",
+				"row": 1,
+				"prerequisites": ["Glaciation and Mass Extinction"],
+				"quote": "The first jawed fish appeared, leading to a greater variety of marine predators."
+			},
+			{
+				"name": "Terrestrial Ecosystems",
+				"row": 3,
+                                "uniques": ["[+1 Food] from [Moss] tiles [in all cities]","[+1 Food] from [Cooksonia] tiles [in all cities]"],
+				"prerequisites": ["Glaciation and Mass Extinction"],
+				"quote": "Vascular plants with specialized tissues for transporting water and nutrients began to spread on land, along with the first terrestrial arthropods like millipedes and early arachnids."
+			}
+]
+	},
+	{
+
+
+		"columnNumber": 10,
+		"era": "Devonian",
+		"techCost": 580,
+		"buildingCost": 600,
+		"wonderCost": 300,
+		"techs": [
+			{
+				"name": "Formation of Laurussia",
+				"row": 1,
+                                "uniques": ["[+1 Culture] from [Ocean] tiles [in all cities] <during the [Devonian]>"]
+				"prerequisites": ["Diversification of Jawed Fish","Terrestrial Ecosystems"],
+				"quote": "This sets the stage for the warm climate and shallow seas."
+			},
+                        {
+				"name": "Warm Climate",
+				"row": 3,
+                                uniques": ["[+1 Food] from [Forest] tiles [in all cities] <during the [Devonian]>","[+1 Food] from [Forest] tiles [in all cities] <during the [Devonian]>"]
+				"prerequisites": ["Diversification of Jawed Fish"],
+				"quote": "The warm climate supports the diversification of marine life and the spread of early plants."
+			},
+                        {
+				"name": "Seed Plants",
+				"row": 6,
+				"prerequisites": ["Terrestrial Ecosystems"],
+				"quote": "The first forests create an environment where seed plants can evolve."
+			},
+			{
+				"name": "Land Arthropods",
+				"row": 9,
+				"prerequisites": ["Terrestrial Ecosystems"],
+				"quote": "The presence of plants on land provides food and habitat for arthropods."
+			}
+]
+	},
+	{
+
+
+		"columnNumber": 11,
+		"era": "Devonian",
+		"techCost": 620,
+		"buildingCost": 600,
+		"wonderCost": 300,
+		"techs": [
+			{
+				"name": "Amphibians",
+				"row": 9,
+				"prerequisites": ["Land Arthropods"],
+				"quote": "The earliest well-known amphibian, Ichthyostega, was found in Late Devonian deposits in Greenland, dating back about 363 million years. The earliest amphibian discovered to date is Elginerpeton, found in Late Devonian rocks of Scotland dating to approximately 368 million years ago."
+			},
+                        {
+				"name": "Placodermi",
+				"row": 5,
+				"prerequisites": ["Warm Climate"],
+				"quote": "Placoderms were among the first jawed fish (their jaws likely evolved from the first pair of gill arches), as well as the first vertebrates to have true teeth. They were also the first fish clade to develop pelvic fins, the second set of paired fins and the homologous precursor to hindlimbs in tetrapods. 380-million-year-old fossils of three other genera, Incisoscutum, Materpiscis and Austroptyctodus, represent the oldest known examples of live birth."
+			},
+                        {
+				"name": "Early Trees",
+				"row": 7,
+				"prerequisites": ["Land Arthropods","Seed Plants"],
+				"quote": "The earliest-known trees appeared in the Middle Devonian. These included a lineage of lycopods and another arborescent, woody vascular plant, the cladoxylopsids and progymnosperm Archaeopteris."
+			},
+                        {
+				"name": "Red Sandstone",
+				"row": 3,
+                                "uniques": ["[+1 Food] from [Sand] tiles [in all cities]","[+1 Culture] from [Sand] tiles [in all cities] <during the [Devonian]>"],
+				"prerequisites": ["Warm Climate"],
+				"quote": "Old Red Sandstone, abbreviated ORS, is an assemblage of rocks in the North Atlantic region largely of Devonian age. It extends in the east across Great Britain, Ireland and Norway, and in the west along the eastern seaboard of North America. It also extends northwards into Greenland and Svalbard."
+			},
+			{
+				"name": "Ammonites",
+				"row": 1,
+				"prerequisites": ["Formation of Laurussia"],
+				"quote": "Ammonite is actually the colloquial term for ammonoids, a large and diverse group of creatures that arose during the Devonian period, which began about 416 million years ago. Ammonoids are related to other cephalopods—such as squid, octopuses, and cuttlefish—and they were early relatives of the modern nautilus."
+			}
+]
+	},
+	{
+
+
+		"columnNumber": 12,
+		"era": "Devonian",
+		"techCost": 710,
+		"buildingCost": 600,
+		"wonderCost": 600,
+		"techs": [
+			{
+				"name": "Late Devonian Extinction",
+				"row": 6,
+				"prerequisites": ["Ammonites","Red Sandstone","Placodermi","Amphibians"],
+				"quote": "The Late Devonian extinction, which started about 375 Ma, severely affected marine life, killing off most of the reef systems, most of the jawless fish, half of all placoderms, and nearly all trilobites save for a few species of the order Proetida. The subsequent end-Devonian extinction, which occurred at around 359 Ma, further impacted the ecosystems and completed the extinction of all calcite sponge reefs and placoderms. Conclude with the significant extinction events, such as the Kellwasser and Hangenberg events, which affected marine life and marked the end of the Devonian."
+			}
+]
+	},
+	{
+
+
+		"columnNumber": 13,
+		"era": "Carboniferous",
+		"techCost": 750,
+		"buildingCost": 600,
+		"wonderCost": 600,
+		"techs": [
+			{
+				"name": "Rise of Coal Forests",
+				"row": 6,
+				"prerequisites": ["Late Devonian Extinction"],
+				"quote": "Introduce the extensive coal forests that characterized the early Carboniferous, setting the stage for the next era."
+			}
+]
+	},
+	{
+
+
+		"columnNumber": 14,
+		"era": "Carboniferous",
+		"techCost": 620,
+		"buildingCost": 600,
+		"wonderCost": 600,
+		"techs": [
+			{
+				"name": "Amphibian Proliferation",
+				"row": 9,
+				"prerequisites": ["Rise of Coal Forests"],
+				"quote": "Amphibians thrived due to the abundant water bodies in forests."
+			},
+                        {
+				"name": "Large Tree Ferns",
+				"row": 5,
+				"prerequisites": ["Rise of Coal Forests"],
+				"quote": "Massive ferns thriving in the swampy conditions of the coal swamps."
+			},
+                        {
+				"name": "Pangea",
+				"row": 3,
+				"prerequisites": ["Rise of Coal Forests"],
+				"quote": "Slow movement of tectonic plates beginning to form the supercontinent."
+			},
+			{
+				"name": "Limestone Formations",
+				"row": 1,
+                                "uniques": ["[+2 Culture] from [Limestone] tiles [in all cities] <during the [Carboniferous]>","[+1 Production] from [Iron] tiles [in all cities] <during the [Carboniferous]>"],
+				"prerequisites": ["Rise of Coal Forests"],
+				"quote": "Limestone formed in shallow seas that sometimes overlapped with coal swamps."
+			}
+]
+	},
+	{
+
+
+		"columnNumber": 15,
+		"era": "Carboniferous",
+		"techCost": 670,
+		"buildingCost": 600,
+		"wonderCost": 600,
+		"techs": [
+			{
+				"name": "Early Reptiles",
+				"row": 9,
+				"prerequisites": ["Amphibian Proliferation","Pangea"],
+				"quote": "Reptiles evolved from amphibians, adapting to less water-dependent lifestyles."
+			},
+                        {
+				"name": "Extensive Rivers",
+				"row": 5,
+				"prerequisites": ["Large Tree Ferns","Limestone Formations"],
+				"quote": "Rivers formed as a result of the dense vegetation altering water flows."
+			},
+                        {
+				"name": "Increased Atmospheric Oxygen",
+				"row": 7,
+				"prerequisites": ["Large Tree Ferns"],
+				"quote": "Dense forests photosynthesized heavily, increasing oxygen levels."
+			},
+                        {
+				"name": "Insect Gigantism",
+				"row": 3,
+				"prerequisites": ["Large Tree Ferns"],
+				"quote": "Higher oxygen levels allowed insects to grow to enormous sizes."
+			}
+]
+	},
+	{
+
+
+		"columnNumber": 16,
+		"era": "Carboniferous",
+		"techCost": 700,
+		"buildingCost": 700,
+		"wonderCost": 700,
+		"techs": [
+			{
+				"name": "Carboniferous Mountains",
+				"row": 9,
+				"prerequisites": ["Extensive Rivers"],
+                                "uniques": ["[+1 Production] from [Hill] tiles [in capital] <during the [Carboniferous]>"],
+				"quote": "Tectonic collisions during Pangaea's formation created new mountain ranges."
+			},
+                        {
+				"name": "Southern Hemisphere Ice Sheets",
+				"row": 5,
+				"prerequisites": ["Increased Atmospheric Oxygen"],
+				"quote": "Glaciers expanded, causing changes in sea levels and climate."
+			},
+                        {
+				"name": "Sedimentation",
+				"row": 7,
+				"prerequisites": ["Extensive Rivers"],
+				"quote": "Erosion from mountains deposited sediments in nearby seas."
+			},
+                        {
+				"name": "Diversification",
+				"row": 1,
+				"prerequisites": ["Early Reptiles","Insect Gigantism"],
+				"quote": "Changing sea levels and new sedimentary environments fostered diverse marine ecosystems."
+			}
+]
+	},
+	{
+
+
+		"columnNumber": 17,
+		"era": "Carboniferous",
+		"techCost": 720,
+		"buildingCost": 700,
+		"wonderCost": 700,
+		"techs": [
+                        {
+				"name": "Roots",
+				"row": 7,
+                                "uniques": ["[+1 Culture] from [Cordaites] tiles [in capital] <during the [Carboniferous]>"],
+				"prerequisites": ["Diversification"],
+				"quote": "Plant roots helped in the creation of soil by breaking down rocks and organic matter."
+			},
+                        {
+				"name": "Fossilization",
+				"row": 3,
+                                "uniques": ["[+1 Science] from [Hill] tiles [in capital] <during the [Carboniferous]>"],
+				"prerequisites": ["Carboniferous Mountains","Southern Hemisphere Ice Sheets"],
+				"quote": "Buried organic material in sediments eventually became fossils."
+			},
+			{
+				"name": "Lycophytes and Horsetails",
+				"row": 1,
+				"prerequisites": ["Sedimentation"],
+				"quote": "These plants thrived in the moist conditions of the coal swamps."
+			}
+]
+	},
+	{
+
+
+		"columnNumber": 18,
+		"era": "Permian",
+		"techCost": 780,
+		"buildingCost": 700,
+		"wonderCost": 700,
+		"techs": [
+                        {
+				"name": "Siberia",
+				"row": 7,
+				"prerequisites": ["Roots"],
+				"quote": "Nowadays Eurasia were Permian Landmasses (Siberia, Kazakhstania and others)."
+			},
+                        {
+				"name": "Panthalassa Ocean",
+				"row": 5,
+				"prerequisites": ["Fossilization","Lycophytes and Horsetails"],
+				"quote": "The vast ocean that surrounded Pangea, covering much of the Earth’s surface."
+			},
+			{
+				"name": "Desertification",
+				"row": 3,
+				"prerequisites": ["Fossilization"],
+				"quote": "Expansion of arid environments due to climate changes, leading to widespread deserts."
+			}
+]
+	},
+	{
+
+
+		"columnNumber": 19,
+		"era": "Permian",
+		"techCost": 800,
+		"buildingCost": 700,
+		"wonderCost": 700,
+		"techs": [
+                        {
+				"name": "Reduction of Coal Swamps",
+				"row": 7,
+				"prerequisites": ["Panthalassa Ocean","Desertification"],
+				"quote": "Decline of the lush Carboniferous coal swamps as the climate became drier."
+			},
+                        {
+				"name": "Development of Conifer Forests",
+				"row": 5,
+				"prerequisites": ["Siberia"],
+				"quote": "Conifers became more prominent, adapting to the drier conditions."
+			}
+]
+	},
+	{
+
+
+		"columnNumber": 20,
+		"era": "Permian",
+		"techCost": 830,
+		"buildingCost": 700,
+		"wonderCost": 700,
+		"techs": [
+                        {
+				"name": "Marine Reefs",
+				"row": 9,
+				"prerequisites": ["Reduction of Coal Swamps"],
+				"quote": "Development of extensive reef systems, which later declined towards the end of the period."
+			},
+                        {
+				"name": "Thermal Maximum",
+				"row": 7,
+				"prerequisites": ["Development of Conifer Forests"],
+				"quote": "Periods of extreme global warming, affecting both marine and terrestrial life."
+			},
+			{
+				"name": "Fluctuations in Oxygen Levels",
+				"row": 5,
+				"prerequisites": ["Development of Conifer Forests"],
+				"quote": "Changes in atmospheric oxygen levels, impacting the evolution and survival of species."
+			},
+                        {
+				"name": "Permian Volcanic Activity",
+				"row": 3,
+				"prerequisites": ["Reduction of Coal Swamps"],
+				"quote": "Extensive volcanic eruptions, particularly in the Siberian Traps, releasing massive amounts of lava and gases."
+			}
+]
+	},
+	{
+
+
+		"columnNumber": 21,
+		"era": "Permian",
+		"techCost": 870,
+		"buildingCost": 800,
+		"wonderCost": 800,
+		"techs": [
+                        {
+				"name": "Early Mammal Ancestors",
+				"row": 8,
+				"prerequisites": ["Fluctuations in Oxygen Levels"],
+				"quote": "Therapsids evolved, leading to early mammal-like reptiles."
+			},
+                        {
+				"name": "Expansion of Arid Regions",
+				"row": 6,
+                                "uniques": ["[+1 Culture] from [Sand] tiles [in all cities] <during the [Permian]>","[+1 Food] from [Sand] tiles [in capital] <during the [Permian]>"],
+				"prerequisites": ["Permian Volcanic Activity","Thermal Maximum"],
+				"quote": "Increased desertification across Pangea, leading to more extensive dry areas."
+			},
+                        {
+				"name": "Development of Salt Deposits",
+				"row": 4,
+				"prerequisites": ["Marine Reefs"],
+				"quote": "Formation of large salt deposits in evaporating inland seas."
+			}
+]
+	},
+	{
+
+
+		"columnNumber": 22,
+		"era": "Permian",
+		"techCost": 890,
+		"buildingCost": 810,
+		"wonderCost": 800,
+		"techs": [
+                        {
+				"name": "Formation of Mountain Ranges",
+				"row": 7,
+                                "uniques": ["[+1 Culture] from [Mountain] tiles [in all cities] <during the [Permian]>","[+1 Food] from [Mountain] tiles [in capital] <during the [Permian]>"],
+				"prerequisites": ["Development of Salt Deposits"],
+				"quote": "Orogenic events leading to the formation of mountain ranges, reshaping the landscape."
+			},
+                        {
+				"name": "Evolution of Insects",
+				"row": 6,
+                                "uniques": ["[+35]% Strength <for [Flying Arthropoda] units>"],
+				"prerequisites": ["Early Mammal Ancestors"],
+				"quote": "Rapid evolution and diversification of insects, adapting to new ecological niches."
+			},
+			{
+				"name": "Decline of Marine Biodiversity",
+				"row": 4,
+				"prerequisites": ["Expansion of Arid Regions"],
+				"quote": "Reduction in marine species diversity leading up to the mass extinction."
+			}
+]
+	},
+	{
+
+
+		"columnNumber": 23,
+		"era": "Permian",
+		"techCost": 895,
+		"buildingCost": 840,
+		"wonderCost": 800,
+		"techs": [
+                        {
+				"name": "The Great Dying",
+				"row": 6,
+				"prerequisites": ["Formation of Mountain Ranges","Evolution of Insects","Decline of Marine Biodiversity"],
+				"quote": "Approximately 251.9 million years ago, the Permian–Triassic extinction event; also known as the Late Permian extinction event, the Latest Permian extinction event, the End-Permian extinction event, and colloquially as the Great Dying) forms the boundary between the Permian and Triassic geologic periods, and with them the Paleozoic and Mesozoic eras. It is Earth's most severe known extinction event, with the extinction of 57% of biological families, 83% of genera, 81% of marine species and 70% of terrestrial vertebrate species. It is also the greatest known mass extinction of insects. It is the greatest of the Big Five mass extinctions of the Phanerozoic. There is evidence for one to three distinct pulses, or phases, of extinction."
+			}
+
+
+
+
+
+
+
+
+
+
+
+		]
+	}
+]

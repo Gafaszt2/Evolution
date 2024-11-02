@@ -1,0 +1,315 @@
+[
+	// Ancient Era
+
+	// Always available
+	{
+		"name": "Hydrothermal Vent",
+		"isNationalWonder": true,
+		"production": 1,
+		"science": 1,
+                "culture": 1,
+		"cityStrength": 2,
+		"cost": 1,
+		"uniques": ["Indicates the capital city"]
+	},
+	{
+		"name": "Geochemical Craddle",
+		"science": 1,
+		"cost": 40,
+		"hurryCostModifier": 40,
+	},
+{
+		"name": "Magma",
+		"production": 1,
+                "requiredTech": "Volcanic Activity",
+		"hurryCostModifier": 25,
+	},
+{
+		"name": "Sulphur",
+		"production": 1,
+                "requiredTech": "Volcanic Activity",
+		"hurryCostModifier": 25,
+	},
+{
+		"name": "Formation of Hills",
+		"science": 2,
+                "requiredTech": "Formation of Crust",
+		"hurryCostModifier": 25,
+	},
+{
+		"name": "Dense Atmosphere",
+		"food": 1,
+                "culture": 1,
+                "requiredTech": "Primordial Atmosphere",
+		"hurryCostModifier": 25,
+	},
+{
+		"name": "Water Bodies",
+		"culture": 2,
+                "requiredTech": "Oceans",
+		"hurryCostModifier": 25,
+	},
+{
+		"name": "Tidal Pool",
+		"food": 1,
+                "requiredTech": "Oceans",
+		"hurryCostModifier": 25,
+	},
+{
+		"name": "Mountains",
+		"production": 1,
+                "requiredTech": "Plate Tectonics",
+		"hurryCostModifier": 25,
+	},
+{
+		"name": "Earthquakes",
+		"production": 1,
+                "requiredTech": "Plate Tectonics",
+		"hurryCostModifier": 25,
+	},
+{
+		"name": "Primordial Gas",
+		"culture": 2,
+                "requiredTech": "Formation of Atmosphere",
+		"hurryCostModifier": 25,
+	},
+{
+		"name": "Collitions",
+		"production": 1,
+                "science": 1,
+                "requiredTech": "Stabilization of Crust",
+		"hurryCostModifier": 25,
+	},
+{
+		"name": "Light Energy Into Chemical Energy",
+		"food": 2,
+                "culture": 1,
+                "requiredTech": "Photosynthesis",
+		"hurryCostModifier": 25,
+	},
+{
+		"name": "Atmosphere Modification",
+		"production": 1,
+                "requiredTech": "First Life Forms",
+		"hurryCostModifier": 25,
+	},
+{
+		"name": "Supercontinent Cycles",
+		"science": 2,
+                "production": 2,
+                "requiredTech": "Continental Growth",
+		"hurryCostModifier": 25,
+	},
+{
+		"name": "Proterozoic Iron",
+                "uniques": ["[+1 Culture] from [Iron] tiles [in this city]"]
+                "requiredTech": "Oxygenation",
+		"hurryCostModifier": 25,
+	},
+        {
+		"name": "Eukaryotic Epibionts Symbiosis",
+                "uniques": ["[+1 Culture] from [Coast] tiles [in this city]"]
+                "requiredTech": "Symbiosis",
+		"hurryCostModifier": 25,
+	},
+        {
+		"name": "Glacier",
+                "uniques": ["[+1 Culture] from [Mountain] tiles [in this city]"]
+                "requiredTech": "Glaciation and Mass Extinction",
+		"hurryCostModifier": 25,
+	},
+
+
+
+{
+		"name": "Devonian Oxigenated Waters",
+                "production": 1,
+                "requiredTech": "Warm Climate",
+		"hurryCostModifier": 25,
+	},
+{
+		"name": "Swamp",
+                "production": 1,
+                "uniques": ["[+1 Food] from [Forest] tiles [in this city]"]
+                "requiredTech": "Warm Climate",
+		"hurryCostModifier": 25,
+	},
+
+
+{
+		"name": "Laurussia",
+                "food": 2,
+                "isWonder": true,
+                "uniques": ["[+1 Production] from [Hill] tiles [in this city]"]
+                "requiredTech": "Formation of Laurussia",
+		"hurryCostModifier": 25,
+	},
+{
+		"name": "Pangea",
+                "food": 2,
+                "isWonder": true,
+                "uniques": ["[+35]% Production when constructing [Food] buildings [in this city]"]
+                "requiredTech": "Pangea",
+		"hurryCostModifier": 25,
+	},
+        {
+		"name": "Biodiversity Hotspots",
+                "culture": 1,
+                "happiness": 1,
+                "requiredTech": "Pangea",
+		"hurryCostModifier": 25,
+	},
+{
+		"name": "Supercontinent Climate",
+                "culture": 1,
+                "food": 1,
+                "requiredTech": "Large Tree Ferns",
+		"hurryCostModifier": 25,
+	},
+{
+		"name": "Enhanced Metabolism",
+                "science": 1,
+                "requiredTech": "Increased Atmospheric Oxygen",
+		"hurryCostModifier": 25,
+	},
+{
+		"name": "Fire Ecology",
+                "culture": 1,
+                "requiredTech": "Increased Atmospheric Oxygen",
+		"hurryCostModifier": 25,
+	},
+{
+		"name": "Fertility",
+                "uniques": ["[+1 Production] from [River] tiles [in this city]"]
+                "requiredTech": "Extensive Rivers",
+		"hurryCostModifier": 25,
+	},
+{
+		"name": "Mineral Riches",
+                "uniques": ["[+1 Production] from [Limestone] tiles [in this city] <during the [Carboniferous]>","[+1 Production] from [Marble] tiles [in this city] <during the [Carboniferous]>","[+1 Production] from [Iron] tiles [in this city] <during the [Carboniferous]>"]
+                "requiredTech": "Carboniferous Mountains",
+		"hurryCostModifier": 25,
+	},
+{
+		"name": "Rain Shadow Effect",
+                "uniques": ["[+1 Culture] from [Sand] tiles [in this city] <during the [Carboniferous]>"]
+                "requiredTech": "Carboniferous Mountains",
+		"hurryCostModifier": 25,
+	},
+{
+		"name": "Glacial Cycles",
+                "uniques": ["[+1 Culture] from [Ocean] tiles [in this city] <during the [Carboniferous]>","[+1 Food] from [Ocean] tiles [in this city] <during the [Carboniferous]>"]
+                "requiredTech": "Southern Hemisphere Ice Sheets",
+		"hurryCostModifier": 25,
+	},
+{
+		"name": "Spore Dispersal",
+                "food": 2,
+                "requiredTech": "Sedimentation",
+		"hurryCostModifier": 25,
+	},
+{
+		"name": "Horsetails",
+                "food": 2,
+                "science": 1,
+                "requiredTech": "Lycophytes and Horsetails",
+		"hurryCostModifier": 25,
+	},
+
+
+
+
+
+
+
+
+{
+		"name": "Volcanic Ash Layers",
+                "culture": 1,
+                "requiredTech": "Siberia",
+		"hurryCostModifier": 25,
+	},
+{
+		"name": "Mud Cracks",
+                "production": 1,
+                "requiredTech": "Siberia",
+		"hurryCostModifier": 25,
+	},
+
+{
+		"name": "Desert Pavement",
+                "production": 1,
+                "requiredTech": "Desertification",
+		"hurryCostModifier": 25,
+	},
+{
+		"name": "Permian Flats",
+                "production": 1,
+                "requiredTech": "Desertification",
+		"hurryCostModifier": 25,
+	},
+{
+		"name": "Manganese Nodules",
+                "production": 2,
+                "requiredTech": "Panthalassa Ocean",
+		"hurryCostModifier": 25,
+	},
+{
+		"name": "Decaying Plant Material",
+                "production": 1,
+                "requiredTech": "Reduction of Coal Swamps",
+		"hurryCostModifier": 25,
+	},
+{
+		"name": "Stagnant Water Bodies",
+                "culture": 1,
+                "requiredTech": "Reduction of Coal Swamps",
+		"hurryCostModifier": 25,
+	},
+{
+		"name": "Salt Flats",
+                "uniques": ["[+1 Culture] from [Salt] tiles [in this city] <during the [Permian]>"]
+                "requiredTech": "Development of Salt Deposits",
+		"hurryCostModifier": 25,
+	},
+{
+		"name": "Permian Conifer Amber",
+                "food": 1,
+                "isWonder": true,
+                "uniques": ["[1] free [Ennatosaurus] units appear","[+2 Food] from [Forest] tiles [in this city] <during the [Permian]>"]
+                "requiredTech": "Development of Conifer Forests",
+		"hurryCostModifier": 25,
+	},
+
+{
+		"name": "Carbonate Rocks",
+                "production": 2,
+                "requiredTech": "Fluctuations in Oxygen Levels",
+		"hurryCostModifier": 25,
+	},
+{
+		"name": "Red Beds Clay",
+                "production": 1,
+                "requiredTech": "Fluctuations in Oxygen Levels",
+		"hurryCostModifier": 25,
+	},
+{
+		"name": "Lava Flows",
+                "culture": 1,
+                "requiredTech": "Permian Volcanic Activity",
+		"hurryCostModifier": 25,
+	},
+{
+		"name": "Volcanic Glass",
+                "production": 1,
+                "requiredTech": "Permian Volcanic Activity",
+		"hurryCostModifier": 25,
+	},
+{
+		"name": "Coral Reef Bleaching",
+                "food": 1,
+                "requiredTech": "Thermal Maximum",
+		"hurryCostModifier": 25,
+	},
+
+	]

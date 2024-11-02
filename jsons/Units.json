@@ -1,0 +1,672 @@
+[
+
+	// Info according to Civilization Wiki and https://www.civfanatics.com/civ5/info/units/gods-and-kings/
+
+	/* Ancient Era */
+	{
+		"name": "Geochemical Process",
+		"unitType": "Civilian",
+		"movement": 2,
+		"cost": 106,
+		"uniques": ["Cost increases by [30] when built","May travel on Water tiles without embarking","Founds a new city <by consuming this unit>", "Excess Food converted to Production when under construction",
+			"Requires at least [2] population"],
+                "civilopediaText": [
+			{"text": "There are at least five geochemical processes that affect dissolved organic compounds in water. They are sorption/partition, precipitation, volatilization, oxidation/reduction both chemical and biochemical, and complexation. These processes are involved in the distribution and fate of organic molecules in water."}
+		]
+		"hurryCostModifier": 20
+	},
+        {
+		"name": "Warrior",
+		"unitType": "Rock",
+		"movement": 1,
+		"cost": 90,
+                "requiredTech": "Formation of Earth",
+                "uniques": ["Can instantly construct a [Volcano] improvement <by consuming this unit>","Can instantly construct a [Lava Lake] improvement <by consuming this unit>", "Automation is a primary action"],
+		"attackSound": "nonmetalhit",
+        "civilopediaText": [
+			{"text": "Volcanic Rocks are rocks formed from lava erupted from a volcano. Like all rock types, the concept of volcanic rock is artificial, and in nature volcanic rocks grade into hypabyssal and metamorphic rocks and constitute an important element of some sediments and sedimentary rocks. For these reasons, in geology, volcanics and shallow hypabyssal rocks are not always treated as distinct. In the context of Precambrian shield geology, the term volcanic is often applied to what are strictly metavolcanic rocks. Volcanic rocks and sediment that form from magma erupted into the air are called pyroclastics, and these are also technically sedimentary rocks.
+
+."}
+		]
+	},
+	{
+		"name": "Archea",
+		"unitType": "Microorganism",
+		"movement": 2,
+		"strength": 7,
+		"cost": 40,
+                "obsoleteTech": "Eukaryotes",
+                "requiredTech": "First Life Forms",
+                "uniques": ["Limited to [2] per Civilization","Can build [Stromatolites] improvements on tiles", "Automation is a primary action"],
+		"attackSound": "nonmetalhit",
+        "civilopediaText": [
+			{"text": "is a domain of single-celled organisms. These microorganisms lack cell nuclei and are therefore prokaryotic. Archaea were initially classified as bacteria, receiving the name archaebacteria, but this term has fallen out of use."}
+		]
+	},
+        {
+		"name": "Bacteria",
+		"unitType": "Microorganism",
+		"movement": 2,
+		"strength": 10,
+		"cost": 68,
+                "obsoleteTech": "Eukaryotes",
+                "requiredTech": "First Life Forms",
+                "uniques": ["Limited to [2] per Civilization","Can build [Stromatolites] improvements on tiles", "Automation is a primary action"],
+		"attackSound": "nonmetalhit",
+        "civilopediaText": [
+			{"text": "Bacterias are ubiquitous, mostly freeliving organisms often consisting of one biological cell. They constitute a large domain of prokaryotic microorganisms. Typically a few micrometres in length, bacteria were among the first life forms to appear on Earth, and are present in most of its habitats. Bacteria inhabit soil, water, acidic hot springs, radioactive waste, and the deep biosphere of Earth's crust. Bacteria play a vital role in many stages of the nutrient cycle by recycling nutrients and the fixation of nitrogen from the atmosphere. The nutrient cycle includes the decomposition of dead bodies; bacteria are responsible for the putrefaction stage in this process. In the biological communities surrounding hydrothermal vents and cold seeps, extremophile bacteria provide the nutrients needed to sustain life by converting dissolved compounds, such as hydrogen sulphide and methane, to energy. Bacteria also live in mutualistic, commensal and parasitic relationships with plants and animals. Most bacteria have not been characterised and there are many species that cannot be grown in the laboratory. The study of bacteria is known as bacteriology, a branch of microbiology."}
+		]
+	},
+
+        {
+		"name": "Eukaryote",
+		"unitType": "Microorganism",
+		"movement": 2,
+		"strength": 15,
+		"cost": 80,
+                "requiredTech": "Eukaryotes",
+                "uniques": ["May create improvements on water resources","Limited to [2] per Civilization","Cost increases by [50] per owned city","Can build [Algae] improvements on tiles","Can build [Charnia] improvements on tiles","Can build [Coral] improvements on tiles","Can build [Moss] improvements on tiles","Can build [Cooksonia] improvements on tiles","Can build [Seed Plant] improvements on tiles","Can build [Archaeopteris] improvements on tiles", "Automation is a primary action"],
+		"attackSound": "nonmetalhit",
+        "civilopediaText": [
+			{"text": "Eukaryotes constitute the domain of Eukarya or Eukaryota, organisms whose cells have a membrane-bound nucleus. All animals, plants, fungi, and many unicellular organisms are eukaryotes. They constitute a major group of life forms alongside the two groups of prokaryotes, the Bacteria and the Archaea. Eukaryotes represent a small minority of the number of organisms, but given their generally much larger size, their collective global biomass is much larger than that of prokaryotes."}
+		]
+	},
+        {
+		"name": "Anomalocaris",
+		"unitType": "Aquatic Arthropoda",
+		"movement": 3,
+		"strength": 30,
+		"cost": 160,
+                "requiredTech": "Complex Ecosystems",
+                "promotions": ["Dinocarida","Radiodonta","Anomalocarididae"],
+                "obsoleteTech": "Marine Biodiversity",
+                "uniques": ["[+50]% Strength <vs [Trilobite] units>"],
+		"attackSound": "nonmetalhit",
+        "civilopediaText": [
+			{"text": "Anomalocaris is one of the largest animals of the Cambrian, and thought to be one of the earliest examples of an apex predator, though others have been found in older Cambrian lagerstätten deposits."}
+		]
+	},
+        {
+		"name": "Opabinia",
+		"unitType": "Cambrian Aquatic Animalia",
+		"movement": 2,
+		"strength": 25,
+		"cost": 120,
+                "requiredTech": "Complex Ecosystems",
+                "obsoleteTech": "Marine Biodiversity",
+                "promotions": ["Lobopodia","Dinocarida"],
+                "uniques": ["[+50]% Strength <vs [Trilobite] units>"],
+		"attackSound": "nonmetalhit",
+        "civilopediaText": [
+			{"text": "Opabinia regalis is an extinct, stem group arthropod found in the Middle Cambrian Burgess Shale Lagerstätte 505 million years ago of British Columbia. Opabinia was a soft-bodied animal, measuring up to 7 cm in body length, and its segmented trunk had flaps along the sides and a fan-shaped tail. The head shows unusual features: five eyes, a mouth under the head and facing backwards, and a clawed proboscis that probably passed food to the mouth. Opabinia probably lived on the seafloor, using the proboscis to seek out small, soft food."}
+		]
+	},
+        {
+		"name": "Kerygmachela",
+		"unitType": "Aquatic Ecdysozoa",
+		"movement": 4,
+		"strength": 15,
+		"cost": 90,
+                "requiredTech": "Complex Ecosystems",
+                "obsoleteTech": "Marine Biodiversity",
+                "promotions": ["Lobopodia"],
+                "uniques": ["[+10]% Strength <vs [Trilobite] units>","[+30]% Strength <vs [Aquatic Arthropoda] units>"],
+		"attackSound": "nonmetalhit",
+        "civilopediaText": [
+			{"text": "The head of Kerygmachela possesses a pair of well-developed frontal appendages which correspond to those of other dinocaridids and siberiid lobopodians. Each of them terminates in a series of long spines. A pair of sessile, slit-like compound eyes is located slightly behind the base of these appendages."}
+		]
+	},
+        {
+		"name": "Thelodonti",
+		"unitType": "Aquatic Chordata",
+		"movement": 4,
+		"strength": 28,
+		"cost": 90,
+                "requiredTech": "First Vertebrates",
+                "obsoleteTech": "Diversification of Jawed Fish",
+		"attackSound": "nonmetalhit",
+                "promotions": ["Vertebrata","Agnatha"],
+        "civilopediaText": [
+			{"text": "Thelodonti is a class of extinct Palaeozoic jawless fishes with distinctive scales instead of large plates of armor.
+Thelodonts are united in possession of thelodont scales. This defining character is not necessarily a result of shared ancestry, as it may have been evolved independently by different groups. Thus the thelodonts are generally thought to represent a polyphyletic group, although there is no firm agreement on this point. On the basis that they are monophyletic, they are reconstructed as being ancestrally marine and invading freshwater on multiple occasions."}
+		]
+	},
+        {
+		"name": "Guiyu",
+		"unitType": "Aquatic Chordata",
+		"movement": 4,
+		"strength": 38,
+		"cost": 100,
+                "obsoleteTech": "Warm Climate",
+                "requiredTech": "Diversification of Jawed Fish",
+		"attackSound": "nonmetalhit",
+                "promotions": ["Osteichthyes"],
+        "civilopediaText": [
+			{"text": "is one of the earliest articulated bony fish discovered. Fossils of Guiyu have been found in what is now Qujing, Yunnan, China, in late Silurian marine strata, about 425 million years old.
+Guiyu is part of the Xiaoxiang fauna which is rich in fossils representing a marine ecosystem. Found in the late Ludlow-aged Kuanti Formation, the remains were dated using conodonts as index fossils. The Xiaoxiang fauna also includes galeaspids, placoderms and acanthodians."}
+		]
+	},
+        {
+		"name": "Eurypterus",
+		"unitType": "Aquatic Arthropoda",
+		"movement": 3,
+		"strength": 30,
+		"cost": 70,
+                "requiredTech": "Marine Biodiversity",
+		"attackSound": "nonmetalhit",
+                "promotions": ["Chelicerata","Eurypterida"],
+        "civilopediaText": [
+			{"text": "Eurypterus is an extinct genus of eurypterid, a group of organisms commonly called sea scorpions. The genus lived during the Silurian period, from around 432 to 418 million years ago. Eurypterus is by far the most well-studied and well-known eurypterid. Eurypterus fossil specimens probably represent more than 95% of all known eurypterid specimens.
+Eurypterus fossils often occur in similar sizes in a given area. This may be a result of the fossils being sorted into windrows as they were being deposited in shallow waters by storms and wave action.
+
+The Eurypterus body is broadly divided into two parts: the prosoma and the opisthosoma in turn divided into the mesosoma and the metasoma.
+
+The prosoma is the forward part of the body, it is actually composed of six segments fused together to form the head and the thorax.[12] It contains the semicircular to subrectangular platelike carapace. On the dorsal side of the latter are two large crescent-shaped compound eyes. They also possessed two smaller light-sensitive simple eyes, the median ocelli near the center of the carapace on a small elevation known as the ocellar mound. Underneath the carapace is the mouth and six appendages, usually referred to in Roman numerals I VI. Each appendage in turn is composed of nine segments known as podomeres labeled in Arabic numerals 1 9. The first segments which connect the appendages to the body are known as the coxa plural coxae. It lived up to the Permian Triassic Extinction."}
+		]
+	},
+        {
+		"name": "Megamastax",
+		"unitType": "Aquatic Chordata",
+		"movement": 4,
+		"strength": 15,
+		"cost": 40,
+                "obsoleteTech": "Warm Climate",
+                "promotions": ["Osteichthyes"],
+                "requiredTech": "Marine Biodiversity",
+		"attackSound": "nonmetalhit",
+        "civilopediaText": [
+			{"text": "Megamastax is a genus of lobe-finned fish which lived during the late Silurian period, about 423 million years ago, in China. Before the discovery of Megamastax, it was thought that jawed vertebrates called gnathostomes were limited in size and variation before the Devonian period. Megamastax is known only from jaw bones and it is estimated that it reached about 1 metre in long."}
+		]
+	},
+        {
+		"name": "Dunkleosteous",
+		"unitType": "Aquatic Chordata",
+		"movement": 4,
+		"strength": 110,
+		"cost": 125,
+                "obsoleteTech": "Late Devonian Extinction",
+                "requiredTech": "Placodermi",
+                "promotions": ["Vertebrata","Placodermi"],
+		"attackSound": "nonmetalhit",
+        "civilopediaText": [
+			{"text": "Dunkleosteus fossils were first discovered in 1867 by Jay Terrell, a hotel owner and amateur paleontologist who collected fossils in the cliffs along Lake Erie near his home of Sheffield Lake, Ohio, United States. Terrell donated his fossils to John Strong Newberry and the Ohio Geological Survey, who in 1873 described all the material as belonging to a single new genus and species Dinichthys herzeri. However, with later fossil discoveries, by 1875 it became apparent multiple large fish species were present in the Ohio Shale. Dinichthys herzeri came from the lowermost layer, the Huron Shale, whereas most of the fossils were coming from the younger Cleveland Shale and represented a distinct species. Newberry named this more common species Dinichthys terrelli, after Terrell. Most of Terrell's original collection does not survive, having been destroyed by a fire in Elyria, Ohio, in 1873. Dunkleosteus fossils can also be found in the Birdsong Shale formation in Tennessee.
+
+Dunkleosteus terrelli possessed a four-bar linkage mechanism for jaw opening that incorporated connections between the skull, the thoracic shield, the lower jaw and the jaw muscles joined by movable joints. This mechanism allowed D. terrelli to both achieve a high speed of jaw opening, opening their jaws in 20 milliseconds and completing the whole process in 50–60 milliseconds comparable to modern fishes that use suction feeding to assist in prey capture and producing high bite forces when closing the jaw, estimated at 4,414 N at the tip and 5,363 N at the blade edge, or even up to 6,170 N and 7,495 N respectively. The bite force is considered the highest of any living or fossil fish, and among the highest of any animal. The pressures generated in those regions were high enough to puncture or cut through cuticle or dermal armor, suggesting that D. terrelli was adapted to prey on free-swimming, armored prey such as ammonites and other placoderms."}
+		]
+	},
+        {
+		"name": "Microbrachius",
+		"unitType": "Aquatic Chordata",
+		"movement": 2,
+		"strength": 50,
+		"cost": 40,
+                "obsoleteTech": "Late Devonian Extinction",
+                "requiredTech": "Placodermi",
+                "promotions": ["Placodermi"],
+		"attackSound": "nonmetalhit",
+        "civilopediaText": [
+			{"text": "Microbrachius is an extinct genus of tiny, advanced antiarch placoderms closely related to the bothriolepids. Specimens range in age from the Lower Devonian Late Emsian Stage 393.3 Ma to the Middle Devonian Upper Givetian Stage 382.7 Ma. They are characterized by having large heads with short thoracic armor of an average length of 2 to 4 cm. There are patterns of small, but noticeable tubercles on the armor, with the arrangement varying from species to species. Specimens of Microbrachius have been found in Scotland, Belarus, Estonia, and China.
+
+Microbrachius dicki is the earliest placoderm and vertebrate that shows evidence of internal fertilization."}
+		]
+	},
+
+        {
+		"name": "Goldringia",
+		"unitType": "Aquatic Mollusca",
+		"movement": 2,
+		"strength": 83,
+		"cost": 60,
+                "obsoleteTech": "Late Devonian Extinction",
+                "requiredTech": "Ammonites",
+                "promotions": ["Cephalopoda"],
+		"attackSound": "nonmetalhit",
+        "civilopediaText": [
+			{"text": "Goldringia is an extinct nautilid of the Rutoceratidae family that lived during the Middle Devonian. It is known from New York, Ohio, and Indiana in the United States.
+
+Goldringia, named by Rousseau Flower in 1945, has a gyroconic shell, coiled so as whorls do not touch. The cross section is slightly broader than high; the dorsum on the inside curvature is flatter than venter on the outside curvature. The siphuncle is ventral, tubular and free of organic deposits. The shell is encircled periodically by crenulate frills, each of which is bent apically so as for form a well defined hyponomic sinus, but are without spoutlike or spinose projections.
+
+Halloceras, from the Lower Devonian, is a similar, gyroconiform rutoceratid."}
+		]
+	},
+        {
+		"name": "Stethacanthus",
+		"unitType": "Aquatic Chordata",
+		"movement": 5,
+		"strength": 70,
+		"cost": 40,
+                "obsoleteTech": "Rise of Coal Forests",
+                "requiredTech": "Warm Climate",
+                "promotions": ["Vertebrata","Chondrichthyes"],
+		"attackSound": "nonmetalhit",
+        "civilopediaText": [
+			{"text": "Stethacanthus had different sizes depending on species, S. altonensis had length about 1.5 metres, while S. productus reached 3 metres. In many respects, it had a shark-like appearance. However, it is best known for its unusually shaped dorsal fin, which resembled an anvil or ironing board. Small spikes (enlarged versions of the dermal denticles commonly covering shark skin) covered this crest, and the ratfish's head as well. The crest may have played a role in mating rituals, aided in clamping to the belly of larger marine animals, or been used to frighten potential predators.
+
+Like other members of Stethacanthidae, Stethacanthus had unique pelvic girdles, single-crowned and non-growing scales, a pectoral fin composed of metapterygium with an accompanying whip attached and a distinctive first dorsal fin and spine, termed the spine-brush complex. The neurocranium had a narrow suborbital shelf, a broad supraorbital shelf, a short otico-occipital division, large orbits, and cladodontic teeth that aligned precisely. In addition to these features, Stethacanthus also had male pelvic claspers with non-prismatic calcified cartilage at the distal ends."}
+		]
+	},
+        {
+		"name": "Hyneria",
+		"unitType": "Aquatic Chordata",
+		"movement": 4,
+		"strength": 50,
+		"cost": 30,
+                "obsoleteTech": "Rise of Coal Forests",
+                "requiredTech": "Warm Climate",
+                "promotions": ["Sarcopterygii","Tetrapodomorpha"],
+		"attackSound": "nonmetalhit",
+        "civilopediaText": [
+			{"text": "Hyneria was a large fish. H. lindae is estimated around 2.5–3 metres. An isolated cleithrum AM 6545 likely belongs to an individual of at least 2.7 metres. The largest complete jaw reaches 38 centimetres, but there is much larger fragment possibly from a jaw about twice that length, although that specimen may belong to a rhizodont instead. Assuming this jaw fragment does pertain to Hyneria, and assuming proportions similar to more complete tristichopterids, it suggests H. lindae could possibly reach lengths up to 3.5 metres. A second species, H. uldezinye, was once estimated as having a length of between 2 and 4 metres before being described. However, the species description estimates that the largest specimen belongs to an animal about 3 metres. Its skull had heavy, ornamented dermal bones and its lower jaw was relatively long and shallow. The teeth were stout, with those of the premaxilla forming fangs upwards of 5 cm. Its body was covered by cycloid scales. It had large sensory canals to aid in detection of possible prey, as the freshwater environment it inhabited likely was murky and had low visibility. Adult individuals retained juvenile features, suggesting that they were likely neotenic."}
+		]
+	},
+        {
+		"name": "Itchyostega",
+		"unitType": "Land Chordata",
+		"movement": 2,
+		"strength": 80,
+		"cost": 140,
+                "obsoleteTech": "Rise of Coal Forests",
+                "requiredTech": "Amphibians",
+                "uniques": ["May travel on Water tiles without embarking"],
+                "promotions": ["Vertebrata","Tetrapoda"],
+		"attackSound": "nonmetalhit",
+        "civilopediaText": [
+			{"text": "Ichthyostega is an extinct genus of limbed tetrapodomorphs from the Late Devonian of what is now Greenland. It was among the earliest four-limbed vertebrates ever in the fossil record and was one of the first with weight-bearing adaptations for terrestrial locomotion. Ichthyostega possessed lungs and limbs that helped it navigate through shallow water in swamps. Although Ichthyostega is often labelled a tetrapod because of its limbs and fingers, it evolved long before true crown group tetrapods and could more accurately be referred to as a stegocephalian or stem tetrapod. Likewise, while undoubtedly of amphibian build and habit, it is not a true member of the group in the narrow sense, as the first modern amphibians members of the group Lissamphibia appeared in the Triassic Period. Until finds of other early stegocephalians and closely related fishes in the late 20th century, Ichthyostega stood alone as a transitional fossil between fish and tetrapods, combining fish and tetrapod features. Newer research has shown that it had an unusual anatomy, functioning more akin to a seal than a salamander, as previously assumed."}
+		]
+	},
+        {
+		"name": "Tiktaalik",
+		"unitType": "Land Chordata",
+		"movement": 2,
+		"strength": 65,
+		"cost": 120,
+                "obsoleteTech": "Rise of Coal Forests",
+                "requiredTech": "Amphibians",
+                "uniques": ["May travel on Water tiles without embarking"],
+                "promotions": ["Sarcopterygii"],
+		"attackSound": "nonmetalhit",
+        "civilopediaText": [
+			{"text": "Unearthed in Arctic Canada, Tiktaalik is a non-tetrapod member of Osteichthyes (bony fish), complete with scales and gills—but it has a triangular, flattened head and unusual, cleaver-shaped fins. Its fins have thin ray bones for paddling like most fish, but they also have sturdy interior bones that would have allowed Tiktaalik to prop itself up in shallow water and use its limbs for support as most four-legged animals do. Those fins and other mixed characteristics mark Tiktaalik as a crucial transition fossil, a link in evolution from swimming fish to four-legged vertebrates. This and similar animals might be the common ancestors of all vertebrate terrestrial fauna: amphibians, reptiles, birds and mammals."}
+		]
+	},
+{
+		"name": "Crassigyrinus",
+		"unitType": "Aquatic Chordata",
+		"movement": 3,
+		"strength": 90,
+		"cost": 190,
+                "requiredTech": "Amphibian Proliferation",
+                "promotions": ["Sarcopterygii","Tetrapodomorpha"],
+		"attackSound": "nonmetalhit",
+        "civilopediaText": [
+			{"text": "Crassigyrinus had a streamlined body up to 2 meters in length. Its limbs were tiny and virtually useless, implying that the animal was almost completely aquatic. Crassigyrinus had unusually large jaws, equipped with two rows of sharp teeth, the second row having a pair of palatal fangs. Studies have shown that Crassigyrinus may have been able to open its mouth as wide as 60 degrees, which suggests that it was a powerful predator with a strong bite. This strongly suggests that it was ideally suited for catching fish, and the animal was probably a fast-moving predator."}
+		]
+	},
+{
+		"name": "Barameda",
+		"unitType": "Aquatic Chordata",
+		"movement": 4,
+		"strength": 100,
+		"cost": 160,
+                "requiredTech": "Diversification",
+                "promotions": ["Sarcopterygii","Rhizodontia"],
+		"attackSound": "nonmetalhit",
+        "civilopediaText": [
+			{"text": "The Barameda had an extremely elongated and thick body typical of Carboniferous rhizodonts. It was covered with moderately thin, cycloidal scales, with thick bony plates covering its head and operculum (gill flaps), a tightly fused Skull roof, and extremely prominent, sharp fangs, devoid of serrations or cutting edges. Its scales preserved a lateral line. Originally it was estimated to have a typical narrow pectoral fin, however a later study shows that it had a wider pectoral fin like other Carboniferous rhizodonts."}
+		]
+	},
+{
+		"name": "Saivodus",
+		"unitType": "Aquatic Chordata",
+		"movement": 4,
+		"strength": 160,
+		"cost": 190,
+                "requiredTech": "Diversification",
+                "promotions": ["Chondrichthyes"],
+		"attackSound": "nonmetalhit",
+        "civilopediaText": [
+			{"text": "Saivodus is an extinct genus of ctenacanthiform fish that existed in early Mississippian of the Carboniferous period. Fossils have been found in Ireland, Scotland, England, Belgium, Morocco, and the United States. Teeth assigned to that genus are also known from the Permian (Leonardian) Kaibab Formation."}
+		]
+	},
+{
+		"name": "Helicoprion",
+		"unitType": "Aquatic Chordata",
+		"movement": 5,
+		"strength": 120,
+		"cost": 140,
+                "requiredTech": "Diversification",
+                "promotions": ["Chondrichthyes"],
+		"attackSound": "nonmetalhit",
+        "civilopediaText": [
+			{"text": "Saivodus is an extinct genus of ctenacanthiform fish that existed in early Mississippian of the Carboniferous period. Fossils have been found in Ireland, Scotland, England, Belgium, Morocco, and the United States. Teeth assigned to that genus are also known from the Permian (Leonardian) Kaibab Formation."}
+		]
+	},
+{
+		"name": "Cladoselache",
+		"unitType": "Aquatic Chordata",
+		"movement": 3,
+		"strength": 170,
+		"cost": 210,
+                "requiredTech": "Diversification",
+                "promotions": ["Chondrichthyes"],
+		"attackSound": "nonmetalhit",
+        "civilopediaText": [
+			{"text": "Saivodus is an extinct genus of ctenacanthiform fish that existed in early Mississippian of the Carboniferous period. Fossils have been found in Ireland, Scotland, England, Belgium, Morocco, and the United States. Teeth assigned to that genus are also known from the Permian (Leonardian) Kaibab Formation."}
+		]
+	},
+{
+		"name": "Diplocaulus",
+		"unitType": "Aquatic Chordata",
+		"movement": 3,
+		"strength": 50,
+		"cost": 140,
+                "requiredTech": "Amphibian Proliferation",
+                "promotions": ["Tetrapoda","Amphibia"],
+		"attackSound": "nonmetalhit",
+        "civilopediaText": [
+			{"text": "Diplocaulus (meaning double stalk) is an extinct genus of lepospondyl amphibians which lived from the Late Carboniferous to the Late Permian of North America and Africa. Diplocaulus is by far the largest and best-known of the lepospondyls, characterized by a distinctive boomerang-shaped skull. Remains attributed to Diplocaulus have been found from the Late Permian of Morocco and represent the youngest-known occurrence of a lepospondyl."}
+		]
+	},
+{
+		"name": "Barbclabornia",
+		"unitType": "Aquatic Chordata",
+		"movement": 3,
+		"strength": 200,
+		"cost": 170,
+                "requiredTech": "Panthalassa Ocean",
+                "promotions": ["Chondrichthyes"],
+		"attackSound": "nonmetalhit",
+        "civilopediaText": [
+			{"text": "Barbclabornia is an extinct genus of xenacanth from the Early Permian and possibly upper Pennsylvanian of North America. The genus contains a single described species B. luedersensis. It has been found in several places within Asselian and Atinskian formations, including the Clear Fork, Albany, Wichita, and Dunkard Groups. There are possible examples from the Gzhelian-aged Admire, Monongahela, and Conemaugh groups.
+
+Barbclabornia was initially only known from isolated teeth, which were assigned to the genus Xenacanthus in 1970 based on the belief that all Upper Paleozoic xenacanthids belonged to said genus. In 2003, X. luedersensis would be reassigned to a new genus after differences in tooth structure were described, and with the discovery of a large palatoquadrate bearing luedersensis teeth at Lake Frederick.
+
+The genus Barbclabornia honors Barbara and Alvie Claborn, who discovered and helped prepare the palatoquadrate respectively."}
+		]
+	},
+{
+		"name": "Elephantoceras",
+		"unitType": "Aquatic Mollusca",
+		"movement": 2,
+		"strength": 170,
+		"cost": 90,
+                "requiredTech": "Marine Reefs",
+                "promotions": ["Cephalopoda"],
+		"attackSound": "nonmetalhit",
+        "civilopediaText": [
+			{"text": "Elephantoceras is genus of a Middle Permian ammonite belonging to the goniatitid family Pseudohaloritidae. Fossils belonging to this genus were found in China."}
+		]
+	},
+{
+		"name": "Wodnika",
+		"unitType": "Aquatic Chordata",
+		"movement": 4,
+		"strength": 210,
+		"cost": 200,
+                "requiredTech": "Decline of Marine Biodiversity",
+                "promotions": ["Chondrichthyes"],
+		"attackSound": "nonmetalhit",
+        "civilopediaText": [
+			{"text": "Wodnika is an extinct genus of ctenacanth which lived in the Late Permian period in the present area of Germany and Russia. It measured about 1 m in length and its tail shape indicates it was probably a good swimmer. Internally, the cartilage skeleton is preserved on the fossil, which is fairly rare for fossilized shark-like chondrichthyans."}
+		]
+	},
+{
+		"name": "Neopteroplax",
+		"unitType": "Land Chordata",
+		"movement": 2,
+		"strength": 125,
+		"cost": 210,
+                "uniques": ["May travel on Water tiles without embarking"],
+                "requiredTech": "Diversification",
+                "promotions": ["Sarcopterygii","Tetrapodomorpha"],
+		"attackSound": "nonmetalhit",
+        "civilopediaText": [
+			{"text": "Neopteroplax is an extinct genus of eogyrinid embolomere closely related to European genera such as Eogyrinus and Pteroplax. Members of this genus were among the largest embolomeres (and Carboniferous tetrapods in general) in North America. Neopteroplax is primarily known from a large (40 cm) skull found in Ohio, although fragmentary embolomere fossils from Texas and New Mexico have also been tentatively referred to the genus. Despite its similarities to specific European embolomeres, it can be distinguished from them due to a small number of skull and jaw features, most notably a lower surangular at the upper rear portion of the lower jaw."}
+		]
+	},
+        {
+		"name": "Archaeothyris",
+		"unitType": "Land Chordata",
+		"movement": 3,
+		"strength": 110,
+		"cost": 190,
+                "requiredTech": "Early Reptiles",
+                "promotions": ["Synapsida","Pelicosauria"],
+		"attackSound": "nonmetalhit",
+        "civilopediaText": [
+			{"text": "Archaeothyris is an extinct genus of ophiacodontid synapsid that lived during the Late Carboniferous and is known from Nova Scotia. Dated to 306 million years ago, Archaeothyris, along with a more poorly known synapsid called Echinerpeton, are the oldest undisputed synapsids known. The name means ancient window (Greek), and refers to the opening in the skull, the temporal fenestra, which indicates this is an early synapsid. Protoclepsydrops also from Nova Scotia is slightly older but is known by very fragmentary materials."}
+		]
+	},
+        {
+		"name": "Hylonomus",
+		"unitType": "Land Chordata",
+		"movement": 3,
+		"strength": 80,
+		"cost": 130,
+                "requiredTech": "Early Reptiles",
+                "promotions": ["Reptilia"],
+		"attackSound": "nonmetalhit",
+        "civilopediaText": [
+			{"text": "Hylonomus is an extinct genus of reptile that lived 318 million years ago during the Bashkirian stage of the Late Carboniferous. It is the earliest known crown group amniote and the oldest known unquestionable reptile, with the only known species being Hylonomus lyelli. Despite being amongst the oldest known reptiles, it is not the most primitive member of the group, being a eureptile more derived than either parareptiles or captorhinids."}
+		]
+	},
+        {
+		"name": "Meganeura",
+		"unitType": "Flying Arthropoda",
+		"movement": 5,
+		"strength": 60,
+		"cost": 140,
+                "requiredTech": "Insect Gigantism",
+                "promotions": ["Insecta","Palaeoptera"],
+		"attackSound": "nonmetalhit",
+        "civilopediaText": [
+			{"text": "Meganeura is a genus of extinct insects from the Late Carboniferous (approximately 300 million years ago). They resembled and are related to the present-day dragonflies and damselflies, and were predatory, with their diet mainly consisting of other insects. The genus belongs to the Meganeuridae, a family including other similarly giant dragonfly-like insects ranging from the Late Carboniferous to Middle Permian. With single wing length reaching 32 centimetres and a wingspan about 65–75 cm, M. monyi is one of the largest-known flying insect species."}
+		]
+	},
+        {
+		"name": "Arthropleura",
+		"unitType": "Land Arthropoda",
+		"movement": 1,
+		"strength": 120,
+		"cost": 230,
+                "requiredTech": "Insect Gigantism",
+                "promotions": ["Myriapoda"],
+		"attackSound": "nonmetalhit",
+        "civilopediaText": [
+			{"text": "All fossils of Arthropleura available are believed to be exuviae (molting shells) instead of carcasses. The good preservation of its thin exuviae, buttressing plates around the leg base, and evidence of 3 cm deep trackway fossils (namely the ichnotaxon Diplichnites cuithensis) altogether suggests that they had a sturdy exoskeleton and roamed the land. Arthropleura was once thought to have lived mainly in coal forests. However, it probably lived a forest-independent life, as fossils of the trackway were found in more open areas and fossils were found even after the Carboniferous rainforest collapse.
+
+There is no solid evidence for the diet of Arthropleura, as the fossils that were once considered coprolites, including lycopod fragments and pteridophyte spores, are later considered to be merely coexistence of plant fossils and exuvia remains. Nonetheless, the interpretation of a herbivorous diet is still accepted, and it is estimated that Arthropleura ate not only spores but also sporophylls and seeds, based on its enormous size that possibly required ample nutrition.
+
+When it comes to the Arthropleura's diet, it was also found that Arthropleura had a well-preserved gut region which was packed with plant remains, mainly lycopod fragments such as Lepidodendron. This information helped in concluding that Arthropleura was not only herbivorous but also possibly omnivorous.
+
+Through careful observation of the Arthropleura's fossils, the likeliest modes of behaviour of the Arthropleura were determined. The Arthropleura would invade exposed environments and retreat to levee forests during wet seasons. Thin cuticles on the arthropleurids indicate that these creatures were exposed to a terrestrial habit."}
+		]
+	},
+        {
+		"name": "Edaphosaurus",
+		"unitType": "Land Chordata",
+		"movement": 3,
+		"strength": 120,
+		"cost": 290,
+                "requiredTech": "Lycophytes and Horsetails",
+                "promotions": ["Synapsida","Sphenacomorpha"],
+		"attackSound": "nonmetalhit",
+        "civilopediaText": [
+			{"text": "Edaphosaurus is important as one of the earliest-known, large, plant-eating (herbivorous), amniote tetrapods (four-legged land-living vertebrates). In addition to the large tooth plates in its jaws, the most characteristic feature of Edaphosaurus is a sail on its back. A number of other synapsids from the same time period also have tall dorsal sails, most famously the large apex predator Dimetrodon. However, the sail on Edaphosaurus is different in shape and morphology. The first fossils of Edaphosaurus came from the Texas Red Beds in North America, with later finds in New Mexico, Oklahoma, West Virginia, and Ohio. Fragmentary fossils attributed to Edaphosaurus have also been found in eastern Germany in Central Europe.
+
+The head of Edaphosaurus was short, relatively broad, triangular in outline, and remarkably small compared to its body size. The deep lower jaw likely had powerful muscles and the marginal teeth along the front and sides of its jaws had serrated tips, helping Edaphosaurus to crop bite-sized pieces from tough terrestrial plants. Back parts of the roof of the mouth and the inside of the lower jaw held dense batteries of peglike teeth, forming a broad crushing and grinding surface on each side above and below. Its jaw movements were propalinal (front to back). Early descriptions suggested that Edaphosaurus fed on invertebrates such as mollusks, which it would have crushed with its tooth plates. However, paleontologists now think that Edaphosaurus ate plants.
+
+The sail along the back of Edaphosaurus was supported by hugely elongated neural spines from neck to lumbar region, connected by tissue in life. When compared with the sail of Dimetrodon, the vertebral spines are shorter and heavier, and bear numerous small crossbars. Edaphosaurus and other members of the Edaphosauridae evolved tall dorsal sails independently of sail-back members of the Sphenacodontidae such as Dimetrodon and Secodontosaurus that lived at the same time, an unusual example of parallel evolution.
+
+Researchers have suggested that such sails could have provided camouflage, wind-powered sailing over water, anchoring for extra muscle support and rigidity for the backbone, protection against predator attacks, fat-storage areas, body-temperature control surfaces, or sexual display and species recognition."}
+		]
+	},
+        {
+		"name": "Lupeosaurus",
+		"unitType": "Land Chordata",
+		"movement": 3,
+		"strength": 140,
+		"cost": 250,
+                "requiredTech": "Siberia",
+                "promotions": ["Synapsida","Pelicosauria"],
+		"attackSound": "nonmetalhit",
+        "civilopediaText": [
+			{"text": "Lupeosaurus is an extinct genus of pelycosaurian synapsids, assigned to the family Edaphosauridae. Lupeosaurus was about 3 metres long and weighed around 166 kilograms."}
+		]
+	},
+        {
+		"name": "Ctenospondylus",
+		"unitType": "Land Chordata",
+		"movement": 3,
+		"strength": 140,
+		"cost": 250,
+                "requiredTech": "Siberia",
+                "promotions": ["Synapsida","Pelicosauria"],
+		"attackSound": "nonmetalhit",
+        "civilopediaText": [
+			{"text": "Ctenospondylus (comb vertebra) is an extinct genus of sphenacodontid synapsid
+Species were about three meters long. The genus is known only from the Seymouran Land Vertebrate Faunachron, which is equivalent to the upper part of the Artinskian stage and the lowermost Kungurian stage of the Early Permian. Its fossils were found in the U.S. states of Ohio and Texas. It was a carnivore and preyed upon animals close to its size. Ctenospondylus had a long tail, short back spines, and a very deep yet narrow skull with massive jaws that had sharp teeth. Because of its large size, it was probably the apex predator in its environment, and might have competed with other predators like Dimetrodon for food. A sphenacodontid, it was a close relative of Dimetrodon."}
+		]
+	},
+        {
+		"name": "Dimetrodon",
+		"unitType": "Land Chordata",
+		"movement": 2,
+		"strength": 180,
+		"cost": 300,
+                "requiredTech": "Reduction of Coal Swamps",
+                "promotions": ["Synapsida","Pelicosauria"],
+		"attackSound": "nonmetalhit",
+        "civilopediaText": [
+			{"text": "Dimetrodon is an extinct genus of non-mammalian synapsid belonging to the family Sphenacodontidae that lived during the Cisuralian age of the Early Permian period, around 295–272 million years ago. With most species measuring 1.7–4.6 m long and weighing 28–250 kg, the most prominent feature of Dimetrodon is the large neural spine sail on its back formed by elongated spines extending from the vertebrae. It was an obligate quadruped (it could only walk on four legs) and had a tall, curved skull with large teeth of different sizes set along the jaws. Most fossils have been found in the Southwestern United States, the majority of these coming from a geological deposit called the Red Beds of Texas and Oklahoma. More recently, its fossils have also been found in Germany and over a dozen species have been named since the genus was first erected in 1878.
+
+Dimetrodon is often mistaken for a dinosaur or as a contemporary of dinosaurs in popular culture, but it became extinct some 40 million years before the advent of dinosaurs. Although reptile-like in appearance and physiology, Dimetrodon is much more closely related to mammals than to reptiles, though it is not a direct ancestor of mammals. Dimetrodon is assigned to the non-mammalian synapsids, a group traditionally – but incorrectly – called mammal-like reptiles, but now known as stem mammals. This groups Dimetrodon together with mammals in the clade Synapsida, while reptiles are placed in a separate clade, Sauropsida. Single openings in the skull behind each eye, known as temporal fenestrae, and other skull features distinguish Dimetrodon and true mammals from most of the earliest sauropsids."}
+		]
+	},
+        {
+		"name": "Secodontosaurus",
+		"unitType": "Land Chordata",
+		"movement": 2,
+		"strength": 120,
+		"cost": 300,
+                "requiredTech": "Reduction of Coal Swamps",
+                "uniques": ["All adjacent units heal [25] HP when healing"],
+                "promotions": ["Synapsida","Pelicosauria"],
+		"attackSound": "nonmetalhit",
+        "civilopediaText": [
+			{"text": "Secodontosaurus (meaning cutting-tooth lizard) is an extinct genus of pelycosaur synapsids that lived from between about 285 to 272 million years ago during the Early Permian. Like the well known Dimetrodon, Secodontosaurus is a carnivorous member of the Eupelycosauria family Sphenacodontidae and has a similar tall dorsal sail. However, its skull is long, low, and narrow, with slender jaws that have teeth that are very similar in size and shape—unlike the shorter, deep skull of Dimetrodon (two-measure tooth), which has large, prominent canine-like teeth in front and smaller slicing teeth further back in its jaws. Its unusual long, narrow jaws suggest that Secodontosaurus may have been specialized for catching fish or for hunting prey that lived or hid in burrows or crevices. Although no complete skeletons are currently known, Secodontosaurus likely ranged from about 2 to 2.7 metres in length, weighing up to 110 kilograms."}
+		]
+	},
+        {
+		"name": "Ennatosaurus",
+		"unitType": "Land Chordata",
+		"movement": 2,
+		"strength": 190,
+		"cost": 350,
+                "requiredTech": "Thermal Maximum",
+                "promotions": ["Synapsida","Pelicosauria"],
+		"attackSound": "nonmetalhit",
+        "civilopediaText": [
+			{"text": "Ennatosaurus is an extinct genus of caseid synapsid that lived during the Middle Permian (late Roadian - early Wordian) in northern European Russia. The genus is only represented by its type species, Ennatosaurus tecton, which was named in 1956 by Ivan Antonovich Efremov. The species is known from at least six skulls associated with their lower jaws (two of them preserved with the hyoid apparatus), as well as from the postcranial bones of several juvenile individuals. Ennatosaurus has the typical caseid skull with a short snout tilted forward and very large external nares. However, it differs from other derived caseids by its postcranial skeleton with smaller proportions compared to the size of the skull. As with other advanced caseids, the teeth of Ennatosaurus were well suited for slicing and cutting vegetation. The presence of a highly developed hyoid apparatus indicates the presence of a massive and mobile tongue, which had to work in collaboration with the palatal teeth during swallowing. With a late Roadian - early Wordian age, Ennatosaurus is one of the last known caseids (with Lalieudorhynchus from southern France)."}
+		]
+	},
+        {
+		"name": "Moschops",
+		"unitType": "Land Chordata",
+		"movement": 2,
+		"strength": 150,
+		"cost": 320,
+                "requiredTech": "Early Mammal Ancestors",
+                "promotions": ["Tetrapoda","Synapsida","Therapsida"],
+		"attackSound": "nonmetalhit",
+        "civilopediaText": [
+			{"text": "Moschops were heavy set dinocephalian synapsids, measuring 2.7 metres in length, and weighing 129 kg on average and 327.4 kg in maximum body mass. They had small heads with broad orbits and heavily built short necks. Like other members of Tapinocephalidae, the skull had a tiny opening for the pineal organ. The occiput was broad and deep, but the skull was more narrow in the dorsal border. Furthermore, the pterygoid arches and the angular region of the jaw with heavily built jaw muscles. Due to that and the possession of long-crowned, stout teeth, it is believed that Moschops was a herbivore feeding on nutrient-poor and tough vegetation, like cycad stems. Due to the presumably nutrient-poor food, it is likely they had to feed for long periods of time. The anatomy of the taxa allowed them to open the elbow joints more widely, enabling them to move in a more mammal-like posture than some other animals at the time. This helped to carry their massive bodies more easily while feeding, as well as allowing them short bursts of speed. It has also been proposed that Moschops were possibly sub-aquatic. Moschops had rather thick skulls, prompting speculation that individuals could have competed with one another by head-butting. A 2017 published study would later confirm this by synchrotron scanning a Moschops capensis skull, which revealed numerous anatomical adaptations to the central nervous system for combative behaviour. They were likely preyed upon by titanosuchids and larger therocephalian species."}
+		]
+	},
+        {
+		"name": "Lemurosaurus",
+		"unitType": "Land Chordata",
+		"movement": 3,
+		"strength": 100,
+		"cost": 270,
+                "requiredTech": "Early Mammal Ancestors",
+                "promotions": ["Synapsida","Therapsida"],
+		"attackSound": "nonmetalhit",
+        "civilopediaText": [
+			{"text": "Lemurosaurus is a genus of extinct biarmosuchian therapsids from the Late Permian of South Africa. The Lemurosaurus is easily identifiable by its prominent eye crests, and large eyes. The name Lemurosaurus pricei was coined by paleontologist Robert Broom in 1949, based on a single small crushed skull, measured at approximately 86 millimeters in length, found on the Dorsfontein farm in Graaff-Reinet. To date, only two skulls of the Lemurosaurus have been discovered, so body size is unknown. The second larger, more intact, skull was found in 1974 by a team from the National Museum, Bloemfontein."}
+		]
+	},
+        {
+		"name": "Titanosuchus",
+		"unitType": "Land Chordata",
+		"movement": 3,
+		"strength": 100,
+		"cost": 300,
+                "requiredTech": "Early Mammal Ancestors",
+                "uniques": ["[+55]% Strength <vs [Moschops] units>"],
+                "promotions": ["Dinocephalia","Synapsida","Therapsida"],
+		"attackSound": "nonmetalhit",
+        "civilopediaText": [
+			{"text": "Titanosuchus ferox is an extinct species of dinocephalian therapsids that lived in the Middle Permian epoch in South Africa.
+
+Along with its close relatives, Jonkeria and Moschops, Titanosuchus inhabited present-day South Africa around 265 million years ago, in the Late Permian. Titanosuchus is frequently cited as being a carnivore, however, this is based on specimens now assigned to Anteosaurus. Instead, Titanosuchus was likely an omnivorous or herbivorous animal like the related Jonkeria. Titanosuchus is known from fragmentary jaw and postcranial material, which can be distinguished from Jonkeria by the greater length of the limb bones.
+
+Parascapanodon and Scapanodon were once thought to be distinct genera, but are now considered to be junior synonyms of Titanosuchus."}
+		]
+	},
+        {
+		"name": "Moschorhinus",
+		"unitType": "Land Chordata",
+		"movement": 3,
+		"strength": 160,
+		"cost": 300,
+                "requiredTech": "Formation of Mountain Ranges",
+                "promotions": ["Therocephalia","Synapsida","Therapsida"],
+		"attackSound": "nonmetalhit",
+        "civilopediaText": [
+			{"text": "Moschorhinus is an extinct genus of therocephalian synapsid in the family Akidnognathidae with only one species M. kitchingi, which has been found in the Late Permian to Early Triassic of the South African Karoo Supergroup. It was a large carnivorous therapsid, reaching 1.1–1.5 metres in total body length with the largest skull comparable to that of a lion in size, and had a broad, blunt snout which bore long, straight canines.
+
+Moschorhinus appears to have ecologically replaced the gorgonopsids as an apex predator, and hunted much like a big cat. While most abundant in the Late Permian, it survived into the Early Triassic in small numbers after the Permian Extinction, though these Triassic survivors had stunted growth."}
+		]
+	},
+        {
+		"name": "Afrotaldycupes",
+		"unitType": "Land Arthropoda",
+		"movement": 2,
+		"strength": 130,
+		"cost": 250,
+                "requiredTech": "Evolution of Insects",
+                "promotions": ["Coleoptera"],
+		"attackSound": "nonmetalhit",
+        "civilopediaText": [
+			{"text": "Permian beetles are represented mostly by isolated elytra. Taxa based on elytra were essentially natural during the Early and most of the Late Permian, when the process of transformation of the forewing into the elytron continued. Towards the end of the Permian, different lineages of beetles acquired similar elytra."}
+		]
+	},
+        {
+		"name": "Rhyniognatha",
+		"unitType": "Land Chordata",
+		"movement": 3,
+		"strength": 45,
+		"cost": 60,
+                "obsoleteTech": "Late Devonian Extinction",
+                "requiredTech": "Land Arthropods",
+                "promotions": ["Arthropoda"],
+		"attackSound": "nonmetalhit",
+        "civilopediaText": [
+			{"text": "Rhyniognatha is an extinct genus of arthropod of disputed placement. It has been considered in some analyses as the oldest insect known, as well as possibly being a flying insect. Rhyniognatha is known from a partial head with preserved mouthparts from the Early Devonian aged Rhynie chert around 400 million years ago, when Earth’s first terrestrial ecosystems were being formed. The type, and only species is R. hirsti, which was named and described in 1928. Other analyses have interpreted the specimen as a myriapod."}
+		]
+	},
+        {
+		"name": "Trilobite",
+		"unitType": "Aquatic Arthropoda",
+		"movement": 1,
+		"strength": 60,
+		"cost": 90,
+                "requiredTech": "Trilobites",
+		"attackSound": "nonmetalhit",
+        "civilopediaText": [
+			{"text": "Trilobites are extinct marine arthropods that form the class Trilobita. Trilobites form one of the earliest known groups of arthropods. The first appearance of trilobites in the fossil record defines the base of the Atdabanian stage of the Early Cambrian period 521 million years ago and they flourished throughout the lower Paleozoic before slipping into a long decline, when, during the Devonian, all trilobite orders except the Proetida died out. The last trilobites disappeared in the mass extinction at the end of the Permian about 251.9 million years ago. Trilobites were among the most successful of all early animals, existing in oceans for almost 270 million years, with over 22,000 species having been described."}
+		]
+	},
+
+	]

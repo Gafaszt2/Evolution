@@ -1,0 +1,381 @@
+[
+{
+        "name": "Proterozoic Elements",
+        "era": "Proterozoic",
+        "priorities": {
+            "Neutral": 5,
+            "Cultural": 5,
+            "Diplomatic": 5,
+            "Domination": 5,
+            "Scientific": 5
+        },
+        "uniques": [
+            "[+1 Science] [in capital]"
+        ],
+        "policies": [
+            {
+                "name": "Beryllium",
+                "uniques": [
+                    "[+1 Production] [in capital]"
+                ],
+                "row": 1,
+                "column": 1
+            },
+            {
+                "name": "Boron",
+                "uniques": [
+                    "[+1 Production] [in capital]"
+                ],
+                "row": 3,
+                "column": 1
+            },
+            {
+                "name": "Carbon",
+                "uniques": [
+                    "[+1 Production] [in capital]"
+                ],
+                "row": 6,
+                "column": 1
+            }, 
+            {
+                "name": "Nitrogen",
+                "uniques": [
+                    "[+1 Production] [in capital]"
+                ],
+                "row": 8,
+                "column": 1
+            },
+            {
+                "name": "Oxygen",
+                "uniques": [
+                    "[+1 Production] [in capital]"
+                ],
+                "row": 1,
+                "column": 2
+            },
+            {
+                "name": "Fluorine",
+                "uniques": [
+                    "[+1 Production] [in capital]"
+                ],
+                "row": 3,
+                "column": 2
+            },
+            {
+                "name": "Neon",
+                "uniques": [
+                    "[+1 Production] [in capital]"
+                ],
+                "row": 6,
+                "column": 2
+            },
+            {
+                "name": "Sodium",
+                "uniques": [
+                    "[+1 Production] [in capital]"
+                ],
+                "row": 8,
+                "column": 2
+            },
+            {
+                "name": "Magnesium",
+                "uniques": [
+                    "[+1 Production] [in capital]"
+                ],
+                "row": 1,
+                "column": 3
+            },
+            {
+                "name": "Aluminium",
+                "uniques": [
+                    "[+1 Production] [in capital]"
+                ],
+                "row": 3,
+                "column": 3
+            },
+            {
+                "name": "Silicon",
+                "uniques": [
+                    "[+1 Production] [in capital]"
+                ],
+                "row": 6,
+                "column": 3
+            },
+            {
+                "name": "Phosphorus",
+                "uniques": [
+                    "[+1 Production] [in capital]"
+                ],
+                "row": 8,
+                "column": 3
+            },
+            {
+                "name": "Sulphur",
+                "uniques": [
+                    "[+1 Production] [in capital]"
+                ],
+                "row": 1,
+                "column": 4
+            },
+            {
+                "name": "Chlorine",
+                "uniques": [
+                    "[+1 Production] [in capital]"
+                ],
+                "row": 3,
+                "column": 4
+            },
+            {
+                "name": "Argon",
+                "uniques": [
+                    "[+1 Production] [in capital]"
+                ],
+                "row": 6,
+                "column": 4
+            },
+            {
+                "name": "Potassium",
+                "uniques": [
+                    "[+1 Production] [in capital]"
+                ],
+                "row": 8,
+                "column": 4
+            },
+            {
+                "name": "Calcium",
+                "uniques": [
+                    "[+1 Production] [in capital]"
+                ],
+                "row": 1,
+                "column": 5
+            },
+            {
+                "name": "Scandium",
+                "uniques": [
+                    "[+1 Production] [in capital]"
+                ],
+                "row": 3,
+                "column": 5
+            },
+            {
+                "name": "Titanium",
+                "uniques": [
+                    "[+1 Production] [in capital]"
+                ],
+                "row": 6,
+                "column": 5
+            },
+            {
+                "name": "Vanadium",
+                "uniques": [
+                    "[+1 Production] [in capital]"
+                ],
+                "row": 8,
+                "column": 5
+            },
+            {
+                "name": "Chromium",
+                "uniques": [
+                    "[+1 Production] [in capital]"
+                ],
+                "row": 1,
+                "column": 6
+            },
+            {
+                "name": "Manganese",
+                "uniques": [
+                    "[+1 Production] [in capital]"
+                ],
+                "row": 3,
+                "column": 6
+            },
+            {
+                "name": "Iron",
+                "uniques": [
+                    "[+1 Production] [in capital]"
+                ],
+                "row": 6,
+                "column": 6
+            },
+            {
+                "name": "Cobalt",
+                "uniques": [
+                    "[+1 Production] [in capital]"
+                ],
+                "row": 8,
+                "column": 6
+            },
+            {
+                "name": "Nickel",
+                "uniques": [
+                    "[+1 Production] [in capital]"
+                ],
+                "row": 1,
+                "column": 7
+            },
+            {
+                "name": "Copper",
+                "uniques": [
+                    "[+1 Production] [in capital]"
+                ],
+                "row": 3,
+                "column": 7
+            },
+            {
+                "name": "Zinc",
+                "uniques": [
+                    "[+1 Production] [in capital]"
+                ],
+                "row": 6,
+                "column": 7
+            },
+            {
+                "name": "Gallium",
+                "uniques": [
+                    "[+1 Production] [in capital]"
+                ],
+                "row": 8,
+                "column": 7
+            },
+            {
+                "name": "Germanium",
+                "uniques": [
+                    "[+1 Production] [in capital]"
+                ],
+                "row": 1,
+                "column": 8
+            },
+            {
+                "name": "Arsenic",
+                "uniques": [
+                    "[+1 Production] [in capital]"
+                ],
+                "row": 3,
+                "column": 8
+            },
+            {
+                "name": "Selenium",
+                "uniques": [
+                    "[+1 Production] [in capital]"
+                ],
+                "row": 6,
+                "column": 8
+            },
+            {
+                "name": "Bromine",
+                "uniques": [
+                    "[+1 Production] [in capital]"
+                ],
+                "row": 8,
+                "column": 8
+            },
+            {
+                "name": "Krypton",
+                "uniques": [
+                    "[+1 Production] [in capital]"
+                ],
+                "row": 1,
+                "column": 9
+            },
+            {
+                "name": "Rubidium",
+                "uniques": [
+                    "[+1 Production] [in capital]"
+                ],
+                "row": 3,
+                "column": 9
+            },
+            {
+                "name": "Strontium",
+                "uniques": [
+                    "[+1 Production] [in capital]"
+                ],
+                "row": 6,
+                "column": 9
+            },
+            {
+                "name": "Yttrium",
+                "uniques": [
+                    "[+1 Production] [in capital]"
+                ],
+                "row": 8,
+                "column": 9
+            },
+
+                              {
+                "name": "Proterozoic Elements Complete",
+                "uniques": [
+                    "[+4 Science] [in capital]"
+                ]
+            }
+        ]
+    },
+{
+        "name": "Archean Elements",
+        "era": "Archean",
+        "priorities": {
+            "Neutral": 5,
+            "Cultural": 5,
+            "Diplomatic": 5,
+            "Domination": 5,
+            "Scientific": 5
+        },
+        "uniques": [
+            "[+1 Production] [in capital]"
+        ],
+        "policies": [
+            {
+                "name": "Lithium",
+                "uniques": [
+                    "[+1 Production] [in capital]"
+                ],
+                "row": 1,
+                "column": 1
+            },
+                        {
+                "name": "Archean Elements Complete",
+                "uniques": [
+                    "[+1 Science] [in capital]"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Hadean Elements",
+        "era": "Hadean",
+        "priorities": {
+            "Neutral": 5,
+            "Cultural": 5,
+            "Diplomatic": 5,
+            "Domination": 5,
+            "Scientific": 5
+        },
+        "uniques": [
+            "[+1 Production] [in capital]"
+        ],
+        "policies": [
+            {
+                "name": "Hydrogen",
+                "uniques": [
+                    "[+1 Production] [in capital]"
+                ],
+                "row": 1,
+                "column": 1
+            },
+            {
+                "name": "Hellium",
+                "uniques": [
+                    "[+1 Production] [in capital]"
+                ],
+                "row": 2,
+                "column": 1
+            },
+            {
+                "name": "Hadean Elements Complete",
+                "uniques": [
+                    "[+1 Science] [in capital]"
+                ]
+            }
+        ]
+    }
+]

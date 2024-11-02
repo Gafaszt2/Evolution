@@ -1,0 +1,285 @@
+[
+	//Spectator
+    //Not "Excluded from map editor" as it serves as placeholder for "Any Civ" starting locations
+	{
+		"name": "Spectator",
+		"outerColor": [255,255,255]
+//		"innerColor": [255,255,255]
+	},
+
+	{
+		//nations
+		"name": "Immensity",
+		"leaderName": "Immensity Leader",
+		"adjective": ["Immensity"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Domination",
+
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+
+		"declaringWar": "Nature knows what it´s our right, perish!",
+		"attacked": "Even the most light animal, can overtake a powerfull rebellion.",
+		"defeated": "And the end, overtake us, but we will return, together.",
+		"introduction": "We don´t know what we seek, nature is all we see, nature is all we are, from where everything might come from afar",
+
+		"neutralHello": "Loading Brain Cells.",
+		"hateHello": "Soon your Brain Cells will explode",
+
+		"tradeRequest": "Nature knows no better deal than this one.",
+
+		"outerColor": [197, 250, 211],
+		"innerColor": [24, 31, 26],
+
+		"favoredReligion": "Islam",
+
+		"uniqueName": "Until Humanity Might Come",
+
+		"uniqueText": "You will become a civilization once you research human techs during Quaternary",
+                "uniques": ["New [Military] units start with [1] Experience [in all cities]"],
+
+
+		"cities": ["Peninsulare","Larium","Prosperity","Worias",
+"Xiphan","Zuxhilian","Xichian","Leicos","Prostos","Lermé","Toualha","Naposi",
+"N´Denza","Al Tir","Fathi","Mansu","Highal","Musali","Yol","Zu","Xi","Laem","Rin","Penho","Gelo","Tilo","Resa","Tilu","Thulagalamana","Chipocta","Xelimon",Tirani","Fulaha","Tulhu","Tongju","Lomna"],
+
+        "spyNames": ["Sir Jack","Sir Joseph","Miss Katherine","Miss Laura","Sir Antonio","Sir Albert","Sir Basil","Sir Gafas","Sir Hachchchch"]
+	},
+        {
+		//nations
+		"name": "Faithfull",
+		"leaderName": "Faithfull Leader",
+		"adjective": ["Faithfull"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Domination",
+
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+
+		"declaringWar": "Nature knows what it´s our right, perish!",
+		"attacked": "Even the most light animal, can overtake a powerfull rebellion.",
+		"defeated": "And the end, overtake us, but we will return, together.",
+		"introduction": "We don´t know what we seek, nature is all we see, nature is all we are, from where everything might come from afar",
+
+		"neutralHello": "Loading Brain Cells.",
+		"hateHello": "Soon your Brain Cells will explode",
+
+		"tradeRequest": "Nature knows no better deal than this one.",
+
+		"outerColor": [112, 203, 255],
+		"innerColor": [39, 60, 135],
+
+		"favoredReligion": "Islam",
+
+		"uniqueName": "Until Humanity Might Come",
+
+		"uniqueText": "You will become a civilization once you research human techs during Quaternary",
+                "uniques": ["New [Military] units start with [1] Experience [in all cities]"],
+
+
+		"cities": ["Thiliums","Larium","Prosperity","Worias",
+"Xiphan","Zuxhilian","Xichian","Leicos","Prostos","Lermé","Toualha","Naposi",
+"N´Denza","Al Tir","Fathi","Mansu","Highal","Musali","Yol","Zu","Xi","Laem","Rin","Penho","Gelo","Tilo","Resa","Tilu","Thulagalamana","Chipocta","Xelimon",Tirani","Fulaha","Tulhu","Tongju","Lomna"],
+
+        "spyNames": ["Sir Jack","Sir Joseph","Miss Katherine","Miss Laura","Sir Antonio","Sir Albert","Sir Basil","Sir Gafas","Sir Hachchchch"]
+	},
+        {
+		//nations
+		"name": "Throne",
+		"leaderName": "Throne Leader",
+		"adjective": ["Throne"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Domination",
+
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+
+		"declaringWar": "Nature knows what it´s our right, perish!",
+		"attacked": "Even the most light animal, can overtake a powerfull rebellion.",
+		"defeated": "And the end, overtake us, but we will return, together.",
+		"introduction": "We don´t know what we seek, nature is all we see, nature is all we are, from where everything might come from afar",
+
+		"neutralHello": "Loading Brain Cells.",
+		"hateHello": "Soon your Brain Cells will explode",
+
+		"tradeRequest": "Nature knows no better deal than this one.",
+
+		"outerColor": [255, 222, 145],
+		"innerColor": [199, 119, 0],
+
+		"favoredReligion": "Islam",
+
+		"uniqueName": "Until Humanity Might Come",
+
+		"uniqueText": "You will become a civilization once you research human techs during Quaternary",
+                "uniques": ["New [Military] units start with [1] Experience [in all cities]"],
+
+
+		"cities": ["Hillifasa","Larium","Prosperity","Worias",
+"Xiphan","Zuxhilian","Xichian","Leicos","Prostos","Lermé","Toualha","Naposi",
+"N´Denza","Al Tir","Fathi","Mansu","Highal","Musali","Yol","Zu","Xi","Laem","Rin","Penho","Gelo","Tilo","Resa","Tilu","Thulagalamana","Chipocta","Xelimon",Tirani","Fulaha","Tulhu","Tongju","Lomna"],
+
+        "spyNames": ["Sir Jack","Sir Joseph","Miss Katherine","Miss Laura","Sir Antonio","Sir Albert","Sir Basil","Sir Gafas","Sir Hachchchch"]
+	},
+{
+		//nations
+		"name": "Zeno",
+		"leaderName": "Zeno Leader",
+		"adjective": ["Zeno"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Domination",
+
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+
+		"declaringWar": "Nature knows what it´s our right, perish!",
+		"attacked": "Even the most light animal, can overtake a powerfull rebellion.",
+		"defeated": "And the end, overtake us, but we will return, together.",
+		"introduction": "We don´t know what we seek, nature is all we see, nature is all we are, from where everything might come from afar",
+
+		"neutralHello": "Loading Brain Cells.",
+		"hateHello": "Soon your Brain Cells will explode",
+
+		"tradeRequest": "Nature knows no better deal than this one.",
+
+		"outerColor": [176, 176, 176],
+		"innerColor": [33, 33, 33],
+
+		"favoredReligion": "Islam",
+
+		"uniqueName": "Until Humanity Might Come",
+
+		"uniqueText": "You will become a civilization once you research human techs during Quaternary",
+                "uniques": ["New [Military] units start with [1] Experience [in all cities]"],
+
+
+		"cities": ["Shishitun","Larium","Prosperity","Worias",
+"Xiphan","Zuxhilian","Xichian","Leicos","Prostos","Lermé","Toualha","Naposi",
+"N´Denza","Al Tir","Fathi","Mansu","Highal","Musali","Yol","Zu","Xi","Laem","Rin","Penho","Gelo","Tilo","Resa","Tilu","Thulagalamana","Chipocta","Xelimon",Tirani","Fulaha","Tulhu","Tongju","Lomna"],
+
+        "spyNames": ["Sir Jack","Sir Joseph","Miss Katherine","Miss Laura","Sir Antonio","Sir Albert","Sir Basil","Sir Gafas","Sir Hachchchch"]
+	},
+{
+		//nations
+		"name": "Cosmos",
+		"leaderName": "Cosmos Leader",
+		"adjective": ["Cosmos"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Domination",
+
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+
+		"declaringWar": "Nature knows what it´s our right, perish!",
+		"attacked": "Even the most light animal, can overtake a powerfull rebellion.",
+		"defeated": "And the end, overtake us, but we will return, together.",
+		"introduction": "We don´t know what we seek, nature is all we see, nature is all we are, from where everything might come from afar",
+
+		"neutralHello": "Loading Brain Cells.",
+		"hateHello": "Soon your Brain Cells will explode",
+
+		"tradeRequest": "Nature knows no better deal than this one.",
+
+		"outerColor": [205, 184, 255],
+		"innerColor": [82, 32, 60],
+
+		"favoredReligion": "Islam",
+
+		"uniqueName": "Until Humanity Might Come",
+
+		"uniqueText": "You will become a civilization once you research human techs during Quaternary",
+                "uniques": ["New [Military] units start with [1] Experience [in all cities]"],
+
+
+		"cities": ["Morefarislasa","Larium","Prosperity","Worias",
+"Xiphan","Zuxhilian","Xichian","Leicos","Prostos","Lermé","Toualha","Naposi",
+"N´Denza","Al Tir","Fathi","Mansu","Highal","Musali","Yol","Zu","Xi","Laem","Rin","Penho","Gelo","Tilo","Resa","Tilu","Thulagalamana","Chipocta","Xelimon",Tirani","Fulaha","Tulhu","Tongju","Lomna"],
+
+        "spyNames": ["Sir Jack","Sir Joseph","Miss Katherine","Miss Laura","Sir Antonio","Sir Albert","Sir Basil","Sir Gafas","Sir Hachchchch"]
+	},
+{
+		//nations
+		"name": "Kalam",
+		"leaderName": "Kalam Leader",
+		"adjective": ["Kalam"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Domination",
+
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+
+		"declaringWar": "Nature knows what it´s our right, perish!",
+		"attacked": "Even the most light animal, can overtake a powerfull rebellion.",
+		"defeated": "And the end, overtake us, but we will return, together.",
+		"introduction": "We don´t know what we seek, nature is all we see, nature is all we are, from where everything might come from afar",
+
+		"neutralHello": "Loading Brain Cells.",
+		"hateHello": "Soon your Brain Cells will explode",
+
+		"tradeRequest": "Nature knows no better deal than this one.",
+
+		"outerColor": [70, 179, 128],
+		"innerColor": [240, 252, 248],
+
+		"favoredReligion": "Islam",
+
+		"uniqueName": "Until Humanity Might Come",
+
+		"uniqueText": "You will become a civilization once you research human techs during Quaternary",
+                "uniques": ["New [Military] units start with [1] Experience [in all cities]"],
+
+
+		"cities": ["Immaru","Larium","Prosperity","Worias",
+"Xiphan","Zuxhilian","Xichian","Leicos","Prostos","Lermé","Toualha","Naposi",
+"N´Denza","Al Tir","Fathi","Mansu","Highal","Musali","Yol","Zu","Xi","Laem","Rin","Penho","Gelo","Tilo","Resa","Tilu","Thulagalamana","Chipocta","Xelimon",Tirani","Fulaha","Tulhu","Tongju","Lomna"],
+
+        "spyNames": ["Sir Jack","Sir Joseph","Miss Katherine","Miss Laura","Sir Antonio","Sir Albert","Sir Basil","Sir Gafas","Sir Hachchchch"]
+	},
+{
+		//nations
+		"name": "Yildrim",
+		"leaderName": "Yildrim Leader",
+		"adjective": ["Yildrim"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Domination",
+
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+
+		"declaringWar": "Nature knows what it´s our right, perish!",
+		"attacked": "Even the most light animal, can overtake a powerfull rebellion.",
+		"defeated": "And the end, overtake us, but we will return, together.",
+		"introduction": "We don´t know what we seek, nature is all we see, nature is all we are, from where everything might come from afar",
+
+		"neutralHello": "Loading Brain Cells.",
+		"hateHello": "Soon your Brain Cells will explode",
+
+		"tradeRequest": "Nature knows no better deal than this one.",
+
+		"outerColor": [191, 109, 10],
+		"innerColor": [255, 246, 209],
+
+		"favoredReligion": "Islam",
+
+		"uniqueName": "Until Humanity Might Come",
+
+		"uniqueText": "You will become a civilization once you research human techs during Quaternary",
+                "uniques": ["New [Military] units start with [1] Experience [in all cities]"],
+
+
+		"cities": ["Rinzai Aydinlat","Larium","Prosperity","Worias",
+"Xiphan","Zuxhilian","Xichian","Leicos","Prostos","Lermé","Toualha","Naposi",
+"N´Denza","Al Tir","Fathi","Mansu","Highal","Musali","Yol","Zu","Xi","Laem","Rin","Penho","Gelo","Tilo","Resa","Tilu","Thulagalamana","Chipocta","Xelimon",Tirani","Fulaha","Tulhu","Tongju","Lomna"],
+
+        "spyNames": ["Sir Jack","Sir Joseph","Miss Katherine","Miss Laura","Sir Antonio","Sir Albert","Sir Basil","Sir Gafas","Sir Hachchchch"]
+	},
+
+    	{
+		"name": "Barbarians",
+		"outerColor": [0,0,0],
+        "innerColor": [185,12,12],
+		"uniques": ["Can only heal by pillaging", "Excluded from map editor",
+			"[Water] units gain the [Unable to pillage tiles] promotion"]
+	}
+
+]

@@ -1,0 +1,130 @@
+[
+	// Bonus resources
+	{
+		"name": "Forest",
+		"resourceType": "Bonus",
+                "improvedBy": ["Seed Plant", "Archaeopteris"],
+		"improvementStats": {"culture": 1},
+                "revealedBy": "Terrestrial Ecosystems",
+		"terrainsCanBeFoundOn": ["Alfisols"],
+		"food": 1,
+		"uniques": ["Generated on every [15] tiles <in [Alfisolis] tiles>","Generated on every [35] tiles <in [Vertisolis] tiles>"]
+	},
+        {
+		"name": "Volcanic Ash",
+		"resourceType": "Bonus",
+                "revealedBy": "Late Devonian Extinction",
+		"terrainsCanBeFoundOn": ["Chalk soil"],
+		"production": 2,
+		"uniques": ["Generated on every [8] tiles <in [Chalk soil] tiles>","Generated on every [5] tiles <in [{Featureless} {Chalk soil}] tiles>"]
+	},
+        {
+		"name": "Coal",
+		"resourceType": "Bonus",
+                "revealedBy": "Rise of Coal Forests",
+		"terrainsCanBeFoundOn": ["Hill"],
+		"production": 2,
+		"uniques": ["Generated on every [25] tiles <in [Vertisolis] tiles>"]
+	},
+        {
+		"name": "Marsh",
+		"resourceType": "Bonus",
+                "revealedBy": "Seed Plants",
+		"terrainsCanBeFoundOn": ["Alfisols","Aeolian soils"],
+		"culture": 1,
+		"uniques": ["Generated on every [40] tiles <in [Aeolian soils] tiles>","Generated on every [33] tiles <in [Alfisols] tiles>"]
+	},
+        {
+		"name": "Marble",
+		"resourceType": "Bonus",
+                "revealedBy": "Late Devonian Extinction",
+		"terrainsCanBeFoundOn": ["Aeolian soils"],
+		"production": 2,
+		"uniques": ["Generated on every [60] tiles <in [Aeolian soils] tiles>","Generated on every [21 tiles <in [{Featureless} {Aeolian soils}] tiles>"]
+	},
+        {
+		"name": "Limestone",
+		"resourceType": "Bonus",
+                "revealedBy": "Limestone Formations",
+		"terrainsCanBeFoundOn": ["Vertisols"],
+		"production": 2,
+		"uniques": ["Generated on every [25] tiles <in [Vertisols] tiles>","Generated on every [21 tiles <in [{Featureless} {Vertisols}] tiles>"]
+	},
+        {
+		"name": "Copper",
+		"resourceType": "Bonus",
+                "revealedBy": "Oxygenation",
+		"terrainsCanBeFoundOn": ["Hill"],
+		"production": 2,
+		"uniques": ["Generated on every [40] tiles <in [Hill] tiles>","Generated on every [18] tiles <in [{Featureless} {Hill}] tiles>",
+					"Generated on every [150] tiles <in [{Featureless} {Hill}] tiles> <in [Hill] Regions>"]
+	},
+        {
+		"name": "Aluminum",
+		"resourceType": "Bonus",
+                "revealedBy": "Oxygenation",
+		"terrainsCanBeFoundOn": ["Hill"],
+		"production": 2,
+		"uniques": ["Generated on every [40] tiles <in [Hill] tiles>","Generated on every [18] tiles <in [{Featureless} {Hill}] tiles>",
+					"Generated on every [150] tiles <in [{Featureless} {Hill}] tiles> <in [Hill] Regions>"]
+	},
+        {
+		"name": "Gems",
+		"resourceType": "Bonus",
+                "revealedBy": "Oxygenation",
+		"terrainsCanBeFoundOn": ["Hill"],
+		"production": 2,
+		"uniques": ["Generated on every [40] tiles <in [Hill] tiles>","Generated on every [18] tiles <in [{Featureless} {Hill}] tiles>",
+					"Generated on every [150] tiles <in [{Featureless} {Hill}] tiles> <in [Hill] Regions>"]
+	},
+        {
+		"name": "Iron",
+		"resourceType": "Bonus",
+                "revealedBy": "Oxygenation",
+		"terrainsCanBeFoundOn": ["Hill"],
+		"production": 2,
+		"uniques": ["Generated on every [40] tiles <in [Hill] tiles>","Generated on every [18] tiles <in [{Featureless} {Hill}] tiles>",
+					"Generated on every [150] tiles <in [{Featureless} {Hill}] tiles> <in [Hill] Regions>"]
+	},
+        {
+		"name": "Gold Ore",
+		"resourceType": "Bonus",
+                "revealedBy": "Oxygenation",
+		"terrainsCanBeFoundOn": ["Hill"],
+		"production": 2,
+		"uniques": ["Generated on every [40] tiles <in [Hill] tiles>","Generated on every [18] tiles <in [{Featureless} {Hill}] tiles>",
+					"Generated on every [150] tiles <in [{Featureless} {Hill}] tiles> <in [Hill] Regions>"]
+	},
+        {
+		"name": "Sandstone",
+		"resourceType": "Bonus",
+                "revealedBy": "Sedimentation",
+		"terrainsCanBeFoundOn": ["Sand"],
+		"production": 2,
+		"uniques": ["Generated on every [40] tiles <in [Sand] tiles>"]
+	},
+        {
+		"name": "Clay",
+		"resourceType": "Bonus",
+                "revealedBy": "Sedimentation",
+		"terrainsCanBeFoundOn": ["Alfisols","Vertisols"],
+		"production": 2,
+		"uniques": ["Generated on every [19] tiles <in [Alfisols] tiles>","Generated on every [38] tiles <in [Vertisols] tiles>"]
+	},
+        {
+		"name": "Petroleum",
+		"resourceType": "Bonus",
+                "revealedBy": "Desertification",
+		"terrainsCanBeFoundOn": ["Ocean","Hill"],
+		"production": 2,
+		"uniques": ["Generated on every [70] tiles <in [Hill] tiles>","Generated on every [99] tiles <in [Ocean] tiles>"]
+	},
+        {
+		"name": "Salt",
+		"resourceType": "Bonus",
+                "revealedBy": "Development of Salt Deposits",
+		"terrainsCanBeFoundOn": ["Coast","Sand","Hill"],
+		"production": 2,
+		"uniques": ["Generated on every [60] tiles <in [Coast] tiles>","Generated on every [30] tiles <in [Sand] tiles>","Generated on every [190] tiles <in [Hill] tiles>"]
+	},
+	]
