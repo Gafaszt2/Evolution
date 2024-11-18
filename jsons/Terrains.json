@@ -191,6 +191,13 @@
 		"RGB": [105,125,72],
 		"occursOn": ["Chalk soil","Sand","Vertisols","Aeolian soils","Alfisols","Coast","Ocean","Lakes","Mountain"],
 	},
+        {
+		"name": "Triassic",
+		"type": "TerrainFeature",
+		"overrideStats": false,
+		"RGB": [105,125,72],
+		"occursOn": ["Chalk soil","Sand","Vertisols","Aeolian soils","Alfisols","Coast","Ocean","Lakes","Mountain"],
+	},
 
 
     // Virtual River entry, used for stats, Uniques and Civilopedia

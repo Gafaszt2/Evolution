@@ -2957,667 +2957,793 @@ TileSets/FantasyHex/Tiles/Aeolian soils-Permian
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Tiles/Alfisols
+TileSets/FantasyHex/Tiles/Aeolian soils+Triassic
   rotate: false
   xy: 414, 84
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Tiles/Alfisols+Carboniferous
+TileSets/FantasyHex/Tiles/Aeolian soils-Triassic
+  rotate: false
+  xy: 414, 84
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Alfisols
   rotate: false
   xy: 454, 84
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Alfisols+Carboniferous
+  rotate: false
+  xy: 494, 84
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Alfisols+Devonian
   rotate: false
-  xy: 454, 84
+  xy: 494, 84
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Alfisols-Devonian
   rotate: false
-  xy: 454, 84
+  xy: 494, 84
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Alfisols+Permian
   rotate: false
-  xy: 494, 84
+  xy: 534, 84
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Alfisols-Permian
   rotate: false
-  xy: 494, 84
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Tiles/Alfisols-Ordovician - Silurian
-  rotate: false
   xy: 534, 84
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Tiles/Alfisols-Proterozoic
+TileSets/FantasyHex/Tiles/Alfisols+Triassic
   rotate: false
   xy: 574, 84
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Tiles/Algae
+TileSets/FantasyHex/Tiles/Alfisols-Triassic
+  rotate: false
+  xy: 574, 84
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Alfisols-Ordovician - Silurian
   rotate: false
   xy: 614, 84
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Tiles/Archaeopteris
+TileSets/FantasyHex/Tiles/Alfisols-Proterozoic
   rotate: false
   xy: 654, 84
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Tiles/Bennettitales
+TileSets/FantasyHex/Tiles/Algae
   rotate: false
   xy: 694, 84
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Tiles/Chalk soil
+TileSets/FantasyHex/Tiles/Archaeopteris
   rotate: false
   xy: 734, 84
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Tiles/Chalk soil+Carboniferous
+TileSets/FantasyHex/Tiles/Bennettitales
   rotate: false
   xy: 774, 84
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Tiles/Chalk soil+Devonian
-  rotate: false
-  xy: 774, 84
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Tiles/Chalk soil+Permian
-  rotate: false
-  xy: 774, 84
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Tiles/Chalk soil-Devonian
-  rotate: false
-  xy: 774, 84
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Tiles/Charnia
+TileSets/FantasyHex/Tiles/Chalk soil
   rotate: false
   xy: 814, 84
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Tiles/Clay
+TileSets/FantasyHex/Tiles/Chalk soil+Carboniferous
   rotate: false
   xy: 854, 84
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Tiles/Coast
+TileSets/FantasyHex/Tiles/Chalk soil+Devonian
+  rotate: false
+  xy: 854, 84
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Chalk soil+Permian
+  rotate: false
+  xy: 854, 84
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Chalk soil-Devonian
+  rotate: false
+  xy: 854, 84
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Chalk soil+Triassic
   rotate: false
   xy: 894, 84
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Tiles/Lakes
+TileSets/FantasyHex/Tiles/Chalk soil-Triassic
   rotate: false
   xy: 894, 84
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Tiles/Coast+Carboniferous
+TileSets/FantasyHex/Tiles/Charnia
   rotate: false
   xy: 934, 84
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Tiles/Coast+Devonian
-  rotate: false
-  xy: 934, 84
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Tiles/Coast+Permian
-  rotate: false
-  xy: 934, 84
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Tiles/Coast-Devonian
-  rotate: false
-  xy: 934, 84
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Tiles/Coast+Salt
+TileSets/FantasyHex/Tiles/Clay
   rotate: false
   xy: 974, 84
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Tiles/Coast-Archean
+TileSets/FantasyHex/Tiles/Coast
   rotate: false
   xy: 1014, 84
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Tiles/Cooksonia
+TileSets/FantasyHex/Tiles/Lakes
+  rotate: false
+  xy: 1014, 84
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Coast+Carboniferous
   rotate: false
   xy: 1054, 84
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Tiles/Coral
+TileSets/FantasyHex/Tiles/Coast+Devonian
+  rotate: false
+  xy: 1054, 84
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Coast+Permian
+  rotate: false
+  xy: 1054, 84
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Coast+Triassic
+  rotate: false
+  xy: 1054, 84
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Coast-Devonian
+  rotate: false
+  xy: 1054, 84
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Coast-Triassic
+  rotate: false
+  xy: 1054, 84
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Coast+Salt
   rotate: false
   xy: 1094, 84
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Tiles/Cordaites
+TileSets/FantasyHex/Tiles/Coast-Archean
   rotate: false
   xy: 1134, 84
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Tiles/Crossotheca
+TileSets/FantasyHex/Tiles/Cooksonia
   rotate: false
   xy: 1174, 84
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Tiles/Cynepteris
+TileSets/FantasyHex/Tiles/Coral
   rotate: false
   xy: 1214, 84
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Tiles/Forest
+TileSets/FantasyHex/Tiles/Cordaites
   rotate: false
   xy: 1254, 84
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Tiles/Forest-Carboniferous
+TileSets/FantasyHex/Tiles/Crossotheca
   rotate: false
   xy: 1294, 84
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Tiles/Forest-Devonian
+TileSets/FantasyHex/Tiles/Cynepteris
   rotate: false
   xy: 1334, 84
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Tiles/Forest-Permian
+TileSets/FantasyHex/Tiles/Forest
   rotate: false
   xy: 1374, 84
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Tiles/Forest-Triassic
+TileSets/FantasyHex/Tiles/Forest-Carboniferous
   rotate: false
   xy: 1414, 84
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Tiles/Ginkoales
+TileSets/FantasyHex/Tiles/Forest-Devonian
   rotate: false
   xy: 1454, 84
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Tiles/Lake
+TileSets/FantasyHex/Tiles/Forest-Permian
   rotate: false
   xy: 1494, 84
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
+TileSets/FantasyHex/Tiles/Forest-Triassic
+  rotate: false
+  xy: 1534, 84
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Ginkoales
+  rotate: false
+  xy: 1574, 84
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Lake
+  rotate: false
+  xy: 1614, 84
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
 TileSets/FantasyHex/Tiles/Lakes+Carboniferous
-  rotate: false
-  xy: 1534, 84
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Tiles/Lakes-Carboniferous
-  rotate: false
-  xy: 1534, 84
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Tiles/Lakes+Devonian
-  rotate: false
-  xy: 1574, 84
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Tiles/Lakes-Devonian
-  rotate: false
-  xy: 1574, 84
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Tiles/Lakes+Permian
-  rotate: false
-  xy: 1614, 84
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Tiles/Lakes-Permian
-  rotate: false
-  xy: 1614, 84
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Tiles/Lakes-Archean
   rotate: false
   xy: 1654, 84
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Tiles/Lava Lake
+TileSets/FantasyHex/Tiles/Lakes-Carboniferous
+  rotate: false
+  xy: 1654, 84
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Lakes+Devonian
   rotate: false
   xy: 1694, 84
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Tiles/Lepidodendron
+TileSets/FantasyHex/Tiles/Lakes-Devonian
+  rotate: false
+  xy: 1694, 84
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Lakes+Permian
   rotate: false
   xy: 1734, 84
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Tiles/Limestone
+TileSets/FantasyHex/Tiles/Lakes+Triassic
+  rotate: false
+  xy: 1734, 84
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Lakes-Permian
+  rotate: false
+  xy: 1734, 84
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Lakes-Triassic
+  rotate: false
+  xy: 1734, 84
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Lakes-Archean
   rotate: false
   xy: 1774, 84
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Tiles/Marsh
+TileSets/FantasyHex/Tiles/Lava Lake
   rotate: false
   xy: 1814, 84
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Tiles/Moss
+TileSets/FantasyHex/Tiles/Lepidodendron
   rotate: false
   xy: 1854, 84
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
+TileSets/FantasyHex/Tiles/Limestone
+  rotate: false
+  xy: 1894, 84
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Marsh
+  rotate: false
+  xy: 1934, 84
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Moss
+  rotate: false
+  xy: 1974, 84
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
 TileSets/FantasyHex/Tiles/Mountain
   rotate: false
-  xy: 1894, 76
+  xy: 294, 40
   size: 32, 36
   orig: 32, 36
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Mountain+Carboniferous
   rotate: false
-  xy: 1934, 76
+  xy: 334, 40
   size: 32, 36
   orig: 32, 36
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Mountain-Carboniferous
   rotate: false
-  xy: 1934, 76
+  xy: 334, 40
   size: 32, 36
   orig: 32, 36
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Mountain+Devonian
   rotate: false
-  xy: 1974, 76
+  xy: 374, 40
   size: 32, 36
   orig: 32, 36
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Mountain-Devonian
   rotate: false
-  xy: 1974, 76
+  xy: 374, 40
   size: 32, 36
   orig: 32, 36
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Mountain+Permian
   rotate: false
-  xy: 294, 40
+  xy: 414, 40
   size: 32, 36
   orig: 32, 36
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Mountain-Permian
   rotate: false
-  xy: 294, 40
+  xy: 414, 40
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Mountain+Triassic
+  rotate: false
+  xy: 454, 40
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Mountain-Triassic
+  rotate: false
+  xy: 454, 40
   size: 32, 36
   orig: 32, 36
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Mountain-Archean
   rotate: false
-  xy: 334, 40
+  xy: 494, 40
   size: 32, 36
   orig: 32, 36
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Oasis
   rotate: false
-  xy: 374, 48
+  xy: 534, 48
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Ocean
   rotate: false
-  xy: 414, 48
+  xy: 574, 48
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Ocean+Carboniferous
   rotate: false
-  xy: 454, 48
+  xy: 614, 48
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Ocean+Devonian
   rotate: false
-  xy: 454, 48
+  xy: 614, 48
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Ocean+Permian
   rotate: false
-  xy: 454, 48
+  xy: 614, 48
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Tiles/Ocean-Devonian
-  rotate: false
-  xy: 454, 48
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Tiles/Ocean-Archean
-  rotate: false
-  xy: 494, 48
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Tiles/Petroleum
-  rotate: false
-  xy: 534, 48
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Tiles/Pleuromeia
-  rotate: false
-  xy: 574, 48
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Tiles/River-Bottom
+TileSets/FantasyHex/Tiles/Ocean+Triassic
   rotate: false
   xy: 614, 48
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Tiles/River-BottomLeft
+TileSets/FantasyHex/Tiles/Ocean-Devonian
+  rotate: false
+  xy: 614, 48
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Ocean-Triassic
+  rotate: false
+  xy: 614, 48
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Ocean-Archean
   rotate: false
   xy: 654, 48
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Tiles/River-BottomRight
+TileSets/FantasyHex/Tiles/Petroleum
   rotate: false
   xy: 694, 48
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Tiles/Sand
+TileSets/FantasyHex/Tiles/Pleuromeia
   rotate: false
   xy: 734, 48
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Tiles/Sand+Carboniferous
+TileSets/FantasyHex/Tiles/River-Bottom
   rotate: false
   xy: 774, 48
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Tiles/Sand-Carboniferous
-  rotate: false
-  xy: 774, 48
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Tiles/Sand+Devonian
+TileSets/FantasyHex/Tiles/River-BottomLeft
   rotate: false
   xy: 814, 48
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Tiles/Sand-Devonian
-  rotate: false
-  xy: 814, 48
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Tiles/Sand+Permian
+TileSets/FantasyHex/Tiles/River-BottomRight
   rotate: false
   xy: 854, 48
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Tiles/Sand-Permian
-  rotate: false
-  xy: 854, 48
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Tiles/Sand-Proterozoic
+TileSets/FantasyHex/Tiles/Sand
   rotate: false
   xy: 894, 48
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Tiles/Sandstone
+TileSets/FantasyHex/Tiles/Sand+Carboniferous
   rotate: false
   xy: 934, 48
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Tiles/Sanfordiacaulis
+TileSets/FantasyHex/Tiles/Sand-Carboniferous
+  rotate: false
+  xy: 934, 48
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Sand+Devonian
   rotate: false
   xy: 974, 48
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Tiles/Seed Plant
+TileSets/FantasyHex/Tiles/Sand-Devonian
+  rotate: false
+  xy: 974, 48
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Sand+Permian
   rotate: false
   xy: 1014, 48
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Tiles/Seed Plant-Devonian
+TileSets/FantasyHex/Tiles/Sand-Permian
+  rotate: false
+  xy: 1014, 48
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Sand+Triassic
   rotate: false
   xy: 1054, 48
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Tiles/Sigillaria
+TileSets/FantasyHex/Tiles/Sand-Triassic
+  rotate: false
+  xy: 1054, 48
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Sand-Proterozoic
   rotate: false
   xy: 1094, 48
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Tiles/Stromatolites
+TileSets/FantasyHex/Tiles/Sandstone
   rotate: false
   xy: 1134, 48
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Tiles/Vertisols
+TileSets/FantasyHex/Tiles/Sanfordiacaulis
   rotate: false
   xy: 1174, 48
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Tiles/Vertisols+Carboniferous
+TileSets/FantasyHex/Tiles/Seed Plant
   rotate: false
   xy: 1214, 48
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Tiles/Vertisols-Carboniferous
-  rotate: false
-  xy: 1214, 48
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Tiles/Vertisols+Devonian
+TileSets/FantasyHex/Tiles/Seed Plant-Devonian
   rotate: false
   xy: 1254, 48
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Tiles/Vertisols-Devonian
-  rotate: false
-  xy: 1254, 48
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Tiles/Vertisols+Permian
+TileSets/FantasyHex/Tiles/Sigillaria
   rotate: false
   xy: 1294, 48
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Tiles/Vertisols-Permian
-  rotate: false
-  xy: 1294, 48
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Tiles/Volcanic Ash
+TileSets/FantasyHex/Tiles/Stromatolites
   rotate: false
   xy: 1334, 48
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Tiles/Volcano
+TileSets/FantasyHex/Tiles/Vertisols
   rotate: false
-  xy: 1374, 40
-  size: 32, 36
-  orig: 32, 36
+  xy: 1374, 48
+  size: 32, 28
+  orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Tiles/Voltzia
+TileSets/FantasyHex/Tiles/Vertisols+Carboniferous
   rotate: false
   xy: 1414, 48
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Tiles/Walchia
+TileSets/FantasyHex/Tiles/Vertisols-Carboniferous
+  rotate: false
+  xy: 1414, 48
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Vertisols+Devonian
   rotate: false
   xy: 1454, 48
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Vertisols-Devonian
+  rotate: false
+  xy: 1454, 48
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Vertisols+Permian
+  rotate: false
+  xy: 1494, 48
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Vertisols-Permian
+  rotate: false
+  xy: 1494, 48
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Vertisols+Triassic
+  rotate: false
+  xy: 1534, 48
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Vertisols-Triassic
+  rotate: false
+  xy: 1534, 48
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Volcanic Ash
+  rotate: false
+  xy: 1574, 48
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Volcano
+  rotate: false
+  xy: 1614, 40
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Voltzia
+  rotate: false
+  xy: 1654, 48
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Walchia
+  rotate: false
+  xy: 1694, 48
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
