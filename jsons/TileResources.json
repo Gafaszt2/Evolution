@@ -8,7 +8,7 @@
                 "revealedBy": "Terrestrial Ecosystems",
 		"terrainsCanBeFoundOn": ["Alfisols"],
 		"food": 1,
-		"uniques": ["Generated on every [15] tiles <in [Alfisolis] tiles>","Generated on every [35] tiles <in [Vertisolis] tiles>"]
+		"uniques": ["Generated on every [15] tiles <in [Alfisolis] tiles>","Generated on every [35] tiles <in [Vertisols] tiles>"]
 	},
         {
 		"name": "Volcanic Ash",
@@ -24,7 +24,7 @@
                 "revealedBy": "Rise of Coal Forests",
 		"terrainsCanBeFoundOn": ["Hill"],
 		"production": 2,
-		"uniques": ["Generated on every [25] tiles <in [Vertisolis] tiles>"]
+		"uniques": ["Generated on every [25] tiles <in [Vertisols] tiles>"]
 	},
         {
 		"name": "Marsh",
@@ -33,6 +33,23 @@
 		"terrainsCanBeFoundOn": ["Alfisols","Aeolian soils"],
 		"culture": 1,
 		"uniques": ["Generated on every [40] tiles <in [Aeolian soils] tiles>","Generated on every [33] tiles <in [Alfisols] tiles>"]
+	},
+        {
+		"name": "Lake",
+		"resourceType": "Bonus",
+                "revealedBy": "Triassic Humity",
+		"terrainsCanBeFoundOn": ["Alfisols","Aeolian soils","Vertisols"],
+		"culture": 1,
+		"uniques": ["Generated on every [40] tiles <in [Aeolian soils] tiles>","Generated on every [40] tiles <in [Vertisols] tiles>","Generated on every [33] tiles <in [Alfisols] tiles>"]
+	},
+        {
+		"name": "Oasis",
+		"resourceType": "Bonus",
+                "revealedBy": "Desertification",
+		"terrainsCanBeFoundOn": ["Sand"],
+		"culture": 2,
+                "food": 2,
+		"uniques": ["Generated on every [40] tiles <in [Sand] tiles>"]
 	},
         {
 		"name": "Marble",

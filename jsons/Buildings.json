@@ -312,4 +312,87 @@
 		"hurryCostModifier": 25,
 	},
 
+{
+		"name": "Triassic Amber",
+                "culture": 1,
+                "isWonder": true,
+                "uniques": ["[+2 Culture] from [Oasis] tiles [in this city] <during the [Triassic]>"]
+                "requiredTech": "Triassic Deserts",
+		"hurryCostModifier": 25,
+	},
+
+{
+		"name": "Phosphorite Nodules",
+                "food": 3,
+                "requiredTech": "Recovery from Extinction",
+		"hurryCostModifier": 25,
+	},
+{
+		"name": "Triassic Volcanic Ash Layers",
+                "production": 3,
+                "requiredTech": "Recovery from Extinction",
+		"hurryCostModifier": 25,
+	},
+{
+		"name": "Evaporite Crystals",
+                "science": 1,
+                "production": 1,
+                "requiredTech": "Recovery from Extinction",
+		"hurryCostModifier": 25,
+	},
+{
+		"name": "Triassic Climate",
+                "uniques": ["[+1 Food] from [Sandstone] tiles [in this city] <during the [Triassic]>","[+1 Food] from [Marsh] tiles [in this city] <during the [Triassic]>"]
+                "requiredTech": "Recovery from Extinction",
+		"hurryCostModifier": 25,
+	},
+
+
+{
+		"name": "Ironstone Concretions",
+                "science": 1,
+                "requiredTech": "Triassic Deserts",
+		"hurryCostModifier": 25,
+	},
+        {
+		"name": "Gypsum Crystals",
+                "production": 2,
+                "requiredTech": "Triassic Deserts",
+		"hurryCostModifier": 25,
+	},
+        {
+		"name": "Triassic Clay Minerals",
+                "uniques": ["[+3 Production] from [Clay] tiles [in this city] <during the [Triassic]>"]
+                "requiredTech": "Triassic Deserts",
+		"hurryCostModifier": 25,
+	},
+
+        {
+		"name": "Coal Seams",
+                "uniques": ["[+2 Science] from [Swamp] tiles [in this city] <during the [Triassic]>"]
+                "requiredTech": "Triassic Humity",
+		"hurryCostModifier": 25,
+	},
+        {
+		"name": "Shale Layers",
+                "uniques": ["[+2 Science] from [Lake] tiles [in this city] <during the [Triassic]>"]
+                "requiredTech": "Triassic Plant Life",
+		"hurryCostModifier": 25,
+	},
+        {
+		"name": "Calcium Carbonates",
+                "uniques": ["[+2 Production] from [Limestone] tiles [in this city] <during the [Triassic]>"]
+                "requiredTech": "Triassic Plant Life",
+		"hurryCostModifier": 25,
+	},
+        {
+		"name": "Peat Bogs",
+                "food": 2,
+                "requiredTech": "Triassic Plant Life",
+		"hurryCostModifier": 25,
+	},
+
+
+
+
 	]

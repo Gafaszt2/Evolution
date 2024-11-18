@@ -347,7 +347,7 @@
 			{
 				"name": "Late Devonian Extinction",
 				"row": 6,
-				"prerequisites": ["Ammonites","Red Sandstone","Placodermi","Amphibians"],
+				"prerequisites": ["Ammonites","Red Sandstone","Placodermi","Amphibians","Early Trees"],
 				"quote": "The Late Devonian extinction, which started about 375 Ma, severely affected marine life, killing off most of the reef systems, most of the jawless fish, half of all placoderms, and nearly all trilobites save for a few species of the order Proetida. The subsequent end-Devonian extinction, which occurred at around 359 Ma, further impacted the ecosystems and completed the extinction of all calcite sponge reefs and placoderms. Conclude with the significant extinction events, such as the Kellwasser and Hangenberg events, which affected marine life and marked the end of the Devonian."
 			}
 ]
@@ -669,6 +669,198 @@
 				"row": 6,
 				"prerequisites": ["Formation of Mountain Ranges","Evolution of Insects","Decline of Marine Biodiversity"],
 				"quote": "Approximately 251.9 million years ago, the Permian–Triassic extinction event; also known as the Late Permian extinction event, the Latest Permian extinction event, the End-Permian extinction event, and colloquially as the Great Dying) forms the boundary between the Permian and Triassic geologic periods, and with them the Paleozoic and Mesozoic eras. It is Earth's most severe known extinction event, with the extinction of 57% of biological families, 83% of genera, 81% of marine species and 70% of terrestrial vertebrate species. It is also the greatest known mass extinction of insects. It is the greatest of the Big Five mass extinctions of the Phanerozoic. There is evidence for one to three distinct pulses, or phases, of extinction."
+			}
+]
+	},
+	{
+
+
+		"columnNumber": 24,
+		"era": "Triassic",
+		"techCost": 895,
+		"buildingCost": 840,
+		"wonderCost": 800,
+		"techs": [
+                        {
+				"name": "Recovery from Extinction",
+				"row": 6,
+				"prerequisites": ["The Great Dying"],
+				"quote": "Life began to slowly recover after the Permian-Triassic extinction event."
+			}
+]
+	},
+	{
+
+
+		"columnNumber": 25,
+		"era": "Triassic",
+		"techCost": 895,
+		"buildingCost": 840,
+		"wonderCost": 800,
+		"techs": [
+                        {
+				"name": "Triassic Marine Life",
+				"row": 3,
+				"prerequisites": ["Recovery from Extinction"],
+				"quote": "Appearance of new marine species such as new ammonites and the first ichthyosaurs."
+			},
+                        {
+				"name": "Triassic Deserts",
+				"row": 7,
+				"prerequisites": ["Recovery from Extinction"],
+				"quote": "Due to Extremely hot and arid conditions, with reduced levels of oxygen."
+			}
+]
+	},
+	{
+
+
+		"columnNumber": 26,
+		"era": "Triassic",
+		"techCost": 895,
+		"buildingCost": 840,
+		"wonderCost": 800,
+		"techs": [
+                        {
+				"name": "Triassic Diversification",
+				"row": 3,
+				"prerequisites": ["Triassic Marine Life"],
+				"quote": "Continued recovery and diversification of marine and terrestrial life."
+			},
+                        {
+				"name": "Early Dinosaurs",
+				"row": 6,
+				"prerequisites": ["Triassic Deserts"],
+				"quote": "Early ancestors of dinosaurs, including small theropods, began to emerge."
+			},
+                        {
+				"name": "Triassic Flora",
+				"row": 9,
+                                "uniques": ["[+1 Science] from [Forest] tiles [in all cities] <during the [Triassic]>"],
+				"prerequisites": ["Triassic Deserts"],
+				"quote": "Recovery and spread of gymnosperms, including conifers and cycads."
+			}
+]
+	},
+	{
+
+
+		"columnNumber": 27,
+		"era": "Triassic",
+		"techCost": 895,
+		"buildingCost": 840,
+		"wonderCost": 800,
+		"techs": [
+                        {
+				"name": "Marine Reptiles",
+				"row": 3,
+				"prerequisites": ["Triassic Diversification"],
+				"quote": "Significant diversification of marine reptiles, including nothosaurs and early plesiosaurs.
+"
+			},
+                        {
+				"name": "Archosaurs",
+				"row": 6,
+				"prerequisites": ["Early Dinosaurs"],
+				"quote": "Evolution of archosaurs, the ancestors of crocodiles, pterosaurs, and dinosaurs."
+			},
+                        {
+				"name": "Triassic Humity",
+				"row": 9,
+				"prerequisites": ["Triassic Flora"],
+                                "uniques": ["[+2 Production] from [Forest] tiles [in all cities] <during the [Triassic]>"],
+				"quote": "Warm and stable climate with increased humidity and the development of large river systems."
+			}
+]
+	},
+	{
+
+
+		"columnNumber": 28,
+		"era": "Triassic",
+		"techCost": 895,
+		"buildingCost": 840,
+		"wonderCost": 800,
+		"techs": [
+                        {
+				"name": "Rise of Dinosaurs",
+				"row": 6,
+				"prerequisites": ["Archosaurs"],
+				"quote": "First true dinosaurs began to emerge and diversify."
+			},
+                        {
+				"name": "Marine Reptile Diversity",
+				"row": 3,
+				"prerequisites": ["Marine Reptiles"],
+				"quote": "Further diversification of marine reptiles such as placodonts and ichthyosaurs."
+			},
+                        {
+				"name": "Triassic Plant Life",
+				"row": 9,
+				"prerequisites": ["Triassic Humity"],
+				"quote": "Continued evolution and spread of gymnosperms and early ferns."
+			}
+]
+	},
+	{
+
+
+		"columnNumber": 29,
+		"era": "Triassic",
+		"techCost": 895,
+		"buildingCost": 840,
+		"wonderCost": 800,
+		"techs": [
+                        {
+				"name": "Scleractinian Corals",
+				"row": 3,
+                                "uniques": ["[+2 Science] from [Coral] tiles [in all cities] <during the [Triassic]>","[+1 Production] from [Coast] tiles [in all cities] <during the [Triassic]>","[+1 Production] from [Ocean] tiles [in all cities] <during the [Triassic]>"],
+				"prerequisites": ["Triassic Plant Life","Marine Reptile Diversity"],
+				"quote": "Evolution and diversification of marine organisms, including the first scleractinian corals."
+			},
+                        {
+				"name": "First Mammals",
+				"row": 4,
+				"prerequisites": ["Rise of Dinosaurs","Triassic Plant Life"],
+				"quote": "Emergence of the earliest true mammals, small and nocturnal creatures."
+			},
+                        {
+				"name": "Primordial Dinosaur Families",
+				"row": 6,
+				"prerequisites": ["Rise of Dinosaurs"],
+				"quote": "Further diversification of dinosaurs, including the rise of theropods and early sauropodomorphs."
+			},
+                        {
+				"name": "Pterosauria",
+				"row": 7,
+				"prerequisites": ["Rise of Dinosaurs"],
+				"quote": "Pterosaurs first appeared during the Late Triassic period, around 215 million years ago. They were the earliest vertebrates known to have evolved powered flight and thrived for millions of years, continuing into the Jurassic and Cretaceous periods.
+They had lightweight, hollow bones to aid in flight, and some species had crests on their heads, which might have been used for display or aerodynamic purposes."
+			},
+                        {
+				"name": "Rise of Crocodylomorphs",
+				"row": 9,
+				"prerequisites": ["Rise of Dinosaurs"],
+				"quote": "Ancestors of modern crocodiles began to appear and diversify."
+			}
+]
+	},
+	{
+
+
+		"columnNumber": 31,
+		"era": "Jurassic",
+		"techCost": 895,
+		"buildingCost": 840,
+		"wonderCost": 800,
+		"techs": [
+                        {
+				"name": "Triassic Jurassic Extinction",
+				"row": 6,
+				"prerequisites": ["Scleractinian Corals","First Mammals","Primordial Dinosaur Families","Pterosauria","Rise of Crocodylomorphs"],
+				"quote": "The Triassic–Jurassic (Tr-J) extinction event (TJME), often called the end-Triassic extinction, marks the boundary between the Triassic and Jurassic periods, 201.4 million years ago. It is one of five major extinction events, profoundly affecting life on land and in the oceans. In the seas, about 23–34% of marine genera disappeared. On land, all archosauromorph reptiles other than crocodylomorphs (the lineage leading to modern crocodilians), and pterosaurs (flying reptiles) became extinct; some of the groups which died out were previously abundant, such as aetosaurs, phytosaurs, and rauisuchids. Plants, crocodylomorphs, dinosaurs, pterosaurs and mammals were left largely untouched, allowing the dinosaurs, pterosaurs, and crocodylomorphs to become the dominant land animals for the next 135 million years.
+
+The cause of the Tr-J extinction event may have been extensive volcanic eruptions in the Central Atlantic Magmatic Province (CAMP), which released large amounts of carbon dioxide into the Earth's atmosphere, causing profound global warming along with ocean acidification. Older hypotheses have proposed that gradual climate or sea level change may be the culprit, or perhaps one or more asteroid strikes."
 			}
 
 

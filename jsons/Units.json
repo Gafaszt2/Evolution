@@ -78,7 +78,6 @@
 		"strength": 30,
 		"cost": 160,
                 "requiredTech": "Complex Ecosystems",
-                "promotions": ["Dinocarida","Radiodonta","Anomalocarididae"],
                 "obsoleteTech": "Marine Biodiversity",
                 "uniques": ["[+50]% Strength <vs [Trilobite] units>"],
 		"attackSound": "nonmetalhit",
@@ -94,7 +93,6 @@
 		"cost": 120,
                 "requiredTech": "Complex Ecosystems",
                 "obsoleteTech": "Marine Biodiversity",
-                "promotions": ["Lobopodia","Dinocarida"],
                 "uniques": ["[+50]% Strength <vs [Trilobite] units>"],
 		"attackSound": "nonmetalhit",
         "civilopediaText": [
@@ -109,7 +107,6 @@
 		"cost": 90,
                 "requiredTech": "Complex Ecosystems",
                 "obsoleteTech": "Marine Biodiversity",
-                "promotions": ["Lobopodia"],
                 "uniques": ["[+10]% Strength <vs [Trilobite] units>","[+30]% Strength <vs [Aquatic Arthropoda] units>"],
 		"attackSound": "nonmetalhit",
         "civilopediaText": [
@@ -125,7 +122,6 @@
                 "requiredTech": "First Vertebrates",
                 "obsoleteTech": "Diversification of Jawed Fish",
 		"attackSound": "nonmetalhit",
-                "promotions": ["Vertebrata","Agnatha"],
         "civilopediaText": [
 			{"text": "Thelodonti is a class of extinct Palaeozoic jawless fishes with distinctive scales instead of large plates of armor.
 Thelodonts are united in possession of thelodont scales. This defining character is not necessarily a result of shared ancestry, as it may have been evolved independently by different groups. Thus the thelodonts are generally thought to represent a polyphyletic group, although there is no firm agreement on this point. On the basis that they are monophyletic, they are reconstructed as being ancestrally marine and invading freshwater on multiple occasions."}
@@ -140,7 +136,6 @@ Thelodonts are united in possession of thelodont scales. This defining character
                 "obsoleteTech": "Warm Climate",
                 "requiredTech": "Diversification of Jawed Fish",
 		"attackSound": "nonmetalhit",
-                "promotions": ["Osteichthyes"],
         "civilopediaText": [
 			{"text": "is one of the earliest articulated bony fish discovered. Fossils of Guiyu have been found in what is now Qujing, Yunnan, China, in late Silurian marine strata, about 425 million years old.
 Guiyu is part of the Xiaoxiang fauna which is rich in fossils representing a marine ecosystem. Found in the late Ludlow-aged Kuanti Formation, the remains were dated using conodonts as index fossils. The Xiaoxiang fauna also includes galeaspids, placoderms and acanthodians."}
@@ -153,8 +148,8 @@ Guiyu is part of the Xiaoxiang fauna which is rich in fossils representing a mar
 		"strength": 30,
 		"cost": 70,
                 "requiredTech": "Marine Biodiversity",
+                 "obsoleteTech": "Diversification of Jawed Fish",
 		"attackSound": "nonmetalhit",
-                "promotions": ["Chelicerata","Eurypterida"],
         "civilopediaText": [
 			{"text": "Eurypterus is an extinct genus of eurypterid, a group of organisms commonly called sea scorpions. The genus lived during the Silurian period, from around 432 to 418 million years ago. Eurypterus is by far the most well-studied and well-known eurypterid. Eurypterus fossil specimens probably represent more than 95% of all known eurypterid specimens.
 Eurypterus fossils often occur in similar sizes in a given area. This may be a result of the fossils being sorted into windrows as they were being deposited in shallow waters by storms and wave action.
@@ -171,7 +166,6 @@ The prosoma is the forward part of the body, it is actually composed of six segm
 		"strength": 15,
 		"cost": 40,
                 "obsoleteTech": "Warm Climate",
-                "promotions": ["Osteichthyes"],
                 "requiredTech": "Marine Biodiversity",
 		"attackSound": "nonmetalhit",
         "civilopediaText": [
@@ -186,7 +180,6 @@ The prosoma is the forward part of the body, it is actually composed of six segm
 		"cost": 125,
                 "obsoleteTech": "Late Devonian Extinction",
                 "requiredTech": "Placodermi",
-                "promotions": ["Vertebrata","Placodermi"],
 		"attackSound": "nonmetalhit",
         "civilopediaText": [
 			{"text": "Dunkleosteus fossils were first discovered in 1867 by Jay Terrell, a hotel owner and amateur paleontologist who collected fossils in the cliffs along Lake Erie near his home of Sheffield Lake, Ohio, United States. Terrell donated his fossils to John Strong Newberry and the Ohio Geological Survey, who in 1873 described all the material as belonging to a single new genus and species Dinichthys herzeri. However, with later fossil discoveries, by 1875 it became apparent multiple large fish species were present in the Ohio Shale. Dinichthys herzeri came from the lowermost layer, the Huron Shale, whereas most of the fossils were coming from the younger Cleveland Shale and represented a distinct species. Newberry named this more common species Dinichthys terrelli, after Terrell. Most of Terrell's original collection does not survive, having been destroyed by a fire in Elyria, Ohio, in 1873. Dunkleosteus fossils can also be found in the Birdsong Shale formation in Tennessee.
@@ -202,7 +195,6 @@ Dunkleosteus terrelli possessed a four-bar linkage mechanism for jaw opening tha
 		"cost": 40,
                 "obsoleteTech": "Late Devonian Extinction",
                 "requiredTech": "Placodermi",
-                "promotions": ["Placodermi"],
 		"attackSound": "nonmetalhit",
         "civilopediaText": [
 			{"text": "Microbrachius is an extinct genus of tiny, advanced antiarch placoderms closely related to the bothriolepids. Specimens range in age from the Lower Devonian Late Emsian Stage 393.3 Ma to the Middle Devonian Upper Givetian Stage 382.7 Ma. They are characterized by having large heads with short thoracic armor of an average length of 2 to 4 cm. There are patterns of small, but noticeable tubercles on the armor, with the arrangement varying from species to species. Specimens of Microbrachius have been found in Scotland, Belarus, Estonia, and China.
@@ -219,7 +211,6 @@ Microbrachius dicki is the earliest placoderm and vertebrate that shows evidence
 		"cost": 60,
                 "obsoleteTech": "Late Devonian Extinction",
                 "requiredTech": "Ammonites",
-                "promotions": ["Cephalopoda"],
 		"attackSound": "nonmetalhit",
         "civilopediaText": [
 			{"text": "Goldringia is an extinct nautilid of the Rutoceratidae family that lived during the Middle Devonian. It is known from New York, Ohio, and Indiana in the United States.
@@ -237,7 +228,6 @@ Halloceras, from the Lower Devonian, is a similar, gyroconiform rutoceratid."}
 		"cost": 40,
                 "obsoleteTech": "Rise of Coal Forests",
                 "requiredTech": "Warm Climate",
-                "promotions": ["Vertebrata","Chondrichthyes"],
 		"attackSound": "nonmetalhit",
         "civilopediaText": [
 			{"text": "Stethacanthus had different sizes depending on species, S. altonensis had length about 1.5 metres, while S. productus reached 3 metres. In many respects, it had a shark-like appearance. However, it is best known for its unusually shaped dorsal fin, which resembled an anvil or ironing board. Small spikes (enlarged versions of the dermal denticles commonly covering shark skin) covered this crest, and the ratfish's head as well. The crest may have played a role in mating rituals, aided in clamping to the belly of larger marine animals, or been used to frighten potential predators.
@@ -253,7 +243,6 @@ Like other members of Stethacanthidae, Stethacanthus had unique pelvic girdles, 
 		"cost": 30,
                 "obsoleteTech": "Rise of Coal Forests",
                 "requiredTech": "Warm Climate",
-                "promotions": ["Sarcopterygii","Tetrapodomorpha"],
 		"attackSound": "nonmetalhit",
         "civilopediaText": [
 			{"text": "Hyneria was a large fish. H. lindae is estimated around 2.5–3 metres. An isolated cleithrum AM 6545 likely belongs to an individual of at least 2.7 metres. The largest complete jaw reaches 38 centimetres, but there is much larger fragment possibly from a jaw about twice that length, although that specimen may belong to a rhizodont instead. Assuming this jaw fragment does pertain to Hyneria, and assuming proportions similar to more complete tristichopterids, it suggests H. lindae could possibly reach lengths up to 3.5 metres. A second species, H. uldezinye, was once estimated as having a length of between 2 and 4 metres before being described. However, the species description estimates that the largest specimen belongs to an animal about 3 metres. Its skull had heavy, ornamented dermal bones and its lower jaw was relatively long and shallow. The teeth were stout, with those of the premaxilla forming fangs upwards of 5 cm. Its body was covered by cycloid scales. It had large sensory canals to aid in detection of possible prey, as the freshwater environment it inhabited likely was murky and had low visibility. Adult individuals retained juvenile features, suggesting that they were likely neotenic."}
@@ -268,7 +257,6 @@ Like other members of Stethacanthidae, Stethacanthus had unique pelvic girdles, 
                 "obsoleteTech": "Rise of Coal Forests",
                 "requiredTech": "Amphibians",
                 "uniques": ["May travel on Water tiles without embarking"],
-                "promotions": ["Vertebrata","Tetrapoda"],
 		"attackSound": "nonmetalhit",
         "civilopediaText": [
 			{"text": "Ichthyostega is an extinct genus of limbed tetrapodomorphs from the Late Devonian of what is now Greenland. It was among the earliest four-limbed vertebrates ever in the fossil record and was one of the first with weight-bearing adaptations for terrestrial locomotion. Ichthyostega possessed lungs and limbs that helped it navigate through shallow water in swamps. Although Ichthyostega is often labelled a tetrapod because of its limbs and fingers, it evolved long before true crown group tetrapods and could more accurately be referred to as a stegocephalian or stem tetrapod. Likewise, while undoubtedly of amphibian build and habit, it is not a true member of the group in the narrow sense, as the first modern amphibians members of the group Lissamphibia appeared in the Triassic Period. Until finds of other early stegocephalians and closely related fishes in the late 20th century, Ichthyostega stood alone as a transitional fossil between fish and tetrapods, combining fish and tetrapod features. Newer research has shown that it had an unusual anatomy, functioning more akin to a seal than a salamander, as previously assumed."}
@@ -283,7 +271,6 @@ Like other members of Stethacanthidae, Stethacanthus had unique pelvic girdles, 
                 "obsoleteTech": "Rise of Coal Forests",
                 "requiredTech": "Amphibians",
                 "uniques": ["May travel on Water tiles without embarking"],
-                "promotions": ["Sarcopterygii"],
 		"attackSound": "nonmetalhit",
         "civilopediaText": [
 			{"text": "Unearthed in Arctic Canada, Tiktaalik is a non-tetrapod member of Osteichthyes (bony fish), complete with scales and gills—but it has a triangular, flattened head and unusual, cleaver-shaped fins. Its fins have thin ray bones for paddling like most fish, but they also have sturdy interior bones that would have allowed Tiktaalik to prop itself up in shallow water and use its limbs for support as most four-legged animals do. Those fins and other mixed characteristics mark Tiktaalik as a crucial transition fossil, a link in evolution from swimming fish to four-legged vertebrates. This and similar animals might be the common ancestors of all vertebrate terrestrial fauna: amphibians, reptiles, birds and mammals."}
@@ -296,7 +283,7 @@ Like other members of Stethacanthidae, Stethacanthus had unique pelvic girdles, 
 		"strength": 90,
 		"cost": 190,
                 "requiredTech": "Amphibian Proliferation",
-                "promotions": ["Sarcopterygii","Tetrapodomorpha"],
+                "obsoleteTech": "Late Devonian Extinction",
 		"attackSound": "nonmetalhit",
         "civilopediaText": [
 			{"text": "Crassigyrinus had a streamlined body up to 2 meters in length. Its limbs were tiny and virtually useless, implying that the animal was almost completely aquatic. Crassigyrinus had unusually large jaws, equipped with two rows of sharp teeth, the second row having a pair of palatal fangs. Studies have shown that Crassigyrinus may have been able to open its mouth as wide as 60 degrees, which suggests that it was a powerful predator with a strong bite. This strongly suggests that it was ideally suited for catching fish, and the animal was probably a fast-moving predator."}
@@ -309,7 +296,7 @@ Like other members of Stethacanthidae, Stethacanthus had unique pelvic girdles, 
 		"strength": 100,
 		"cost": 160,
                 "requiredTech": "Diversification",
-                "promotions": ["Sarcopterygii","Rhizodontia"],
+                "obsoleteTech": "Late Devonian Extinction",
 		"attackSound": "nonmetalhit",
         "civilopediaText": [
 			{"text": "The Barameda had an extremely elongated and thick body typical of Carboniferous rhizodonts. It was covered with moderately thin, cycloidal scales, with thick bony plates covering its head and operculum (gill flaps), a tightly fused Skull roof, and extremely prominent, sharp fangs, devoid of serrations or cutting edges. Its scales preserved a lateral line. Originally it was estimated to have a typical narrow pectoral fin, however a later study shows that it had a wider pectoral fin like other Carboniferous rhizodonts."}
@@ -322,7 +309,7 @@ Like other members of Stethacanthidae, Stethacanthus had unique pelvic girdles, 
 		"strength": 160,
 		"cost": 190,
                 "requiredTech": "Diversification",
-                "promotions": ["Chondrichthyes"],
+                "obsoleteTech": "Late Devonian Extinction",
 		"attackSound": "nonmetalhit",
         "civilopediaText": [
 			{"text": "Saivodus is an extinct genus of ctenacanthiform fish that existed in early Mississippian of the Carboniferous period. Fossils have been found in Ireland, Scotland, England, Belgium, Morocco, and the United States. Teeth assigned to that genus are also known from the Permian (Leonardian) Kaibab Formation."}
@@ -335,7 +322,7 @@ Like other members of Stethacanthidae, Stethacanthus had unique pelvic girdles, 
 		"strength": 120,
 		"cost": 140,
                 "requiredTech": "Diversification",
-                "promotions": ["Chondrichthyes"],
+                "obsoleteTech": "The Great Dying",
 		"attackSound": "nonmetalhit",
         "civilopediaText": [
 			{"text": "Saivodus is an extinct genus of ctenacanthiform fish that existed in early Mississippian of the Carboniferous period. Fossils have been found in Ireland, Scotland, England, Belgium, Morocco, and the United States. Teeth assigned to that genus are also known from the Permian (Leonardian) Kaibab Formation."}
@@ -348,7 +335,7 @@ Like other members of Stethacanthidae, Stethacanthus had unique pelvic girdles, 
 		"strength": 170,
 		"cost": 210,
                 "requiredTech": "Diversification",
-                "promotions": ["Chondrichthyes"],
+                "obsoleteTech": "Late Devonian Extinction",
 		"attackSound": "nonmetalhit",
         "civilopediaText": [
 			{"text": "Saivodus is an extinct genus of ctenacanthiform fish that existed in early Mississippian of the Carboniferous period. Fossils have been found in Ireland, Scotland, England, Belgium, Morocco, and the United States. Teeth assigned to that genus are also known from the Permian (Leonardian) Kaibab Formation."}
@@ -361,7 +348,7 @@ Like other members of Stethacanthidae, Stethacanthus had unique pelvic girdles, 
 		"strength": 50,
 		"cost": 140,
                 "requiredTech": "Amphibian Proliferation",
-                "promotions": ["Tetrapoda","Amphibia"],
+                "obsoleteTech": "Marine Reefs",
 		"attackSound": "nonmetalhit",
         "civilopediaText": [
 			{"text": "Diplocaulus (meaning double stalk) is an extinct genus of lepospondyl amphibians which lived from the Late Carboniferous to the Late Permian of North America and Africa. Diplocaulus is by far the largest and best-known of the lepospondyls, characterized by a distinctive boomerang-shaped skull. Remains attributed to Diplocaulus have been found from the Late Permian of Morocco and represent the youngest-known occurrence of a lepospondyl."}
@@ -374,7 +361,7 @@ Like other members of Stethacanthidae, Stethacanthus had unique pelvic girdles, 
 		"strength": 200,
 		"cost": 170,
                 "requiredTech": "Panthalassa Ocean",
-                "promotions": ["Chondrichthyes"],
+                "obsoleteTech": "Marine Reefs",
 		"attackSound": "nonmetalhit",
         "civilopediaText": [
 			{"text": "Barbclabornia is an extinct genus of xenacanth from the Early Permian and possibly upper Pennsylvanian of North America. The genus contains a single described species B. luedersensis. It has been found in several places within Asselian and Atinskian formations, including the Clear Fork, Albany, Wichita, and Dunkard Groups. There are possible examples from the Gzhelian-aged Admire, Monongahela, and Conemaugh groups.
@@ -391,7 +378,7 @@ The genus Barbclabornia honors Barbara and Alvie Claborn, who discovered and hel
 		"strength": 170,
 		"cost": 90,
                 "requiredTech": "Marine Reefs",
-                "promotions": ["Cephalopoda"],
+                "obsoleteTech": "Decline of Marine Biodiversity",
 		"attackSound": "nonmetalhit",
         "civilopediaText": [
 			{"text": "Elephantoceras is genus of a Middle Permian ammonite belonging to the goniatitid family Pseudohaloritidae. Fossils belonging to this genus were found in China."}
@@ -404,12 +391,13 @@ The genus Barbclabornia honors Barbara and Alvie Claborn, who discovered and hel
 		"strength": 210,
 		"cost": 200,
                 "requiredTech": "Decline of Marine Biodiversity",
-                "promotions": ["Chondrichthyes"],
+                "obsoleteTech": "Triassic Jurassic Extinction",
 		"attackSound": "nonmetalhit",
         "civilopediaText": [
 			{"text": "Wodnika is an extinct genus of ctenacanth which lived in the Late Permian period in the present area of Germany and Russia. It measured about 1 m in length and its tail shape indicates it was probably a good swimmer. Internally, the cartilage skeleton is preserved on the fossil, which is fairly rare for fossilized shark-like chondrichthyans."}
 		]
 	},
+
 {
 		"name": "Neopteroplax",
 		"unitType": "Land Chordata",
@@ -418,7 +406,7 @@ The genus Barbclabornia honors Barbara and Alvie Claborn, who discovered and hel
 		"cost": 210,
                 "uniques": ["May travel on Water tiles without embarking"],
                 "requiredTech": "Diversification",
-                "promotions": ["Sarcopterygii","Tetrapodomorpha"],
+                "obsoleteTech": "Fossilization",
 		"attackSound": "nonmetalhit",
         "civilopediaText": [
 			{"text": "Neopteroplax is an extinct genus of eogyrinid embolomere closely related to European genera such as Eogyrinus and Pteroplax. Members of this genus were among the largest embolomeres (and Carboniferous tetrapods in general) in North America. Neopteroplax is primarily known from a large (40 cm) skull found in Ohio, although fragmentary embolomere fossils from Texas and New Mexico have also been tentatively referred to the genus. Despite its similarities to specific European embolomeres, it can be distinguished from them due to a small number of skull and jaw features, most notably a lower surangular at the upper rear portion of the lower jaw."}
@@ -431,7 +419,7 @@ The genus Barbclabornia honors Barbara and Alvie Claborn, who discovered and hel
 		"strength": 110,
 		"cost": 190,
                 "requiredTech": "Early Reptiles",
-                "promotions": ["Synapsida","Pelicosauria"],
+                "obsoleteTech": "Diversification",
 		"attackSound": "nonmetalhit",
         "civilopediaText": [
 			{"text": "Archaeothyris is an extinct genus of ophiacodontid synapsid that lived during the Late Carboniferous and is known from Nova Scotia. Dated to 306 million years ago, Archaeothyris, along with a more poorly known synapsid called Echinerpeton, are the oldest undisputed synapsids known. The name means ancient window (Greek), and refers to the opening in the skull, the temporal fenestra, which indicates this is an early synapsid. Protoclepsydrops also from Nova Scotia is slightly older but is known by very fragmentary materials."}
@@ -444,7 +432,7 @@ The genus Barbclabornia honors Barbara and Alvie Claborn, who discovered and hel
 		"strength": 80,
 		"cost": 130,
                 "requiredTech": "Early Reptiles",
-                "promotions": ["Reptilia"],
+                "obsoleteTech": "Diversification",
 		"attackSound": "nonmetalhit",
         "civilopediaText": [
 			{"text": "Hylonomus is an extinct genus of reptile that lived 318 million years ago during the Bashkirian stage of the Late Carboniferous. It is the earliest known crown group amniote and the oldest known unquestionable reptile, with the only known species being Hylonomus lyelli. Despite being amongst the oldest known reptiles, it is not the most primitive member of the group, being a eureptile more derived than either parareptiles or captorhinids."}
@@ -457,7 +445,7 @@ The genus Barbclabornia honors Barbara and Alvie Claborn, who discovered and hel
 		"strength": 60,
 		"cost": 140,
                 "requiredTech": "Insect Gigantism",
-                "promotions": ["Insecta","Palaeoptera"],
+                "obsoleteTech": "Fossilization",
 		"attackSound": "nonmetalhit",
         "civilopediaText": [
 			{"text": "Meganeura is a genus of extinct insects from the Late Carboniferous (approximately 300 million years ago). They resembled and are related to the present-day dragonflies and damselflies, and were predatory, with their diet mainly consisting of other insects. The genus belongs to the Meganeuridae, a family including other similarly giant dragonfly-like insects ranging from the Late Carboniferous to Middle Permian. With single wing length reaching 32 centimetres and a wingspan about 65–75 cm, M. monyi is one of the largest-known flying insect species."}
@@ -470,7 +458,7 @@ The genus Barbclabornia honors Barbara and Alvie Claborn, who discovered and hel
 		"strength": 120,
 		"cost": 230,
                 "requiredTech": "Insect Gigantism",
-                "promotions": ["Myriapoda"],
+                "obsoleteTech": "Development of Conifer Forests",
 		"attackSound": "nonmetalhit",
         "civilopediaText": [
 			{"text": "All fossils of Arthropleura available are believed to be exuviae (molting shells) instead of carcasses. The good preservation of its thin exuviae, buttressing plates around the leg base, and evidence of 3 cm deep trackway fossils (namely the ichnotaxon Diplichnites cuithensis) altogether suggests that they had a sturdy exoskeleton and roamed the land. Arthropleura was once thought to have lived mainly in coal forests. However, it probably lived a forest-independent life, as fossils of the trackway were found in more open areas and fossils were found even after the Carboniferous rainforest collapse.
@@ -489,7 +477,7 @@ Through careful observation of the Arthropleura's fossils, the likeliest modes o
 		"strength": 120,
 		"cost": 290,
                 "requiredTech": "Lycophytes and Horsetails",
-                "promotions": ["Synapsida","Sphenacomorpha"],
+                "obsoleteTech": "Reduction of Coal Swamps",
 		"attackSound": "nonmetalhit",
         "civilopediaText": [
 			{"text": "Edaphosaurus is important as one of the earliest-known, large, plant-eating (herbivorous), amniote tetrapods (four-legged land-living vertebrates). In addition to the large tooth plates in its jaws, the most characteristic feature of Edaphosaurus is a sail on its back. A number of other synapsids from the same time period also have tall dorsal sails, most famously the large apex predator Dimetrodon. However, the sail on Edaphosaurus is different in shape and morphology. The first fossils of Edaphosaurus came from the Texas Red Beds in North America, with later finds in New Mexico, Oklahoma, West Virginia, and Ohio. Fragmentary fossils attributed to Edaphosaurus have also been found in eastern Germany in Central Europe.
@@ -508,7 +496,7 @@ Researchers have suggested that such sails could have provided camouflage, wind-
 		"strength": 140,
 		"cost": 250,
                 "requiredTech": "Siberia",
-                "promotions": ["Synapsida","Pelicosauria"],
+                "obsoleteTech": "Reduction of Coal Swamps",
 		"attackSound": "nonmetalhit",
         "civilopediaText": [
 			{"text": "Lupeosaurus is an extinct genus of pelycosaurian synapsids, assigned to the family Edaphosauridae. Lupeosaurus was about 3 metres long and weighed around 166 kilograms."}
@@ -521,7 +509,7 @@ Researchers have suggested that such sails could have provided camouflage, wind-
 		"strength": 140,
 		"cost": 250,
                 "requiredTech": "Siberia",
-                "promotions": ["Synapsida","Pelicosauria"],
+                "obsoleteTech": "Reduction of Coal Swamps",
 		"attackSound": "nonmetalhit",
         "civilopediaText": [
 			{"text": "Ctenospondylus (comb vertebra) is an extinct genus of sphenacodontid synapsid
@@ -535,7 +523,7 @@ Species were about three meters long. The genus is known only from the Seymouran
 		"strength": 180,
 		"cost": 300,
                 "requiredTech": "Reduction of Coal Swamps",
-                "promotions": ["Synapsida","Pelicosauria"],
+                "obsoleteTech": "Thermal Maximum",
 		"attackSound": "nonmetalhit",
         "civilopediaText": [
 			{"text": "Dimetrodon is an extinct genus of non-mammalian synapsid belonging to the family Sphenacodontidae that lived during the Cisuralian age of the Early Permian period, around 295–272 million years ago. With most species measuring 1.7–4.6 m long and weighing 28–250 kg, the most prominent feature of Dimetrodon is the large neural spine sail on its back formed by elongated spines extending from the vertebrae. It was an obligate quadruped (it could only walk on four legs) and had a tall, curved skull with large teeth of different sizes set along the jaws. Most fossils have been found in the Southwestern United States, the majority of these coming from a geological deposit called the Red Beds of Texas and Oklahoma. More recently, its fossils have also been found in Germany and over a dozen species have been named since the genus was first erected in 1878.
@@ -550,8 +538,8 @@ Dimetrodon is often mistaken for a dinosaur or as a contemporary of dinosaurs in
 		"strength": 120,
 		"cost": 300,
                 "requiredTech": "Reduction of Coal Swamps",
+                "obsoleteTech": "Thermal Maximum",
                 "uniques": ["All adjacent units heal [25] HP when healing"],
-                "promotions": ["Synapsida","Pelicosauria"],
 		"attackSound": "nonmetalhit",
         "civilopediaText": [
 			{"text": "Secodontosaurus (meaning cutting-tooth lizard) is an extinct genus of pelycosaur synapsids that lived from between about 285 to 272 million years ago during the Early Permian. Like the well known Dimetrodon, Secodontosaurus is a carnivorous member of the Eupelycosauria family Sphenacodontidae and has a similar tall dorsal sail. However, its skull is long, low, and narrow, with slender jaws that have teeth that are very similar in size and shape—unlike the shorter, deep skull of Dimetrodon (two-measure tooth), which has large, prominent canine-like teeth in front and smaller slicing teeth further back in its jaws. Its unusual long, narrow jaws suggest that Secodontosaurus may have been specialized for catching fish or for hunting prey that lived or hid in burrows or crevices. Although no complete skeletons are currently known, Secodontosaurus likely ranged from about 2 to 2.7 metres in length, weighing up to 110 kilograms."}
@@ -564,7 +552,7 @@ Dimetrodon is often mistaken for a dinosaur or as a contemporary of dinosaurs in
 		"strength": 190,
 		"cost": 350,
                 "requiredTech": "Thermal Maximum",
-                "promotions": ["Synapsida","Pelicosauria"],
+                "obsoleteTech": "Early Mammal Ancestors",
 		"attackSound": "nonmetalhit",
         "civilopediaText": [
 			{"text": "Ennatosaurus is an extinct genus of caseid synapsid that lived during the Middle Permian (late Roadian - early Wordian) in northern European Russia. The genus is only represented by its type species, Ennatosaurus tecton, which was named in 1956 by Ivan Antonovich Efremov. The species is known from at least six skulls associated with their lower jaws (two of them preserved with the hyoid apparatus), as well as from the postcranial bones of several juvenile individuals. Ennatosaurus has the typical caseid skull with a short snout tilted forward and very large external nares. However, it differs from other derived caseids by its postcranial skeleton with smaller proportions compared to the size of the skull. As with other advanced caseids, the teeth of Ennatosaurus were well suited for slicing and cutting vegetation. The presence of a highly developed hyoid apparatus indicates the presence of a massive and mobile tongue, which had to work in collaboration with the palatal teeth during swallowing. With a late Roadian - early Wordian age, Ennatosaurus is one of the last known caseids (with Lalieudorhynchus from southern France)."}
@@ -577,7 +565,7 @@ Dimetrodon is often mistaken for a dinosaur or as a contemporary of dinosaurs in
 		"strength": 150,
 		"cost": 320,
                 "requiredTech": "Early Mammal Ancestors",
-                "promotions": ["Tetrapoda","Synapsida","Therapsida"],
+                "obsoleteTech": "The Great Dying",
 		"attackSound": "nonmetalhit",
         "civilopediaText": [
 			{"text": "Moschops were heavy set dinocephalian synapsids, measuring 2.7 metres in length, and weighing 129 kg on average and 327.4 kg in maximum body mass. They had small heads with broad orbits and heavily built short necks. Like other members of Tapinocephalidae, the skull had a tiny opening for the pineal organ. The occiput was broad and deep, but the skull was more narrow in the dorsal border. Furthermore, the pterygoid arches and the angular region of the jaw with heavily built jaw muscles. Due to that and the possession of long-crowned, stout teeth, it is believed that Moschops was a herbivore feeding on nutrient-poor and tough vegetation, like cycad stems. Due to the presumably nutrient-poor food, it is likely they had to feed for long periods of time. The anatomy of the taxa allowed them to open the elbow joints more widely, enabling them to move in a more mammal-like posture than some other animals at the time. This helped to carry their massive bodies more easily while feeding, as well as allowing them short bursts of speed. It has also been proposed that Moschops were possibly sub-aquatic. Moschops had rather thick skulls, prompting speculation that individuals could have competed with one another by head-butting. A 2017 published study would later confirm this by synchrotron scanning a Moschops capensis skull, which revealed numerous anatomical adaptations to the central nervous system for combative behaviour. They were likely preyed upon by titanosuchids and larger therocephalian species."}
@@ -590,7 +578,7 @@ Dimetrodon is often mistaken for a dinosaur or as a contemporary of dinosaurs in
 		"strength": 100,
 		"cost": 270,
                 "requiredTech": "Early Mammal Ancestors",
-                "promotions": ["Synapsida","Therapsida"],
+                "obsoleteTech": "The Great Dying",
 		"attackSound": "nonmetalhit",
         "civilopediaText": [
 			{"text": "Lemurosaurus is a genus of extinct biarmosuchian therapsids from the Late Permian of South Africa. The Lemurosaurus is easily identifiable by its prominent eye crests, and large eyes. The name Lemurosaurus pricei was coined by paleontologist Robert Broom in 1949, based on a single small crushed skull, measured at approximately 86 millimeters in length, found on the Dorsfontein farm in Graaff-Reinet. To date, only two skulls of the Lemurosaurus have been discovered, so body size is unknown. The second larger, more intact, skull was found in 1974 by a team from the National Museum, Bloemfontein."}
@@ -603,8 +591,8 @@ Dimetrodon is often mistaken for a dinosaur or as a contemporary of dinosaurs in
 		"strength": 100,
 		"cost": 300,
                 "requiredTech": "Early Mammal Ancestors",
+                "obsoleteTech": "The Great Dying",
                 "uniques": ["[+55]% Strength <vs [Moschops] units>"],
-                "promotions": ["Dinocephalia","Synapsida","Therapsida"],
 		"attackSound": "nonmetalhit",
         "civilopediaText": [
 			{"text": "Titanosuchus ferox is an extinct species of dinocephalian therapsids that lived in the Middle Permian epoch in South Africa.
@@ -621,12 +609,640 @@ Parascapanodon and Scapanodon were once thought to be distinct genera, but are n
 		"strength": 160,
 		"cost": 300,
                 "requiredTech": "Formation of Mountain Ranges",
-                "promotions": ["Therocephalia","Synapsida","Therapsida"],
+                "obsoleteTech": "The Great Dying",
 		"attackSound": "nonmetalhit",
         "civilopediaText": [
 			{"text": "Moschorhinus is an extinct genus of therocephalian synapsid in the family Akidnognathidae with only one species M. kitchingi, which has been found in the Late Permian to Early Triassic of the South African Karoo Supergroup. It was a large carnivorous therapsid, reaching 1.1–1.5 metres in total body length with the largest skull comparable to that of a lion in size, and had a broad, blunt snout which bore long, straight canines.
 
 Moschorhinus appears to have ecologically replaced the gorgonopsids as an apex predator, and hunted much like a big cat. While most abundant in the Late Permian, it survived into the Early Triassic in small numbers after the Permian Extinction, though these Triassic survivors had stunted growth."}
+		]
+	},
+        {
+		"name": "Lystrosaurus",
+		"unitType": "Land Chordata",
+		"movement": 3,
+		"strength": 120,
+		"cost": 300,
+                "requiredTech": "Formation of Mountain Ranges",
+                "obsoleteTech": "Triassic Deserts",
+		"attackSound": "nonmetalhit",
+        "civilopediaText": [
+			{"text": "Lystrosaurus is an extinct genus of herbivorous dicynodont therapsids from the late Permian and Early Triassic epochs (around 248 million years ago). It lived in what is now Antarctica, India, China, Mongolia, European Russia and South Africa. Four to six species are currently recognized, although from the 1930s to 1970s the number of species was thought to be much higher. They ranged in size from that of a small dog to 8 feet (2.5 meters) long.
+
+As a dicynodont, Lystrosaurus had only two teeth (a pair of tusk-like canines), and is thought to have had a horny beak that was used for biting off pieces of vegetation. Lystrosaurus was a heavily built, herbivorous animal. The structure of its shoulders and hip joints suggests that Lystrosaurus moved with a semi-sprawling gait. The forelimbs were even more robust than the hindlimbs, and the animal is thought to have been a powerful digger that nested in burrows.
+
+Lystrosaurus survived the Permian-Triassic extinction, 252 million years ago. In the Early Triassic, they were by far the most common terrestrial vertebrates, accounting for as many as 95% of the total individuals in some fossil beds. Researchers have offered various hypotheses for why Lystrosaurus survived the extinction event and thrived in the early Triassic."}
+		]
+	},
+{
+		"name": "Utatsusaurus",
+		"unitType": "Aquatic Chordata",
+		"movement": 3,
+		"strength": 250,
+		"cost": 200,
+                "requiredTech": "Triassic Marine Life",
+                "obsoleteTech": "Triassic Diversification",
+		"attackSound": "nonmetalhit",
+        "civilopediaText": [
+			{"text": "Utatsusaurus hataii is the earliest-known ichthyopterygian which lived in the Early Triassic period. It was nearly 2.5–3 metres long with a slender body. The first specimen was found in Utatsu-cho (now part of Minamisanriku-cho), Miyagi Prefecture, Japan. It is the only described species in the genus Utatsusaurus and the only member of the family Utatsusauridae. The name Utatsusaurus was given after the city. The fossils have been found from the Early Triassic Osawa Formation of Miyagi Prefecture, Japan and British Columbia, Canada.
+
+Utatsusaurus is one of the most primitive grades of ichthyosaurs, a basal ichthyosaur."}
+		]
+	},
+{
+		"name": "Mixosaurus",
+		"unitType": "Aquatic Chordata",
+		"movement": 3,
+		"strength": 270,
+		"cost": 230,
+                "requiredTech": "Triassic Diversification",
+                "obsoleteTech": "Marine Reptiles",
+		"attackSound": "nonmetalhit",
+        "civilopediaText": [
+			{"text": "Mixosaurus is an extinct genus of Middle Triassic (Anisian to Ladinian, about 250-240 Mya) ichthyosaur. Its fossils have been found near the Italy–Switzerland border and in South China.
+
+The genus was named in 1887 by George H. Baur. The name means (Mixed Lizard), and was chosen because it appears to have been a transitional form between the eel-shaped ichthyosaurs such as Cymbospondylus and the later dolphin-shaped ichthyosaurs, such as Ichthyosaurus. Baur named Mixosaurus as a new genus because its forefin was sufficiently different from that of Ichthyosaurus.
+
+Numerous species have been described within this genus, which was once considered as the most common genus of Triassic ichthyosaurs. The type species is M. cornalianus, and the definitive number of species is debated among researchers."}
+		]
+	},
+{
+		"name": "Anarosaurus",
+		"unitType": "Aquatic Chordata",
+		"movement": 3,
+		"strength": 260,
+		"cost": 200,
+                "requiredTech": "Triassic Diversification",
+                "obsoleteTech": "Marine Reptiles",
+		"attackSound": "nonmetalhit",
+        "civilopediaText": [
+			{"text": "Anarosaurus is an extinct genus of pachypleurosaurs that lived in the Middle Triassic period (Anisian) and has been found in the Jena Formation and the Karlstadt Formation of Germany and the Winterswijk Quarry (Lower Muschelkalk) of The Netherlands. Two species are known: A. pumilio (the type species) and A. heterodontus. The holotype of A. pumilio was originally housed at the Institut und Museum fur Geologie und Palaontologie, Georg-August-Universitat, Gottingen, but can no longer be located today because it was lost or destroyed during World War II. Anarosaurus was a small reptile with an estimated body length of 50–60 cm (1.6–2.0 ft)."}
+		]
+	},
+{
+		"name": "Cymbospondylus",
+		"unitType": "Aquatic Chordata",
+		"movement": 3,
+		"strength": 340,
+		"cost": 270,
+                "requiredTech": "Triassic Diversification",
+                "obsoleteTech": "Marine Reptiles",
+                "uniques": ["Limited to [2] per Civilization"],
+		"attackSound": "nonmetalhit",
+        "civilopediaText": [
+			{"text": "Cymbospondylus (meaning cupped vertebrae) is an extinct genus of large ichthyosaurs, of which it is among the oldest representatives, that lived from the Lower to Middle Triassic in what are now North America and Europe. The first known fossils of this taxon are a set of more or less complete vertebrae which were discovered in the 19th century in various mountain ranges of Nevada, in the United States, before being named and described by Joseph Leidy in 1868. It is in the beginning of the 20th century that more complete fossils were discovered through several expeditions launched by the University of California, and described in more detail by John Campbell Merriam in 1908, thus visualizing the overall anatomy of the animal. While many species have been assigned to the genus, only five are recognized as valid, the others being considered synonymous, doubtful or belonging to other genera. Cymbospondylus was formerly classified as a representative of the Shastasauridae, but more recent studies consider it to be more basal, view as the type genus of the Cymbospondylidae.
+
+As an ichthyosaur, Cymbospondylus had flippers for limbs and a fin on the tail. Like other non-parvipelvian ichthyosaurs, Cymbospondylus has a very slender profile, unlike later ichthyosaurs which have a morphology similar to those of dolphins. The different species of Cymbospondylus vary greatly in size, with the smallest reaching around 4 to 5 metres (13 to 16 ft) in length. The largest known species, C. youngorum, is estimated over 17 metres (56 ft) long, making Cymbospondylus one of the largest ichthyosaurs identified to date, but also one of the largest animals known of its time. The animal has a skull with a long, thin snout, proportionally small eye sockets, an elongated trunk, and a less pronounced tail than in later ichthyosaurs. The teeth are conical and pointed, having longitudinal ridges, indicating a diet of fishes and cephalopods, and possibly other marine reptiles for larger species."}
+		]
+	},
+{
+		"name": "Pistosaurus",
+		"unitType": "Aquatic Chordata",
+		"movement": 3,
+		"strength": 330,
+		"cost": 280,
+                "requiredTech": "Marine Reptiles",
+                "obsoleteTech": "Marine Reptile Diversity",
+		"attackSound": "nonmetalhit",
+        "civilopediaText": [
+			{"text": "Pistosaurus (pistos in Greek meaning 'credible' and sauros 'lizard') is an extinct genus of aquatic sauropterygian reptile closely related to plesiosaurs. Fossils have been found in France and Germany, and date to the Middle Triassic. It contains a single species, Pistosaurus longaevus.
+
+The skull of Pistosaurus generally resembles that of other Triassic sauropterygians. However, there are several synapomorphies that make Pistosaurus distinguished: the long, slender, snout; the possession of splint-like nasals that are excluded from the external naris; and the posterior extension of the premaxilla to the frontals. Based on synapomorphies such as the small nasals size and the presence of interpterygoid vacuity, Pistosaurus is more closely related to Plesiosauria than to Nothosaurus.
+
+Pistosaurus is often mistaken with Nothosaurus and Plesiosauria. Nothosaurus belongs to the clade Nothosauroidea from the middle Triassic (approximately 199-251 million years ago); while Pistosaurus belongs to stem group Plesiosauria; and both Pistosaurus and Plesiosauria belongs to clade Pistosauroidea from Triassic. Both Nothosauroidea and Pistosauroidea belong to Sauropterygia."}
+		]
+	},
+{
+		"name": "Placodus",
+		"unitType": "Aquatic Chordata",
+		"movement": 3,
+		"strength": 350,
+		"cost": 280,
+                "requiredTech": "Marine Reptile Diversity",
+                "obsoleteTech": "Triassic Jurassic Extinction",
+		"attackSound": "nonmetalhit",
+        "civilopediaText": [
+			{"text": "Placodus (from Greek: plax, plakos, a plate and Greek: odous, tooth) is an extinct genus of marine reptiles belonging to the order Placodontia, which swam in the shallow seas of the middle Triassic period (c. 240 million years ago). Fossils of Placodus have been found in Central Europe (Germany, France, Poland) and China.
+
+Placodus had a stocky body with a long tail, and reached a total length of 2.5–3 m (8.2–9.8 ft). It had a short neck, and a heavy skull. They were specialized for a durophagous diet of shellfish, such as bivalves. Chisel-like incisors protruded from the anterior margin of the snout, and were probably used to pluck hard-shelled benthic prey from the substrate. The back teeth were broad and flattened, and would have helped to crush the prey. Before the animals' anatomy was known, they were regarded as fishes' teeth. Similar smaller teeth were present on the palatine bones.
+
+Placodus and its relatives were not as well-adapted to aquatic life as some later reptile groups, like the closely related plesiosaurs. Their flattened tails and short legs, which probably ended in webbed feet, would have been their main means of propulsion in the water.
+
+The parietal eye on top of the head assisted the animal with orientation, rather than its vision, and its presence is regarded as a primitive characteristic."}
+		]
+	},
+{
+		"name": "Shonisaurus",
+		"unitType": "Aquatic Chordata",
+		"movement": 3,
+		"strength": 400,
+		"cost": 400,
+                "requiredTech": "Marine Reptile Diversity",
+                "obsoleteTech": "Triassic Jurassic Extinction",
+		"attackSound": "nonmetalhit",
+        "civilopediaText": [
+			{"text": "Placodus (from Greek: plax, plakos, a plate and Greek: odous, tooth) is an extinct genus of marine reptiles belonging to the order Placodontia, which swam in the shallow seas of the middle Triassic period (c. 240 million years ago). Fossils of Placodus have been found in Central Europe (Germany, France, Poland) and China.
+
+Placodus had a stocky body with a long tail, and reached a total length of 2.5–3 m (8.2–9.8 ft). It had a short neck, and a heavy skull. They were specialized for a durophagous diet of shellfish, such as bivalves. Chisel-like incisors protruded from the anterior margin of the snout, and were probably used to pluck hard-shelled benthic prey from the substrate. The back teeth were broad and flattened, and would have helped to crush the prey. Before the animals' anatomy was known, they were regarded as fishes' teeth. Similar smaller teeth were present on the palatine bones.
+
+Placodus and its relatives were not as well-adapted to aquatic life as some later reptile groups, like the closely related plesiosaurs. Their flattened tails and short legs, which probably ended in webbed feet, would have been their main means of propulsion in the water.
+
+The parietal eye on top of the head assisted the animal with orientation, rather than its vision, and its presence is regarded as a primitive characteristic."}
+		]
+	},
+{
+		"name": "Atychodracon",
+		"unitType": "Aquatic Chordata",
+		"movement": 3,
+		"strength": 200,
+		"cost": 190,
+                "requiredTech": "Marine Reptile Diversity",
+                "obsoleteTech": "Triassic Jurassic Extinction",
+		"attackSound": "nonmetalhit",
+        "civilopediaText": [
+			{"text": "Atychodracon is an extinct genus of rhomaleosaurid plesiosaurian known from the Late Triassic - Early Jurassic boundary (probably early Hettangian stage) of England. It contains a single species, Atychodracon megacephalus, named in 1846 originally as a species of Plesiosaurus. The holotype of P. megacephalus was destroyed during a World War II air raid in 1940 and was later replaced with a neotype. The species had a very unstable taxonomic history, being referred to four different genera by various authors until a new genus name was created for it in 2015. Apart from the destroyed holotype and its three partial casts (that survived), a neotype and two additional individuals are currently referred to Atychodracon megacephalus, making it a relatively well represented rhomaleosaurid."}
+		]
+	},
+{
+		"name": "Eretmorhipis",
+		"unitType": "Land Chordata",
+		"movement": 2,
+		"strength": 100,
+		"cost": 200,
+                "requiredTech": "Recovery from Extinction",
+                "obsoleteTech": "Triassic Diversification",
+                "uniques": ["May travel on Water tiles without embarking"],
+		"attackSound": "nonmetalhit",
+        "civilopediaText": [
+			{"text": "Eretmorhipis (meaning oar fan from the Greek ερετμον, oar, and ῥιπίς, fan) is an extinct genus of hupehsuchian marine reptiles from the Early Triassic of China. It is currently known from two specimens that were discovered in an exposure of the Jialingjiang Formation in Yuan'an County, Hubei, and referred to the newly named species Eretmorhipis carrolldongi in 2015.
+
+Eretmorhipis carrolldongi is noted for its exceptionally small eyes relative to the body, platypus-like snout, and plates on its back like a stegosaurus.
+
+One of those specimens, the holotype WGSC V26020, had been known since 1991 and consists of the entire skeleton excluding the skull. The second specimen, IVPP V4070, is an impression of the right side of the back half of the skeleton, as well as part of the right fore limb. Two more specimens were discovered in 2018 at the same location, one of which is almost complete and includes the skull."}
+		]
+	},
+        {
+		"name": "Arizonasaurus",
+		"unitType": "Land Chordata",
+		"movement": 2,
+		"strength": 110,
+		"cost": 220,
+                "requiredTech": "Recovery from Extinction",
+                "obsoleteTech": "Triassic Diversification",
+		"attackSound": "nonmetalhit",
+        "civilopediaText": [
+			{"text": "Arizonasaurus was a ctenosauriscid archosaur from the Middle Triassic (243 million years ago). Arizonasaurus is found in the Middle Triassic Moenkopi Formation of northern Arizona. A fairly complete skeleton was found in 2002 by Sterling Nesbitt. The taxon has a large sailback formed by elongated neural spines of the vertebrae. The type species, Arizonasaurus babbitti, was named by Samuel Paul Welles in 1947."}
+		]
+	},
+
+        {
+		"name": "Nothosaurus",
+		"unitType": "Land Chordata",
+		"movement": 2,
+		"strength": 175,
+		"cost": 300,
+                "requiredTech": "Triassic Diversification",
+                "obsoleteTech": "Triassic Jurassic Extinction",
+                "uniques": ["May travel on Water tiles without embarking"],
+		"attackSound": "nonmetalhit",
+        "civilopediaText": [
+			{"text": "Nothosaurus ('false lizard', from the Ancient Greek νόθος, nothos, 'illegitimate' and σαῦρος, sauros, 'lizard') is an extinct genus of sauropterygian reptile from the Triassic period, approximately 240–210 million years ago, with fossils being distributed throughout the former Tethys Ocean, from North Africa and Europe to China. It is the best known member of the nothosaur order.
+
+Nothosaurus was a semi-oceanic animal which probably had a lifestyle similar to that of today's seals. It was about 4 metres (13 ft), with long, webbed toes and possibly a fin on its tail. However, some species such as N. zhangi and N. giganteus were larger, up to 5–7 metres (16–23 ft). When swimming, Nothosaurus would use its tail, legs, and webbed feet to propel and steer it through the water. The skull was broad and flat, with long jaws, lined with needle teeth, it probably caught fish and other marine creatures. Trackways attributed, partly by process of elimination, to a nothosaur, that were reported from Yunnan, China in June 2014, were interpreted as the paddle impressions left as the animals dug into soft seabed with rowing motions of their paddles, churning up hidden benthic creatures that they snapped up. Once caught, few animals would be able to shake themselves free from the mouth of Nothosaurus."}
+		]
+	},
+{
+		"name": "Atopodentatus",
+		"unitType": "Land Chordata",
+		"movement": 2,
+		"strength": 225,
+		"cost": 290,
+                "requiredTech": "Triassic Diversification",
+                "obsoleteTech": "Triassic Jurassic Extinction",
+                "uniques": ["[-25]% Strength <when fighting in [Land] tiles>","May travel on Water tiles without embarking"],
+		"attackSound": "nonmetalhit",
+        "civilopediaText": [
+			{"text": "Nothosaurus ('false lizard', from the Ancient Greek νόθος, nothos, 'illegitimate' and σαῦρος, sauros, 'lizard') is an extinct genus of sauropterygian reptile from the Triassic period, approximately 240–210 million years ago, with fossils being distributed throughout the former Tethys Ocean, from North Africa and Europe to China. It is the best known member of the nothosaur order.
+
+Nothosaurus was a semi-oceanic animal which probably had a lifestyle similar to that of today's seals. It was about 4 metres (13 ft), with long, webbed toes and possibly a fin on its tail. However, some species such as N. zhangi and N. giganteus were larger, up to 5–7 metres (16–23 ft). When swimming, Nothosaurus would use its tail, legs, and webbed feet to propel and steer it through the water. The skull was broad and flat, with long jaws, lined with needle teeth, it probably caught fish and other marine creatures. Trackways attributed, partly by process of elimination, to a nothosaur, that were reported from Yunnan, China in June 2014, were interpreted as the paddle impressions left as the animals dug into soft seabed with rowing motions of their paddles, churning up hidden benthic creatures that they snapped up. Once caught, few animals would be able to shake themselves free from the mouth of Nothosaurus."}
+		]
+	},
+{
+		"name": "Plagiosaurus",
+		"unitType": "Land Chordata",
+		"movement": 2,
+		"strength": 260,
+		"cost": 260,
+                "requiredTech": "Rise of Dinosaurs",
+                "obsoleteTech": "Triassic Jurassic Extinction",
+                "uniques": ["[-25]% Strength <when fighting in [Land] tiles>","May travel on Water tiles without embarking"],
+		"attackSound": "nonmetalhit",
+        "civilopediaText": [
+			{"text": "Plagiosaurus is an extinct genus of temnospondyl amphibian. The type and only species is P. depressus, first described by Otto Jaekel in 1914. Arthur Smith Woodward regarded the genus as a synonym of Plagiosternum, but most researchers consider it to be valid. It was paedomorphic, retaining the larval gills in adulthood. Like many stereospondyls, it had weak simplified vertebrae, consisting of large intercentra and neural arches, which is known as the stereospondylous condition."}
+		]
+	},
+{
+		"name": "Mastodonsaurus",
+		"unitType": "Land Chordata",
+		"movement": 2,
+		"strength": 220,
+		"cost": 260,
+                "requiredTech": "Triassic Diversification",
+                "obsoleteTech": "Triassic Jurassic Extinction",
+                "uniques": ["[-15]% Strength <when fighting in [Land] tiles>","May travel on Water tiles without embarking"],
+		"attackSound": "nonmetalhit",
+        "civilopediaText": [
+			{"text": "Mastodonsaurus (meaning teat tooth lizard) is an extinct genus of temnospondyl from the Middle Triassic of Europe. It belongs to a Triassic group of temnospondyls called Capitosauria, characterized by their large body size and presumably aquatic lifestyles. Mastodonsaurus remains one of the largest amphibians known, and may have exceeded 6 meters (20 feet) in length.
+
+Like those of many other capitosaurs, the head of Mastodonsaurus was triangular, reaching about 1.5 metres (4.9 ft) in the largest specimens. Narrow grooves on the surface of the skull bones called sulci show it had sensory organs that could detect vibrations and pressure under water, similar to the lateral lines on fish. The large, oval eye sockets are midway along the skull with the nostrils near the tip of the snout. Small ear holes (otic notches) are indented on either side of the back of the skull. The upper surface of the skull bones of Mastodonsaurus bore an intricate pattern of pits and ridges, a feature found in many temnospondyls. The function of this rugged ornamentation is not fully understood. As with other capitosaurs, Mastodonsaurus had a pineal foramen (opening) between the parietal bones behind the orbits on the roof of the skull, which would have contained a light-sensing parietal eye linked to the pineal gland to regulate the circadian sleep-wake cycle and hormone production related to body temperature for a cold-blooded (ectotherm) animal and to reproduction."}
+		]
+	},
+{
+		"name": "Tanystropheous",
+		"unitType": "Land Chordata",
+		"movement": 2,
+		"strength": 125,
+		"cost": 260,
+                "requiredTech": "Triassic Diversification",
+                "obsoleteTech": "Triassic Jurassic Extinction",
+                "uniques": ["May travel on Water tiles without embarking"],
+		"attackSound": "nonmetalhit",
+        "civilopediaText": [
+			{"text": "Tanystropheus (Greek: τανυ~ 'long' + στροφευς 'hinged') is an extinct genus of archosauromorph reptile which lived during the Triassic Period in Europe, Asia, and North America. It is recognisable by its extremely elongated neck, longer than the torso and tail combined. The neck was composed of 13 vertebrae strengthened by extensive cervical ribs. Tanystropheus is one of the most well-described non-archosauriform archosauromorphs, known from numerous fossils, including nearly complete skeletons. Some species within the genus may have reached a total length of 6 meters (20 ft), making Tanystropheus the longest non-archosauriform archosauromorph as well. Tanystropheus is the namesake of the family Tanystropheidae, a clade collecting many long-necked Triassic archosauromorphs previously described as protorosaurs or prolacertiforms.
+
+Tanystropheus contains at least two valid species as well as fossils which cannot be referred to a specific species. The type species of Tanystropheus is T. conspicuus, a dubious name applied to particularly large fossils from Germany and Poland. Complete skeletons are common in the Besano Formation at Monte San Giorgio, on the border of Italy and Switzerland. Monte San Giorgio fossils belong to two species: the smaller T. longobardicus and the larger T. hydroides. These two species were formally differentiated in 2020 primarily on the basis of their strongly divergent skull anatomy. When T. longobardicus was first described in 1886, it was initially mistaken for a pterosaur and given the name Tribelesodon. Starting in the 1920s, systematic excavations at Monte San Giorgio unearthed many more Tanystropheus fossils, revealing that the putative wing bones of Tribelesodon were actually neck vertebrae."}
+		]
+	},
+{
+		"name": "Eoraptor",
+		"unitType": "Land Chordata",
+		"movement": 3,
+		"strength": 185,
+		"cost": 320,
+                "requiredTech": "Early Dinosaurs",
+                "obsoleteTech": "Triassic Jurassic Extinction",
+		"attackSound": "nonmetalhit",
+        "civilopediaText": [
+			{"text": "Eoraptor (/ˈiːoʊˌræptər/) is a genus of small, lightly built, basal sauropodomorph dinosaur. One of the earliest-known dinosaurs and one of the earliest sauropodomorphs, it lived approximately 231 to 228 million years ago, during the Late Triassic in Western Gondwana, in the region that is now northwestern Argentina. The type and only species, Eoraptor lunensis, was first described in 1993, and is known from an almost complete and well-preserved skeleton and several fragmentary ones. Eoraptor had multiple tooth shapes, which suggests that it was omnivorous.
+
+The bones of this primitive dinosaur were first discovered in 1991, by University of San Juan paleontologist Ricardo Martínez, during field work conducted by the University of Chicago and the University of San Juan. The holotype specimen PVSJ 512 was discovered in muddy siltstone belonging to the Cancha de Bochas Member of the Ischigualasto Formation in Argentina. The fossils in this formation were deposited in the Carnian stage of the Triassic period, approximately 235 to 228 million years ago. It took almost 12 months to collect the holotype, which was then shipped to the Field Museum of Natural History in Chicago for preparation by William F. Simpson and Bob Masek. The fossil was first put on display in Chicago and was then returned to San Juan, Argentina, where it went on display at the Museum of Natural Sciences."}
+		]
+	},
+{
+		"name": "Liliensternus",
+		"unitType": "Land Chordata",
+		"movement": 3,
+		"strength": 205,
+		"cost": 270,
+                "requiredTech": "Rise of Dinosaurs",
+                "obsoleteTech": "Triassic Jurassic Extinction",
+		"attackSound": "nonmetalhit",
+        "civilopediaText": [
+			{"text": "Liliensternus is an extinct genus of basal neotheropod dinosaur that lived approximately 210 million years ago during the latter part of the Triassic Period in what is now Germany. Liliensternus was a moderate-sized, bipedal, ground-dwelling carnivore, that could grow up to 5.15 m (16.9 ft) long. It is the best represented Triassic theropod from Europe and one of the largest known."}
+		]
+	},
+{
+		"name": "Coelophysis",
+		"unitType": "Land Chordata",
+		"movement": 4,
+		"strength": 200,
+		"cost": 290,
+                "requiredTech": "Rise of Dinosaurs",
+                "obsoleteTech": "Triassic Jurassic Extinction",
+		"attackSound": "nonmetalhit",
+        "civilopediaText": [
+			{"text": "Coelophysis (/sɛˈlɒfɪsɪs/ se-lOF-iss-iss traditionally; /ˌsɛloʊˈfaɪsɪs/ SEL-oh-FY-siss or /ˌsiːloʊˈfaɪsɪs/ SEE-loh-FY-siss, as heard more commonly in recent decades) is a genus of coelophysid theropod dinosaur that lived approximately 215 to 208.5 million years ago during the Late Triassic period from the middle to late Norian age in what is now the southwestern United States. Megapnosaurus was once considered to be a species within this genus, but this interpretation has been challenged since 2017 and the genus Megapnosaurus is now considered valid.
+
+Coelophysis was a small, slenderly-built, ground-dwelling, bipedal carnivore that could grow up to 3 m (9.8 ft) long. It is one of the earliest known dinosaur genera. Scattered material representing similar animals has been found worldwide in some Late Triassic and Early Jurassic formations."}
+		]
+	},
+{
+		"name": "Proganochelys",
+		"unitType": "Land Chordata",
+		"movement": 1,
+		"strength": 100,
+		"cost": 250,
+                "requiredTech": "Rise of Dinosaurs",
+                "uniques": ["[+20]% Strength decreasing with distance from the capital","[+40]% to Flank Attack bonuses","[-20]% Strength for enemy [Wounded] units in adjacent [Land] tiles"],
+                "obsoleteTech": "Triassic Jurassic Extinction",
+		"attackSound": "nonmetalhit",
+        "civilopediaText": [
+			{"text": "Proganochelys is a genus of extinct, primitive stem-turtle. Proganochelys was named by Georg Baur in 1887 as the oldest turtle in existence at the time. The name Proganochelys comes from the Greek word ganos meaning 'brightness', combined with prefix pro, 'before', and Greek base chelys meaning 'turtle'. Proganochelys is believed to have been around 1 meter in size and herbivorous in nature. Proganochelys had been known as the most primitive stem-turtle for over a century, until the novel discovery of Odontochelys in 2008. Odontochelys and Proganochelys share unique primitive features that are not found in Casichelydia, such as teeth on the pterygoid and vomer and a plate-like coracoid.
+
+Proganochelys is the oldest stem-turtle species with a complete shell discovered to date, known from fossils found in Germany, Switzerland, Greenland, and Thailand in strata from the late Triassic, dating to approximately 210 million years ago. The location of these fossils suggest that Proganochelys was active throughout the continent of Laurasia. There are only two known species of Proganchelys, with little information as a result of a small fossil record. All Proganochelys quentesti fossils were discovered in Germany, while Proganochelys ruchae fossils were found in Thailand."}
+		]
+	},
+{
+		"name": "Herrerasaurus",
+		"unitType": "Land Chordata",
+		"movement": 2,
+		"strength": 210,
+		"cost": 370,
+                "requiredTech": "Early Dinosaurs",
+                "obsoleteTech": "Triassic Jurassic Extinction",
+		"attackSound": "nonmetalhit",
+        "civilopediaText": [
+			{"text": "Herrerasaurus is likely a genus of saurischian dinosaur from the Late Triassic period. Measuring 6 m (20 ft) long and weighing around 350 kg (770 lb), this genus was one of the earliest dinosaurs from the fossil record. Its name means Herrera's lizard, after the rancher who discovered the first specimen in 1958 in South America. All known fossils of this carnivore have been discovered in the Ischigualasto Formation of Carnian age (late Triassic according to the ICS, dated to 231.4 million years ago) in northwestern Argentina. The type species, Herrerasaurus ischigualastensis, was described by Osvaldo Reig in 1963 and is the only species assigned to the genus. Ischisaurus and Frenguellisaurus are synonyms.
+
+For many years, the classification of Herrerasaurus was unclear because it was known from very fragmentary remains. It was hypothesized to be a basal theropod, a basal sauropodomorph, a basal saurischian, or not a dinosaur at all but another type of archosaur. However, with the discovery of an almost complete skeleton and skull in 1988, Herrerasaurus has been classified as an early saurischian in most of the phylogenies on the origin and early evolution of dinosaurs.
+
+It is a member of the Herrerasauridae, a family of similar genera that were among the earliest of the dinosaurian evolutionary radiation."}
+		]
+	},
+{
+		"name": "Erythrosuchus",
+		"unitType": "Land Chordata",
+		"movement": 2,
+		"strength": 150,
+		"cost": 280,
+                "requiredTech": "Recovery from Extinction",
+                "obsoleteTech": "Archosaurs",
+		"attackSound": "nonmetalhit",
+        "civilopediaText": [
+			{"text": "Erythrosuchus (from Greek: ἐρυθρός eruthrós, 'red' and Greek: σοῦχος soukhos, 'crocodile') is an extinct genus of archosauriform reptiles from the early Triassic of South Africa. Remains have been found from the Cynognathus Assemblage Zone of the Beaufort Group in the Karoo of South Africa.
+
+In the Late Triassic, the ecological niche left by Erythrosuchus was filled by archosaurs including Saurosuchus and Postosuchus."}
+		]
+	},
+{
+		"name": "Proterosuchus",
+		"unitType": "Land Chordata",
+		"movement": 3,
+		"strength": 100,
+		"cost": 130,
+                "requiredTech": "Recovery from Extinction",
+                "obsoleteTech": "Archosaurs",
+		"attackSound": "nonmetalhit",
+        "civilopediaText": [
+			{"text": "Proterosuchus is an extinct genus of archosauriform reptiles that lived during the Early Triassic. It contains three valid species: the type species P. fergusi and the referred species P. alexanderi and P. goweri. All three species lived in what is now South Africa. The genus was named in 1903 by the South African paleontologist Robert Broom. The genus Chasmatosaurus is a junior synonym of Proterosuchus.
+
+Proterosuchus was a mid-sized quadrupedal reptile with a sprawling stance that could reach a length of up to 3.5 meters (11 ft). It had a large head and distinctively hooked snout. It was a predator, which may have hunted prey such as Lystrosaurus. The lifestyle of Proterosuchus remains debated; it may have been terrestrial or it may have been a semiaquatic ambush predator similar to modern crocodiles.
+
+Proterosuchus is one of the earliest members of the clade Archosauriformes, which also includes crocodilians, pterosaurs, and dinosaurs, including birds. It lived in the aftermath of the Permian–Triassic extinction event, the largest known mass extinction in the timeline of Earth's history."}
+		]
+	},
+{
+		"name": "Saurosuchus",
+		"unitType": "Land Chordata",
+		"movement": 2,
+		"strength": 350,
+		"cost": 280,
+                "requiredTech": "Archosaurs",
+                "obsoleteTech": "Triassic Jurassic Extinction",
+		"attackSound": "nonmetalhit",
+        "civilopediaText": [
+			{"text": "Saurosuchus (meaning lizard crocodile) is an extinct genus of large loricatan pseudosuchian archosaurs that lived in South America during the Late Triassic period. It was a heavy, ground-dwelling, quadrupedal carnivore, likely being the apex predator in the Ischigualasto Formation.
+
+Saurosuchus is known from numerous specimens coming from the Ischigualasto Formation. Apart from the holotype, another individual was identified: Specimen PVL 2198, consisting of a partial maxilla, left ilium, right and left ischium, 11 dorsal vertebrae, osteoderms, ribs, and teeth. Sill referred additional specimens, PVL 2557, 2472 and 2267. The specimen PVL 2557 consists of two dorsal vertebrae, right and left sacrals, nine caudal vertebrae, right ilium, ischium and partial pubis, right femur, tibia, fibula, tarsus and pes, ribs, and chevrons. PVL 2472 compromises one cervical vertebra, tibia and astragalus. Lastly, PVL 2267 is composed by a fragmented ilium, femur, tibia, fibula, tarsus, and partial pes. In 2010, during the redescription of the skull of Saurosuchus, Alcober referred and described the immature specimen PVSJ 32, consisting of a complete skull, complete cervical and dorsal vertebral series, four anterior caudal vertebrae, ribs, and two dorsal osteoderm rows. The postcranial remains of this specimen, were properly described by Trotteyn et al. 2011."}
+		]
+	},
+{
+		"name": "Peteinosaurus",
+		"unitType": "Land Chordata",
+		"movement": 4,
+		"strength": 120,
+		"cost": 300,
+                "requiredTech": "Pterosauria",
+                "uniques": ["Withdraws before melee combat <with [60]% chance>","Can move after attacking"],
+                "obsoleteTech": "Triassic Jurassic Extinction",
+		"attackSound": "nonmetalhit",
+        "civilopediaText": [
+			{"text": "Peteinosaurus (/pɛˌtaɪnəˈsɔːrəs/ peh-TY-nə-SOR-əs; meaning winged lizard) was a prehistoric genus of pterosaur. It lived in the late Triassic period in the late Norian age (about 218-215 million years ago), and at a wingspan of around 60 cm (24 in), was one of the smallest and earliest pterosaurs, although other estimates suggest a wingspan of up to 1 m (3.3 ft)."}
+		]
+	},
+{
+		"name": "Eudimorphodon",
+		"unitType": "Land Chordata",
+		"movement": 4,
+		"strength": 150,
+		"cost": 300,
+                "requiredTech": "Pterosauria",
+                "uniques": ["Withdraws before melee combat <with [30]% chance>","Can move after attacking"],
+                "obsoleteTech": "Triassic Jurassic Extinction",
+		"attackSound": "nonmetalhit",
+        "civilopediaText": [
+			{"text": "Eudimorphodon was a pterosaur that was discovered in 1973 by Mario Pandolfi in the town of Cene, Italy and described the same year by Rocco Zambelli. The nearly complete skeleton was retrieved from shale deposited during the Late Triassic (mid to late Norian stage, 219-215 million years ago), making Eudimorphodon one of the oldest pterosaurs known. It had a wingspan of about 100 centimeters (3.3 ft). Eudimorphodon is known from several skeletons, including juvenile specimens."}
+		]
+	},
+
+{
+		"name": "Austriadactylus",
+		"unitType": "Land Chordata",
+		"movement": 4,
+		"strength": 90,
+		"cost": 300,
+                "requiredTech": "Pterosauria",
+                "uniques": ["Withdraws before melee combat <with [90]% chance>","Can move after attacking"],
+                "obsoleteTech": "Triassic Jurassic Extinction",
+		"attackSound": "nonmetalhit",
+        "civilopediaText": [
+			{"text": "Austriadactylus is a genus of primitive pterosaur. The fossil remains were unearthed in Late Triassic (middle Norian age, about 215 million years ago) rocks of Austria.
+
+The elongated skull has a length of 11 cm. It carried a bony crest that widened as it descended towards the snout, up to height of 2 cm. The triangular nares formed the largest skull openings. The also triangular fenestrae antorbitales are smaller than the orbits. The teeth differ in shape and the species was thus heterodont. Most teeth are small and tricuspid or three-pointed. In the front of the upper jaw five larger recurved teeth with a single point form a prey grab; six or seven such teeth are also interspersed with the smaller teeth more to the back of the mouth. There are at least seventeen and perhaps as much as 25 tricuspid teeth in the upper jaw, for a total of perhaps 74 teeth of all sizes in the skull. The number of teeth in the lower jaws cannot be determined.
+
+The flexible tail did not have the stiffening rod-like vertebral extensions present in other basal pterosaurs. The wingspan has been estimated at 120 cm."}
+		]
+	},
+
+{
+		"name": "Plateosaurus",
+		"unitType": "Land Chordata",
+		"movement": 2,
+		"strength": 380,
+		"cost": 260,
+                "requiredTech": "Primordial Dinosaur Families",
+                "obsoleteTech": "Triassic Jurassic Extinction",
+		"attackSound": "nonmetalhit",
+        "civilopediaText": [
+			{"text": "Plateosaurus (probably meaning broad lizard, often mistranslated as flat lizard) is a genus of plateosaurid dinosaur that lived during the Late Triassic period, around 214 to 204 million years ago, in what is now Central and Northern Europe. Plateosaurus is a basal (early) sauropodomorph dinosaur, a so-called prosauropod. The type species is Plateosaurus trossingensis; before 2019, that honor was given to Plateosaurus engelhardti, but it was ruled as undiagnostic (i.e. indistinguishable from other dinosaurs) by the ICZN. Currently, there are three valid species; in addition to P. trossingensis, P. longiceps and P. gracilis are also known. However, others have been assigned in the past, and there is no broad consensus on the species taxonomy of plateosaurid dinosaurs. Similarly, there are a plethora of synonyms (invalid duplicate names) at the genus level."}
+		]
+	},
+{
+		"name": "Ischigualastia",
+		"unitType": "Land Chordata",
+		"movement": 2,
+		"strength": 220,
+		"cost": 120,
+                "requiredTech": "Triassic Plant Life",
+                "obsoleteTech": "Primordial Dinosaur Families",
+		"attackSound": "nonmetalhit",
+        "civilopediaText": [
+			{"text": "Ischigualastia is an extinct genus of large dicynodont therapsids that lived during the Late Carnian age and the Early Norian age of the Late Triassic Period. The genus was found in and named after the Ischigualasto Formation (Cancha de Bochas Member) of the Ischigualasto-Villa Unión Basin in northwestern Argentina. It has been placed in the family Stahleckeriidae.
+
+The genus is described as an enormous dicynodont, with a short, high skull, and lacking tusks. Its close relative is Placerias, which measured around 3.5 metres (11 ft) long and weighed up to 800–1,000 kilograms (1,800–2,200 lb)."}
+		]
+	},
+{
+		"name": "Coloradisaurus",
+		"unitType": "Land Chordata",
+		"movement": 2,
+		"strength": 320,
+		"cost": 230,
+                "requiredTech": "Primordial Dinosaur Families",
+                "obsoleteTech": "Triassic Jurassic Extinction",
+		"attackSound": "nonmetalhit",
+        "civilopediaText": [
+			{"text": "Coloradisaurus (meaning Los Colorados lizard) is a genus of massospondylid sauropodomorph dinosaur. It lived during the Late Triassic period (Norian stage) in what is now La Rioja Province, Argentina. It is known from two specimens collected from the Los Colorados Formation of the Ischigualasto-Villa Unión Basin.
+
+Coloradisaurus brevis was originally named Coloradia brevis by José Bonaparte in 1978, but that genus name was preoccupied by the pine moth Coloradia, so it needed a replacement name. In 1983, David Lambert used the name Coloradisaurus for the genus, but did not indicate it was a replacement or diagnose it. Lambert had gotten the name from Bonaparte in a personal communication and mistakenly thought that Bonaparte had already published it. Peter Galton was the next to use the name Coloradisaurus in 1990, which he credited to Lambert, when he gave the taxon a diagnosis in his review of prosauropods in The Dinosauria. Authorship of Coloradisaurus has traditionally been attributed to Lambert, but in 2020, Greenfield et al. judged Lambert's use of the name to be a nomen nudum. They concluded that authorship should be attributed to Galton, who was the first to use the name Coloradisaurus in a way that met the requirements of the ICZN."}
+		]
+	},
+{
+		"name": "Trucidocynodon",
+		"unitType": "Land Chordata",
+		"movement": 2,
+		"strength": 100,
+		"cost": 120,
+                "requiredTech": "First Mammals",
+                "uniques": ["[+60]% to Flank Attack bonuses"],
+                "obsoleteTech": "Triassic Jurassic Extinction",
+		"attackSound": "nonmetalhit",
+        "civilopediaText": [
+			{"text": "Trucidocynodon is an extinct genus of ecteniniid cynodonts from the Upper Triassic (Carnian) of Brazil. It contains a single species, Trucidocynodon riograndensis. Fossils of Trucidocynodon were discovered in outcrops of the Upper Santa Maria Formation in Paleorrota Geopark, Agudo. Trucidocynodon is one of the most completely known Triassic cynodonts, as its holotype is a nearly complete and fully articulated skeleton."}
+		]
+	},
+
+{
+		"name": "Thrinaxodon",
+		"unitType": "Land Chordata",
+		"movement": 2,
+		"strength": 100,
+		"cost": 120,
+                "requiredTech": "First Mammals",
+                "uniques": ["[+60]% to Flank Attack bonuses"],
+                "obsoleteTech": "Triassic Jurassic Extinction",
+		"attackSound": "nonmetalhit",
+        "civilopediaText": [
+			{"text": "Thrinaxodon is an extinct genus of cynodonts, including the species T. liorhinus which lived in what are now South Africa and Antarctica during the Early Triassic. Thrinaxodon lived just after the Permian–Triassic mass extinction event, its survival during the extinction may have been due to its burrowing habits.
+
+Similar to other therapsids, Thrinaxodon adopted a semi-sprawling posture, an intermediary form between the sprawling position of basal tetrapods and the more upright posture present in current mammals. Thrinaxodon is prevalent in the fossil record in part because it was one of the few carnivores of its time, and was of a larger size than similar cynodont carnivores.
+
+The Triassic Cuddle fossil is a fascinating discovery that involves the fossilized remains of two different species found together in a burrow. Discovered in 1975 by paleontologist James Kitching in South Africa, the fossil includes a small, early mammal-like reptile called Thrinaxodon and a salamander-like amphibian known as Broomistega
+
+Imagine a harsh, parched landscape where survival is a daily struggle. In this unforgiving environment, a small, furry Thrinaxodon, a distant relative of mammals, seeks refuge in a burrow to escape the searing heat. Nearby, a fragile, salamander-like Broomistega, weary from its own struggles, finds the same burrow and crawls in, driven by an instinctive hope for safety.
+
+In the quiet darkness of the burrow, these two unlikely companions, from completely different branches of the evolutionary tree, share a moment of rare solidarity. The Thrinaxodon curls up in a state of dormancy, its heart beating slowly as it conserves energy, while the Broomistega nestles close, seeking the cool, damp earth to soothe its amphibian skin. They lie together, not as predator and prey, but as two beings united by the simple desire to survive.
+
+Their quiet moment of shared solace is abruptly ended by the sudden rush of water. A flash flood fills the burrow, preserving them in their final embrace, forever captured in time. It's a poignant reminder of the fragile beauty of life and the unexpected connections that can form even in the most desperate of times. Their story, frozen in stone, speaks to the resilience of life and the shared struggles that link all living creatures across the ages."}
+		]
+	},
+{
+		"name": "Ericiolacerta",
+		"unitType": "Land Chordata",
+		"movement": 2,
+		"strength": 150,
+		"cost": 220,
+                "requiredTech": "First Mammals",
+                "uniques": ["[+60]% to Flank Attack bonuses"],
+                "obsoleteTech": "Triassic Jurassic Extinction",
+		"attackSound": "nonmetalhit",
+        "civilopediaText": [
+			{"text": "Ericiolacerta is an extinct genus of small therocephalian therapsids from the early Triassic of South Africa and Antarctica. Ericiolacerta, meaning hedgehog lizard (from the Latin ericius, hedgehon and lacerta, lizard), was named by D.M.S. Watson in 1931. The species E. parva is known from the holotype specimen which consists of a nearly complete skeleton found in the Lystrosaurus Assemblage Zone within the Katberg Formation of the Beaufort Group in South Africa, and from a partial jaw found in the Lower Triassic Fremouw Formation in Antarctica. Ericiolacerta was around 20 centimetres (7.9 in) in length, with long limbs and relatively small teeth. It probably ate insects and other small invertebrates. The therocephalians – therapsids with mammal-like heads – were abundant in Permian times, but only a few made it into the Triassic. Ericiolacerta was one of those. It is possible that they gave rise to the cynodonts, the only therapsid group to survive into post-Triassic times. Cynodonts gave rise to mammals."}
+		]
+	},
+{
+		"name": "Lessemsaurus",
+		"unitType": "Land Chordata",
+		"movement": 2,
+		"strength": 220,
+		"cost": 300,
+                "requiredTech": "Primordial Dinosaur Families",
+                "obsoleteTech": "Triassic Jurassic Extinction",
+		"attackSound": "nonmetalhit",
+                "uniques": ["All adjacent units heal [35] HP when healing"],
+        "civilopediaText": [
+			{"text": "Lessemsaurus is an extinct genus of sauropodiform dinosaur belonging to Lessemsauridae.
+
+The type species, L. sauropoides, was formally described by José Fernando Bonaparte in 1999 in honor of Don Lessem, a writer of popular science books. It was found in the Los Colorados Formation of the Ischigualasto-Villa Unión Basin in La Rioja Province, Argentina.
+
+It was discovered in strata dating to the Norian stage, around 210 million years ago. It is estimated to have reached 10–12 metres (33–39 ft) long and weighed over 7 metric tons (7.7 short tons), possibly up to 8–10 metric tons (8.8–11.0 short tons), in maximum body mass."}
+		]
+	},
+{
+		"name": "Fasolasuchus",
+		"unitType": "Land Chordata",
+		"movement": 2,
+		"strength": 440,
+		"cost": 310, 
+                "uniques": ["Limited to [1] per Civilization"],
+                "requiredTech": "Rise of Crocodylomorphs",
+                "obsoleteTech": "Triassic Jurassic Extinction",
+		"attackSound": "nonmetalhit",
+        "civilopediaText": [
+			{"text": "Fasolasuchus is an extinct genus of loricatan. Fossils have been found in the Los Colorados Formation of the Ischigualasto-Villa Unión Basin in northwestern Argentina that date back to the Norian stage of the Late Triassic, making it one of the last rauisuchians to have existed before the order became extinct at the end of the Triassic.
+
+Fasolasuchus is likely the largest known rauisuchian, with an estimated length of 8 m (26 ft) to 10 m (33 ft). This would make Fasolasuchus the largest terrestrial predator to have ever existed save for large theropods, surpassing the Cenozoic Barinasuchus, the rauisuchian counterpart Saurosuchus at 7 metres (23 ft), and many medium sized theropods as large as Ceratosaurus. Like Saurosuchus, it had only a single row of caudal osteoderms, unusual among rauisuchians. It also had a hyposphene-hypantrum articulation that gave the vertebral column extra rigidity. This feature is also seen in several other rauisuchians such as Postosuchus as well as saurischian dinosaurs."}
+		]
+	},
+{
+		"name": "Smilosuchus",
+		"unitType": "Land Chordata",
+		"movement": 2,
+		"strength": 395,
+		"cost": 290,
+                "requiredTech": "Rise of Crocodylomorphs",
+                "obsoleteTech": "Triassic Jurassic Extinction",
+		"attackSound": "nonmetalhit",
+        "civilopediaText": [
+			{"text": "Smilosuchus (meaning chisel crocodile) is an extinct genus of leptosuchomorph parasuchid from the Late Triassic of North America.
+
+Like all phytosaurs, Smilosuchus had the nostrils close to the top of its head. The rostral crest and nasal bulge supporting these raised nostrils was larger in Smilosuchus than in many other phytosaurs. Its skull was extremely large, up to 155 cm long, although estimates for the overall length vary from 7 m (23 ft) to 12 m (39 ft). The jaws are very short and broad and the teeth are heterodont, with large tusks at the anterior of the mouth for impaling prey and more blade-like teeth for slicing flesh closer to the back of the mouth. The tusks are mounted on a bulge at the tip of the snout present in nearly all phytosaurs. Its squamosal processes are short and deep, indicating a powerful bite. This coupled with its large size (it is one of the largest known phytosaurs) suggests that it hunted large prey such as Placerias."}
+		]
+	},
+{
+		"name": "Machaeroprosopus",
+		"unitType": "Land Chordata",
+		"movement": 3,
+		"strength": 300,
+		"cost": 230,
+                "requiredTech": "Rise of Crocodylomorphs",
+                "obsoleteTech": "Triassic Jurassic Extinction",
+		"attackSound": "nonmetalhit",
+        "civilopediaText": [
+			{"text": "Machaeroprosopus (from Greek: μαχαίρα machaíra, 'large knife' and Greek: πρόσωπος prósōpos, 'bordering on') is an extinct genus of mystriosuchin leptosuchomorph phytosaur from the Late Triassic of the southwestern United States. M. validus, once thought to be the type species of Machaeroprosopus, was named in 1916 on the basis of three complete skulls from Chinle Formation, Arizona.
+
+The skulls have been lost since the 1950s, and a line drawing in the original 1916 description is the only visual record of the specimen.[7] Another species, M. andersoni, was named in 1922 from New Mexico, and the species M. adamanensis, M. gregorii, M. lithodendrorum, M. tenuis, and M. zunii were named in 1930.
+
+Most species have been reassigned to the genera Smilosuchus, Rutiodon, or Phytosaurus. Until recently, M. validus was considered to be the only species that has not been reassigned. Thus, Machaeroprosopus was considered to be a nomen dubium or doubtful name because of the lack of diagnostic specimens that can support its distinction from other phytosaur genera. However, a taxonomic revision of Machaeroprosopus, conducted by Parker et al. in 2013, revealed that UW 3807, the holotype of M. validus, is not the holotype of Machaeroprosopus, while the species Machaeroprosopus buceros, Machaeroprosopus being a replacement name, with a fixed type species, for Metarhinus, is the combinatio nova of the type species of the genu: Belodon buceros. Therefore, the name Pseudopalatus must be considered a junior synonym of Machaeroprosopus, and all species of the former must be reassigned to the latter. This revised taxonomy was already accepted in several studies, including Stocker and Butler (2013). Stocker and Butler (2013) also treated M. andersoni as a valid species, and not a junior synonym of Machaeroprosopus buceros as was previously suggested by Long and Murry (1995)."}
+		]
+	},
+{
+		"name": "Nicrosaurus",
+		"unitType": "Land Chordata",
+		"movement": 2,
+		"strength": 255,
+		"cost": 200,
+                "requiredTech": "Rise of Crocodylomorphs",
+                "obsoleteTech": "Triassic Jurassic Extinction",
+		"attackSound": "nonmetalhit",
+        "civilopediaText": [
+			{"text": "Nicrosaurus (/nɪkroʊˈsɔrəs/) is an extinct genus of phytosaur reptile existing during the Late Triassic period. Although it looked like a crocodile (and probably lived like the more terrestrial crocodylomorphs), it was not closely related to these creatures, instead being an example of parallel evolution. The main difference between Nicrosaurus (and all other phytosaurs) and modern crocodiles is the position of the nostrils – Nicrosaurus's nostrils, or external nares, were placed directly in front of the forehead, whereas in crocodiles, the nostrils are positioned on the end of the snout. A 2013 study has also found that ilium of Nicrosaurus is quite distinctive from all other phytosaurs."}
+		]
+	},
+{
+		"name": "Postosuchus",
+		"unitType": "Land Chordata",
+		"movement": 3,
+		"strength": 200,
+		"cost": 130,
+                "requiredTech": "Archosaurs",
+                "obsoleteTech": "Triassic Jurassic Extinction",
+		"attackSound": "nonmetalhit",
+        "civilopediaText": [
+			{"text": "Postosuchus, meaning Crocodile from Post, is an extinct genus of rauisuchid reptiles comprising two species, P. kirkpatricki and P. alisonae, that lived in what is now North America during the Late Triassic. Postosuchus is a member of the clade Pseudosuchia, the lineage of archosaurs that includes modern crocodilians (the other main group of archosaurs is Avemetatarsalia, the lineage that includes all archosaurs more closely related to birds than to crocodilians). Its name refers to Post Quarry, a place in Texas where many fossils of the type species, P. kirkpatricki, were found. It was one of the apex predators of its area during the Triassic, larger than the small dinosaur predators of its time (such as Coelophysis). It was a hunter which probably preyed on large bulky herbivores like dicynodonts and many other creatures smaller than itself (such as early dinosaurs)."}
+		]
+	},
+{
+		"name": "Prestosuchus",
+		"unitType": "Land Chordata",
+		"movement": 4,
+		"strength": 250,
+		"cost": 170,
+                "requiredTech": "Archosaurs",
+                "obsoleteTech": "Triassic Jurassic Extinction",
+		"attackSound": "nonmetalhit",
+        "civilopediaText": [
+			{"text": "Prestosuchus (meaning Prestes crocodile) is an extinct genus of pseudosuchian in the group Loricata, which also includes Saurosuchus and Postosuchus. It has historically been referred to as a rauisuchian, and was the defining member of the family Prestosuchidae, though the validity of both of these groups is questionable: Rauisuchia is now considered paraphyletic and Prestosuchidae is polyphyletic in its widest form."}
 		]
 	},
         {
@@ -636,7 +1252,7 @@ Moschorhinus appears to have ecologically replaced the gorgonopsids as an apex p
 		"strength": 130,
 		"cost": 250,
                 "requiredTech": "Evolution of Insects",
-                "promotions": ["Coleoptera"],
+                "obsoleteTech": "The Great Dying",
 		"attackSound": "nonmetalhit",
         "civilopediaText": [
 			{"text": "Permian beetles are represented mostly by isolated elytra. Taxa based on elytra were essentially natural during the Early and most of the Late Permian, when the process of transformation of the forewing into the elytron continued. Towards the end of the Permian, different lineages of beetles acquired similar elytra."}
@@ -650,7 +1266,6 @@ Moschorhinus appears to have ecologically replaced the gorgonopsids as an apex p
 		"cost": 60,
                 "obsoleteTech": "Late Devonian Extinction",
                 "requiredTech": "Land Arthropods",
-                "promotions": ["Arthropoda"],
 		"attackSound": "nonmetalhit",
         "civilopediaText": [
 			{"text": "Rhyniognatha is an extinct genus of arthropod of disputed placement. It has been considered in some analyses as the oldest insect known, as well as possibly being a flying insect. Rhyniognatha is known from a partial head with preserved mouthparts from the Early Devonian aged Rhynie chert around 400 million years ago, when Earth’s first terrestrial ecosystems were being formed. The type, and only species is R. hirsti, which was named and described in 1928. Other analyses have interpreted the specimen as a myriapod."}
@@ -668,5 +1283,4 @@ Moschorhinus appears to have ecologically replaced the gorgonopsids as an apex p
 			{"text": "Trilobites are extinct marine arthropods that form the class Trilobita. Trilobites form one of the earliest known groups of arthropods. The first appearance of trilobites in the fossil record defines the base of the Atdabanian stage of the Early Cambrian period 521 million years ago and they flourished throughout the lower Paleozoic before slipping into a long decline, when, during the Devonian, all trilobite orders except the Proetida died out. The last trilobites disappeared in the mass extinction at the end of the Permian about 251.9 million years ago. Trilobites were among the most successful of all early animals, existing in oceans for almost 270 million years, with over 22,000 species having been described."}
 		]
 	},
-
 	]

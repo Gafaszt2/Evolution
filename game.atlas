@@ -6,2717 +6,3619 @@ filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 BuildingIcons/Atmosphere Modification
   rotate: false
-  xy: 512, 1723
+  xy: 620, 1713
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Biodiversity Hotspots
   rotate: false
-  xy: 112, 1215
+  xy: 544, 1281
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Calcium Carbonates
+  rotate: false
+  xy: 4, 1205
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Carbonate Rocks
   rotate: false
-  xy: 328, 1431
+  xy: 220, 1205
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Coal Seams
+  rotate: false
+  xy: 112, 1097
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Collitions
   rotate: false
-  xy: 4, 999
+  xy: 328, 1097
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Coral Reef Bleaching
   rotate: false
-  xy: 728, 1723
+  xy: 328, 989
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Decaying Plant Material
   rotate: false
-  xy: 328, 1215
+  xy: 4, 773
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Dense Atmosphere
   rotate: false
-  xy: 836, 1723
+  xy: 220, 773
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Desert Pavement
   rotate: false
-  xy: 944, 1831
+  xy: 328, 773
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Devonian Oxigenated Waters
   rotate: false
-  xy: 220, 999
+  xy: 112, 665
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Earthquakes
   rotate: false
-  xy: 328, 999
+  xy: 544, 525
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Enhanced Metabolism
   rotate: false
-  xy: 1160, 1831
+  xy: 220, 449
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Eukaryotic Epibionts Symbiosis
   rotate: false
-  xy: 220, 783
+  xy: 544, 309
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Evaporite Crystals
+  rotate: false
+  xy: 112, 233
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Fertility
   rotate: false
-  xy: 4, 459
+  xy: 112, 125
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Fire Ecology
   rotate: false
-  xy: 112, 567
+  xy: 220, 125
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Formation of Hills
   rotate: false
-  xy: 328, 675
+  xy: 728, 1821
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Geochemical Craddle
   rotate: false
-  xy: 1592, 1939
+  xy: 652, 1281
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Glacial Cycles
   rotate: false
-  xy: 112, 351
+  xy: 652, 957
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Glacier
   rotate: false
-  xy: 328, 567
+  xy: 652, 741
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Gypsum Crystals
+  rotate: false
+  xy: 652, 309
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Horsetails
   rotate: false
-  xy: 4, 135
+  xy: 760, 1497
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Hydrothermal Vent
   rotate: false
-  xy: 112, 243
+  xy: 836, 1821
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Ironstone Concretions
+  rotate: false
+  xy: 760, 1173
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Lava Flows
   rotate: false
-  xy: 328, 351
+  xy: 760, 309
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Light Energy Into Chemical Energy
   rotate: false
-  xy: 1916, 1939
+  xy: 944, 1821
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Magma
   rotate: false
-  xy: 1808, 1723
+  xy: 868, 849
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Manganese Nodules
   rotate: false
-  xy: 1916, 1831
+  xy: 868, 741
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Mineral Riches
   rotate: false
-  xy: 436, 1431
+  xy: 1052, 1713
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Mountains
   rotate: false
-  xy: 436, 891
+  xy: 976, 957
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Mud Cracks
   rotate: false
-  xy: 436, 783
+  xy: 976, 849
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Pangea
   rotate: false
-  xy: 436, 135
+  xy: 1160, 1929
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 TechIcons/Pangea
   rotate: false
-  xy: 436, 135
+  xy: 1160, 1929
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Peat Bogs
+  rotate: false
+  xy: 1160, 1713
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Permian Conifer Amber
   rotate: false
-  xy: 544, 1507
+  xy: 1160, 1605
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Permian Flats
   rotate: false
-  xy: 544, 1399
+  xy: 1084, 1389
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Phosphorite Nodules
+  rotate: false
+  xy: 1084, 957
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Primordial Gas
   rotate: false
-  xy: 760, 1399
+  xy: 1268, 1605
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Proterozoic Iron
   rotate: false
-  xy: 544, 1075
+  xy: 1192, 1065
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Rain Shadow Effect
   rotate: false
-  xy: 652, 1183
+  xy: 1192, 849
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Red Beds Clay
   rotate: false
-  xy: 760, 1291
+  xy: 1192, 633
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Salt Flats
   rotate: false
-  xy: 976, 1399
+  xy: 1376, 1713
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Shale Layers
+  rotate: false
+  xy: 1300, 525
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Spore Dispersal
   rotate: false
-  xy: 760, 967
+  xy: 1484, 1929
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Stagnant Water Bodies
   rotate: false
-  xy: 976, 1183
+  xy: 1484, 1713
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Sulphur
   rotate: false
-  xy: 544, 643
+  xy: 1408, 1173
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Supercontinent Climate
   rotate: false
-  xy: 652, 751
+  xy: 1408, 1065
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Supercontinent Cycles
   rotate: false
-  xy: 760, 859
+  xy: 1408, 957
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Swamp
   rotate: false
-  xy: 868, 967
+  xy: 1408, 849
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Tidal Pool
   rotate: false
-  xy: 1408, 1507
+  xy: 1408, 93
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Triassic Amber
+  rotate: false
+  xy: 1592, 1821
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Triassic Clay Minerals
+  rotate: false
+  xy: 1592, 1713
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Triassic Climate
+  rotate: false
+  xy: 1592, 1605
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Triassic Volcanic Ash Layers
+  rotate: false
+  xy: 1516, 741
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Volcanic Ash Layers
   rotate: false
-  xy: 1192, 1183
+  xy: 1624, 1497
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Volcanic Glass
   rotate: false
-  xy: 1300, 1291
+  xy: 1700, 1929
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Water Bodies
   rotate: false
-  xy: 868, 751
+  xy: 1624, 1173
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 EmojiIcons/Culture
   rotate: false
-  xy: 1204, 735
+  xy: 1978, 1921
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 EmojiIcons/Faith
   rotate: false
-  xy: 1362, 1034
+  xy: 1978, 1747
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 EmojiIcons/Food
   rotate: false
-  xy: 1420, 1034
+  xy: 1978, 1631
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 EmojiIcons/Gold
   rotate: false
-  xy: 1717, 1308
+  xy: 1987, 1515
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 EmojiIcons/Production
   rotate: false
-  xy: 1277, 984
+  xy: 1964, 544
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 EmojiIcons/Science
   rotate: false
-  xy: 984, 577
+  xy: 1964, 312
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 ImprovementIcons/Algae
   rotate: false
-  xy: 512, 1939
+  xy: 112, 1421
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ImprovementIcons/Archaeopteris
   rotate: false
-  xy: 620, 1939
+  xy: 512, 1821
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Bennettitales
+  rotate: false
+  xy: 436, 1313
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ImprovementIcons/Charnia
   rotate: false
-  xy: 620, 1723
+  xy: 436, 1205
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ImprovementIcons/Cooksonia
   rotate: false
-  xy: 328, 1323
+  xy: 112, 989
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ImprovementIcons/Coral
   rotate: false
-  xy: 620, 1615
+  xy: 220, 989
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ImprovementIcons/Cordaites
   rotate: false
-  xy: 836, 1831
+  xy: 436, 989
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Crossotheca
+  rotate: false
+  xy: 112, 881
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Cynepteris
+  rotate: false
+  xy: 544, 849
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Ginkoales
+  rotate: false
+  xy: 652, 1065
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ImprovementIcons/Lava Lake
   rotate: false
-  xy: 1592, 1615
+  xy: 760, 201
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ImprovementIcons/Lepidodendron
   rotate: false
-  xy: 1808, 1831
+  xy: 868, 1497
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ImprovementIcons/Moss
   rotate: false
-  xy: 436, 999
+  xy: 976, 1065
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Pleuromeia
+  rotate: false
+  xy: 1084, 93
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ImprovementIcons/Sanfordiacaulis
   rotate: false
-  xy: 544, 859
+  xy: 1300, 1389
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ImprovementIcons/Seed Plant
   rotate: false
-  xy: 976, 1291
+  xy: 1300, 741
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ImprovementIcons/Sigillaria
   rotate: false
-  xy: 544, 751
+  xy: 1300, 201
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ImprovementIcons/Stromatolites
   rotate: false
-  xy: 1192, 1399
+  xy: 1408, 1389
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ImprovementIcons/Volcano
   rotate: false
-  xy: 1516, 1507
+  xy: 1700, 1713
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ImprovementIcons/Voltzia
   rotate: false
-  xy: 544, 427
+  xy: 1700, 1605
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ImprovementIcons/Walchia
   rotate: false
-  xy: 652, 535
+  xy: 1624, 1389
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Cosmos
   rotate: false
-  xy: 944, 1939
+  xy: 544, 957
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Donderend
+  rotate: false
+  xy: 544, 957
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Faithfull
   rotate: false
-  xy: 944, 1939
+  xy: 544, 957
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Hoffnung
+  rotate: false
+  xy: 544, 957
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Immensity
   rotate: false
-  xy: 944, 1939
+  xy: 544, 957
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Kalam
   rotate: false
-  xy: 944, 1939
+  xy: 544, 957
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Kesuburan
+  rotate: false
+  xy: 544, 957
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Throne
   rotate: false
-  xy: 944, 1939
+  xy: 544, 957
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Yildrim
   rotate: false
-  xy: 944, 1939
+  xy: 544, 957
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Zeno
   rotate: false
-  xy: 944, 1939
+  xy: 544, 957
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 PolicyIcons/Aluminium
   rotate: false
-  xy: 629, 62
+  xy: 1564, 35
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Argon
   rotate: false
-  xy: 687, 62
+  xy: 1680, 11
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Arsenic
   rotate: false
-  xy: 687, 4
+  xy: 1879, 236
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Beryllium
   rotate: false
-  xy: 760, 502
+  xy: 1879, 178
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Boron
   rotate: false
-  xy: 737, 444
+  xy: 1879, 120
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Bromine
   rotate: false
-  xy: 737, 386
+  xy: 1879, 62
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Calcium
   rotate: false
-  xy: 818, 502
+  xy: 1879, 4
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Carbon
   rotate: false
-  xy: 795, 444
+  xy: 1937, 236
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Chlorine
   rotate: false
-  xy: 1169, 793
+  xy: 1937, 120
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Chromium
   rotate: false
-  xy: 1146, 735
+  xy: 1937, 62
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Cobalt
   rotate: false
-  xy: 1146, 677
+  xy: 1937, 4
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Copper
   rotate: false
-  xy: 1227, 793
+  xy: 1978, 1979
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Fluorine
   rotate: false
-  xy: 1443, 1092
+  xy: 1978, 1689
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Gallium
   rotate: false
-  xy: 1601, 1308
+  xy: 1964, 1066
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Germanium
   rotate: false
-  xy: 1659, 1308
+  xy: 1987, 1573
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Hellium
   rotate: false
-  xy: 1775, 1308
+  xy: 1987, 1457
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Hydrogen
   rotate: false
-  xy: 1833, 1308
+  xy: 1987, 1399
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Iron
   rotate: false
-  xy: 1891, 1308
+  xy: 1987, 1341
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Krypton
   rotate: false
-  xy: 1949, 1308
+  xy: 1987, 1283
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Lithium
   rotate: false
-  xy: 1578, 1250
+  xy: 1987, 1225
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Magnesium
   rotate: false
-  xy: 1694, 1250
+  xy: 1964, 1008
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Manganese
   rotate: false
-  xy: 1752, 1250
+  xy: 1964, 950
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Neon
   rotate: false
-  xy: 1810, 1250
+  xy: 1964, 892
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Nickel
   rotate: false
-  xy: 1868, 1250
+  xy: 1964, 834
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Nitrogen
   rotate: false
-  xy: 1926, 1250
+  xy: 1964, 776
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Oxygen
   rotate: false
-  xy: 868, 610
+  xy: 1964, 718
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Phosphorus
   rotate: false
-  xy: 926, 610
+  xy: 1964, 660
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Potassium
   rotate: false
-  xy: 984, 635
+  xy: 1964, 602
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Rubidium
   rotate: false
-  xy: 1254, 868
+  xy: 1964, 428
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 PolicyIcons/Scandium
   rotate: false
-  xy: 1493, 1200
-  size: 50, 50
-  orig: 50, 50
-  offset: 0, 0
-  index: -1
-PolicyIcons/Selenium
-  rotate: false
-  xy: 1042, 602
-  size: 50, 50
-  orig: 50, 50
-  offset: 0, 0
-  index: -1
-PolicyIcons/Silicon
-  rotate: false
-  xy: 1100, 602
-  size: 50, 50
-  orig: 50, 50
-  offset: 0, 0
-  index: -1
-PolicyIcons/Sodium
-  rotate: false
-  xy: 1158, 619
-  size: 50, 50
-  orig: 50, 50
-  offset: 0, 0
-  index: -1
-PolicyIcons/Strontium
-  rotate: false
-  xy: 1216, 619
-  size: 50, 50
-  orig: 50, 50
-  offset: 0, 0
-  index: -1
-PolicyIcons/Sulphur
-  rotate: false
-  xy: 1042, 544
-  size: 50, 50
-  orig: 50, 50
-  offset: 0, 0
-  index: -1
-PolicyIcons/Titanium
-  rotate: false
-  xy: 1100, 544
-  size: 50, 50
-  orig: 50, 50
-  offset: 0, 0
-  index: -1
-PolicyIcons/Vanadium
-  rotate: false
-  xy: 1158, 561
-  size: 50, 50
-  orig: 50, 50
-  offset: 0, 0
-  index: -1
-PolicyIcons/Yttrium
-  rotate: false
-  xy: 1216, 561
-  size: 50, 50
-  orig: 50, 50
-  offset: 0, 0
-  index: -1
-PolicyIcons/Zinc
-  rotate: false
-  xy: 714, 311
+  xy: 1964, 370
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 ResourceIcons/Clay
   rotate: false
-  xy: 836, 1939
+  xy: 4, 1097
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ResourceIcons/Forest
   rotate: false
-  xy: 1484, 1939
+  xy: 328, 17
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/Lake
+  rotate: false
+  xy: 760, 741
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ResourceIcons/Limestone
   rotate: false
-  xy: 112, 27
+  xy: 944, 1605
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ResourceIcons/Marsh
   rotate: false
-  xy: 1808, 1615
+  xy: 868, 201
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/Oasis
+  rotate: false
+  xy: 976, 309
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ResourceIcons/Petroleum
   rotate: false
-  xy: 544, 1291
+  xy: 1084, 1065
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ResourceIcons/Sandstone
   rotate: false
-  xy: 1084, 1507
+  xy: 1376, 1605
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ResourceIcons/Volcanic Ash
   rotate: false
-  xy: 1084, 1075
+  xy: 1516, 93
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 StatIcons/Culture
   rotate: false
-  xy: 220, 1107
+  xy: 328, 881
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 StatIcons/Faith
   rotate: false
-  xy: 1376, 1939
+  xy: 544, 201
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 StatIcons/Food
   rotate: false
-  xy: 1376, 1831
+  xy: 220, 17
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 StatIcons/Gold
   rotate: false
-  xy: 1376, 1615
+  xy: 652, 633
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 StatIcons/Production
   rotate: false
-  xy: 868, 1507
+  xy: 1192, 1389
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 StatIcons/Science
   rotate: false
-  xy: 652, 967
+  xy: 1300, 1173
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 TechIcons/Amphibian Proliferation
   rotate: false
-  xy: 4, 1323
+  xy: 220, 1421
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 TechIcons/Amphibians
   rotate: false
-  xy: 112, 1431
+  xy: 328, 1421
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/Archosaurs
+  rotate: false
+  xy: 544, 1497
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 TechIcons/Cambrian Explosion
   rotate: false
-  xy: 220, 1323
+  xy: 112, 1205
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 TechIcons/Carboniferous Mountains
   rotate: false
-  xy: 512, 1615
+  xy: 328, 1205
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 TechIcons/Complex Ecosystems
   rotate: false
-  xy: 112, 1107
+  xy: 544, 1065
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 TechIcons/Continental Growth
   rotate: false
-  xy: 220, 1215
+  xy: 4, 989
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 TechIcons/Decline of Marine Biodiversity
   rotate: false
-  xy: 728, 1615
+  xy: 112, 773
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 TechIcons/Desertification
   rotate: false
-  xy: 1052, 1939
+  xy: 436, 773
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 TechIcons/Development of Conifer Forests
   rotate: false
-  xy: 4, 783
+  xy: 544, 741
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 TechIcons/Development of Salt Deposits
   rotate: false
-  xy: 112, 891
+  xy: 4, 665
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 TechIcons/Diversification
   rotate: false
-  xy: 944, 1723
+  xy: 436, 665
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 TechIcons/Diversification of Jawed Fish
   rotate: false
-  xy: 1052, 1831
+  xy: 544, 633
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/Early Dinosaurs
+  rotate: false
+  xy: 112, 557
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 TechIcons/Early Mammal Ancestors
   rotate: false
-  xy: 4, 675
+  xy: 220, 557
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 TechIcons/Early Reptiles
   rotate: false
-  xy: 112, 783
+  xy: 328, 557
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 TechIcons/Early Trees
   rotate: false
-  xy: 220, 891
+  xy: 436, 557
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 TechIcons/Eukaryotes
   rotate: false
-  xy: 112, 675
+  xy: 436, 341
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 TechIcons/Evolution of Insects
   rotate: false
-  xy: 1052, 1615
+  xy: 220, 233
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 TechIcons/Expansion of Arid Regions
   rotate: false
-  xy: 1160, 1723
+  xy: 328, 233
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 TechIcons/Extensive Rivers
   rotate: false
-  xy: 1268, 1831
+  xy: 436, 233
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 TechIcons/First Land Plants
   rotate: false
-  xy: 220, 675
+  xy: 328, 125
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 TechIcons/First Life Forms
   rotate: false
-  xy: 328, 783
+  xy: 436, 125
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/First Mammals
+  rotate: false
+  xy: 544, 93
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 TechIcons/First Vertebrates
   rotate: false
-  xy: 1160, 1615
+  xy: 4, 17
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 TechIcons/Fluctuations in Oxygen Levels
   rotate: false
-  xy: 1268, 1723
+  xy: 112, 17
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 TechIcons/Formation of Atmosphere
   rotate: false
-  xy: 4, 351
+  xy: 436, 17
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 TechIcons/Formation of Crust
   rotate: false
-  xy: 112, 459
+  xy: 652, 1497
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 TechIcons/Formation of Earth
   rotate: false
-  xy: 220, 567
+  xy: 728, 1929
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 TechIcons/Formation of Laurussia
   rotate: false
-  xy: 1268, 1615
+  xy: 728, 1713
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Laurussia
   rotate: false
-  xy: 1268, 1615
+  xy: 728, 1713
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 TechIcons/Formation of Mountain Ranges
   rotate: false
-  xy: 1376, 1723
+  xy: 728, 1605
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 TechIcons/Fossilization
   rotate: false
-  xy: 1484, 1831
+  xy: 652, 1389
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 TechIcons/Glaciation and Mass Extinction
   rotate: false
-  xy: 220, 459
+  xy: 652, 849
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 TechIcons/Increased Atmospheric Oxygen
   rotate: false
-  xy: 1484, 1615
+  xy: 760, 1389
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 TechIcons/Insect Gigantism
   rotate: false
-  xy: 1592, 1723
+  xy: 760, 1281
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 TechIcons/Land Arthropods
   rotate: false
-  xy: 4, 27
+  xy: 760, 633
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 TechIcons/Large Tree Ferns
   rotate: false
-  xy: 112, 135
+  xy: 760, 525
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 TechIcons/Late Devonian Extinction
   rotate: false
-  xy: 220, 243
+  xy: 760, 417
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 TechIcons/Limestone Formations
   rotate: false
-  xy: 220, 135
+  xy: 868, 1389
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 TechIcons/Lycophytes and Horsetails
   rotate: false
-  xy: 1700, 1615
+  xy: 868, 1173
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 TechIcons/Marine Biodiversity
   rotate: false
-  xy: 220, 27
+  xy: 868, 633
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 TechIcons/Marine Reefs
   rotate: false
-  xy: 328, 135
+  xy: 868, 525
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/Marine Reptile Diversity
+  rotate: false
+  xy: 868, 417
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/Marine Reptiles
+  rotate: false
+  xy: 868, 309
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 TechIcons/Moon Formation
   rotate: false
-  xy: 436, 1323
+  xy: 976, 1389
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 TechIcons/Multicellular Life
   rotate: false
-  xy: 436, 675
+  xy: 976, 741
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 TechIcons/Oceans
   rotate: false
-  xy: 436, 459
+  xy: 976, 201
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 TechIcons/Oxygenation
   rotate: false
-  xy: 436, 243
+  xy: 1084, 1497
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 TechIcons/Panthalassa Ocean
   rotate: false
-  xy: 436, 27
+  xy: 1160, 1821
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 TechIcons/Permian Volcanic Activity
   rotate: false
-  xy: 652, 1507
+  xy: 1084, 1281
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 TechIcons/Photosynthesis
   rotate: false
-  xy: 652, 1399
+  xy: 1084, 849
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 TechIcons/Placodermi
   rotate: false
-  xy: 760, 1507
+  xy: 1084, 633
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 TechIcons/Plate Tectonics
   rotate: false
-  xy: 544, 1183
+  xy: 1084, 309
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 TechIcons/Primordial Atmosphere
   rotate: false
-  xy: 652, 1291
+  xy: 1268, 1821
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/Primordial Dinosaur Families
+  rotate: false
+  xy: 1268, 1713
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/Pterosauria
+  rotate: false
+  xy: 1192, 957
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/Recovery from Extinction
+  rotate: false
+  xy: 1192, 741
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 TechIcons/Red Sandstone
   rotate: false
-  xy: 868, 1399
+  xy: 1192, 525
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 TechIcons/Reduction of Coal Swamps
   rotate: false
-  xy: 976, 1507
+  xy: 1192, 417
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 TechIcons/Rise of Coal Forests
   rotate: false
-  xy: 652, 1075
+  xy: 1192, 201
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/Rise of Crocodylomorphs
+  rotate: false
+  xy: 1192, 93
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/Rise of Dinosaurs
+  rotate: false
+  xy: 1300, 1497
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 TechIcons/Roots
   rotate: false
-  xy: 760, 1183
+  xy: 1376, 1929
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/Scleractinian Corals
+  rotate: false
+  xy: 1300, 1065
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 TechIcons/Sedimentation
   rotate: false
-  xy: 868, 1183
+  xy: 1300, 849
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 TechIcons/Seed Plants
   rotate: false
-  xy: 1084, 1399
+  xy: 1300, 633
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 TechIcons/Siberia
   rotate: false
-  xy: 1192, 1507
+  xy: 1300, 309
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 TechIcons/Southern Hemisphere Ice Sheets
   rotate: false
-  xy: 652, 859
+  xy: 1408, 1497
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 TechIcons/Stabilization of Crust
   rotate: false
-  xy: 868, 1075
+  xy: 1484, 1821
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 TechIcons/Stromatolites
   rotate: false
-  xy: 1300, 1507
+  xy: 1408, 1281
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 TechIcons/Symbiosis
   rotate: false
-  xy: 976, 1075
+  xy: 1408, 741
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 TechIcons/Terrestrial Ecosystems
   rotate: false
-  xy: 1084, 1183
+  xy: 1408, 525
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 TechIcons/The Great Dying
   rotate: false
-  xy: 4, 1539
+  xy: 4, 1529
   size: 500, 500
   orig: 500, 500
   offset: 0, 0
   index: -1
 TechIcons/Thermal Maximum
   rotate: false
-  xy: 1300, 1399
+  xy: 1408, 309
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/Triassic Deserts
+  rotate: false
+  xy: 1516, 1389
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/Triassic Diversification
+  rotate: false
+  xy: 1516, 1281
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/Triassic Flora
+  rotate: false
+  xy: 1516, 1173
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/Triassic Humity
+  rotate: false
+  xy: 1516, 1065
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/Triassic Marine Life
+  rotate: false
+  xy: 1516, 957
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TechIcons/Triassic Plant Life
+  rotate: false
+  xy: 1516, 849
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 TechIcons/Trilobites
   rotate: false
-  xy: 868, 859
+  xy: 1516, 525
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 TechIcons/Volcanic Activity
   rotate: false
-  xy: 976, 967
+  xy: 1516, 201
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 TechIcons/Warm Climate
   rotate: false
-  xy: 760, 643
+  xy: 1624, 1281
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Afrotaldycupes
   rotate: false
-  xy: 1084, 992
+  xy: 1624, 982
+  size: 77, 75
+  orig: 77, 75
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Anarosaurus
+  rotate: false
+  xy: 1624, 899
   size: 77, 75
   orig: 77, 75
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Anomalocaris
   rotate: false
-  xy: 1192, 1100
+  xy: 1624, 816
   size: 77, 75
   orig: 77, 75
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Archaeothyris
   rotate: false
-  xy: 1300, 1208
+  xy: 1624, 733
   size: 77, 75
   orig: 77, 75
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Archea
   rotate: false
-  xy: 1408, 1316
+  xy: 1624, 650
+  size: 77, 75
+  orig: 77, 75
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Arizonasaurus
+  rotate: false
+  xy: 1624, 567
   size: 77, 75
   orig: 77, 75
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Arthropleura
   rotate: false
-  xy: 1516, 1424
+  xy: 1624, 484
+  size: 77, 75
+  orig: 77, 75
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Atopodentatus
+  rotate: false
+  xy: 1624, 401
+  size: 77, 75
+  orig: 77, 75
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Atychodracon
+  rotate: false
+  xy: 1624, 318
+  size: 77, 75
+  orig: 77, 75
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Austriadactylus
+  rotate: false
+  xy: 1624, 235
   size: 77, 75
   orig: 77, 75
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Bacteria
   rotate: false
-  xy: 1624, 1532
+  xy: 1624, 152
   size: 77, 75
   orig: 77, 75
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Barameda
   rotate: false
-  xy: 544, 344
+  xy: 1624, 69
   size: 77, 75
   orig: 77, 75
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Barbclabornia
   rotate: false
-  xy: 652, 452
+  xy: 1709, 982
   size: 77, 75
   orig: 77, 75
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Cladoselache
   rotate: false
-  xy: 760, 560
+  xy: 1732, 1522
+  size: 77, 75
+  orig: 77, 75
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Coelophysis
+  rotate: false
+  xy: 1808, 1954
+  size: 77, 75
+  orig: 77, 75
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Coloradisaurus
+  rotate: false
+  xy: 1808, 1871
   size: 77, 75
   orig: 77, 75
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Crassigyrinus
   rotate: false
-  xy: 868, 668
+  xy: 1808, 1788
   size: 77, 75
   orig: 77, 75
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Ctenospondylus
   rotate: false
-  xy: 976, 776
+  xy: 1808, 1705
+  size: 77, 75
+  orig: 77, 75
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Cymbospondylus
+  rotate: false
+  xy: 1808, 1622
   size: 77, 75
   orig: 77, 75
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Dimetrodon
   rotate: false
-  xy: 1084, 909
+  xy: 1732, 1439
   size: 77, 75
   orig: 77, 75
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Diplocaulus
   rotate: false
-  xy: 1709, 1532
+  xy: 1732, 1356
   size: 77, 75
   orig: 77, 75
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Dunkleosteous
   rotate: false
-  xy: 544, 261
+  xy: 1732, 1273
   size: 77, 75
   orig: 77, 75
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Edaphosaurus
   rotate: false
-  xy: 1794, 1532
+  xy: 1732, 1190
   size: 77, 75
   orig: 77, 75
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Elephantoceras
   rotate: false
-  xy: 544, 178
+  xy: 1732, 1107
   size: 77, 75
   orig: 77, 75
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Ennatosaurus
   rotate: false
-  xy: 1879, 1532
+  xy: 1709, 899
+  size: 77, 75
+  orig: 77, 75
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Eoraptor
+  rotate: false
+  xy: 1709, 816
+  size: 77, 75
+  orig: 77, 75
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Eretmorhipis
+  rotate: false
+  xy: 1709, 733
+  size: 77, 75
+  orig: 77, 75
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Ericiolacerta
+  rotate: false
+  xy: 1709, 650
+  size: 77, 75
+  orig: 77, 75
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Erythrosuchus
+  rotate: false
+  xy: 1709, 567
+  size: 77, 75
+  orig: 77, 75
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Eudimorphodon
+  rotate: false
+  xy: 1709, 484
   size: 77, 75
   orig: 77, 75
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Eukaryote
   rotate: false
-  xy: 544, 95
+  xy: 1709, 401
   size: 77, 75
   orig: 77, 75
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Eurypterus
   rotate: false
-  xy: 544, 12
+  xy: 1709, 318
+  size: 77, 75
+  orig: 77, 75
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Fasolasuchus
+  rotate: false
+  xy: 1709, 235
   size: 77, 75
   orig: 77, 75
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Goldringia
   rotate: false
-  xy: 1964, 1532
+  xy: 1709, 152
   size: 77, 75
   orig: 77, 75
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Guiyu
   rotate: false
-  xy: 1084, 826
+  xy: 1709, 69
   size: 77, 75
   orig: 77, 75
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Helicoprion
   rotate: false
-  xy: 1061, 743
+  xy: 544, 10
+  size: 77, 75
+  orig: 77, 75
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Herrerasaurus
+  rotate: false
+  xy: 629, 10
   size: 77, 75
   orig: 77, 75
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Hylonomus
   rotate: false
-  xy: 976, 693
+  xy: 714, 10
   size: 77, 75
   orig: 77, 75
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Hyneria
   rotate: false
-  xy: 1061, 660
+  xy: 799, 10
+  size: 77, 75
+  orig: 77, 75
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Ischigualastia
+  rotate: false
+  xy: 884, 10
   size: 77, 75
   orig: 77, 75
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Itchyostega
   rotate: false
-  xy: 1192, 1017
+  xy: 969, 10
   size: 77, 75
   orig: 77, 75
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Kerygmachela
   rotate: false
-  xy: 1169, 934
+  xy: 1054, 10
   size: 77, 75
   orig: 77, 75
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Lemurosaurus
   rotate: false
-  xy: 1169, 851
+  xy: 1139, 10
+  size: 77, 75
+  orig: 77, 75
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Lessemsaurus
+  rotate: false
+  xy: 1224, 10
+  size: 77, 75
+  orig: 77, 75
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Liliensternus
+  rotate: false
+  xy: 1309, 10
   size: 77, 75
   orig: 77, 75
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Lupeosaurus
   rotate: false
-  xy: 1300, 1125
+  xy: 1394, 10
+  size: 77, 75
+  orig: 77, 75
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Lystrosaurus
+  rotate: false
+  xy: 1479, 10
+  size: 77, 75
+  orig: 77, 75
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Machaeroprosopus
+  rotate: false
+  xy: 1794, 1024
+  size: 77, 75
+  orig: 77, 75
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Mastodonsaurus
+  rotate: false
+  xy: 1817, 1539
   size: 77, 75
   orig: 77, 75
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Megamastax
   rotate: false
-  xy: 1277, 1042
+  xy: 1893, 1954
   size: 77, 75
   orig: 77, 75
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Meganeura
   rotate: false
-  xy: 1408, 1233
+  xy: 1893, 1871
   size: 77, 75
   orig: 77, 75
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Microbrachius
   rotate: false
-  xy: 1385, 1150
+  xy: 1893, 1788
+  size: 77, 75
+  orig: 77, 75
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Mixosaurus
+  rotate: false
+  xy: 1893, 1705
   size: 77, 75
   orig: 77, 75
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Moschops
   rotate: false
-  xy: 1516, 1341
+  xy: 1893, 1622
   size: 77, 75
   orig: 77, 75
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Moschorhinus
   rotate: false
-  xy: 1493, 1258
+  xy: 1817, 1456
   size: 77, 75
   orig: 77, 75
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Neopteroplax
   rotate: false
-  xy: 1624, 1449
+  xy: 1817, 1373
+  size: 77, 75
+  orig: 77, 75
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Nicrosaurus
+  rotate: false
+  xy: 1817, 1290
+  size: 77, 75
+  orig: 77, 75
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Nothosaurus
+  rotate: false
+  xy: 1817, 1207
   size: 77, 75
   orig: 77, 75
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Opabinia
   rotate: false
-  xy: 1709, 1449
+  xy: 1817, 1124
+  size: 77, 75
+  orig: 77, 75
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Peteinosaurus
+  rotate: false
+  xy: 1794, 941
+  size: 77, 75
+  orig: 77, 75
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Pistosaurus
+  rotate: false
+  xy: 1794, 858
+  size: 77, 75
+  orig: 77, 75
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Placodus
+  rotate: false
+  xy: 1794, 775
+  size: 77, 75
+  orig: 77, 75
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Plagiosaurus
+  rotate: false
+  xy: 1794, 692
+  size: 77, 75
+  orig: 77, 75
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Plateosaurus
+  rotate: false
+  xy: 1794, 609
+  size: 77, 75
+  orig: 77, 75
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Postosuchus
+  rotate: false
+  xy: 1794, 526
+  size: 77, 75
+  orig: 77, 75
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Prestosuchus
+  rotate: false
+  xy: 1794, 443
+  size: 77, 75
+  orig: 77, 75
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Proganochelys
+  rotate: false
+  xy: 1794, 360
+  size: 77, 75
+  orig: 77, 75
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Proterosuchus
+  rotate: false
+  xy: 1794, 277
   size: 77, 75
   orig: 77, 75
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Rhyniognatha
   rotate: false
-  xy: 1794, 1449
+  xy: 1794, 194
   size: 77, 75
   orig: 77, 75
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Saivodus
   rotate: false
-  xy: 1879, 1449
+  xy: 1794, 111
+  size: 77, 75
+  orig: 77, 75
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Saurosuchus
+  rotate: false
+  xy: 1794, 28
   size: 77, 75
   orig: 77, 75
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Secodontosaurus
   rotate: false
-  xy: 1964, 1449
+  xy: 1879, 1041
+  size: 77, 75
+  orig: 77, 75
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Shonisaurus
+  rotate: false
+  xy: 1902, 1539
+  size: 77, 75
+  orig: 77, 75
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Smilosuchus
+  rotate: false
+  xy: 1902, 1456
   size: 77, 75
   orig: 77, 75
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Stethacanthus
   rotate: false
-  xy: 1601, 1366
+  xy: 1902, 1373
+  size: 77, 75
+  orig: 77, 75
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Tanystropheus
+  rotate: false
+  xy: 1902, 1290
   size: 77, 75
   orig: 77, 75
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Thelodonti
   rotate: false
-  xy: 1686, 1366
+  xy: 1902, 1207
+  size: 77, 75
+  orig: 77, 75
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Thrinaxodon 
+  rotate: false
+  xy: 1902, 1124
   size: 77, 75
   orig: 77, 75
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Tiktaalik
   rotate: false
-  xy: 1771, 1366
+  xy: 1879, 958
   size: 77, 75
   orig: 77, 75
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Titanosuchus
   rotate: false
-  xy: 1856, 1366
+  xy: 1879, 875
   size: 77, 75
   orig: 77, 75
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Trilobite
   rotate: false
-  xy: 1941, 1366
+  xy: 1879, 792
+  size: 77, 75
+  orig: 77, 75
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Trucidocynodon
+  rotate: false
+  xy: 1879, 709
+  size: 77, 75
+  orig: 77, 75
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Utatsusaurus
+  rotate: false
+  xy: 1879, 626
   size: 77, 75
   orig: 77, 75
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Warrior
   rotate: false
-  xy: 652, 369
+  xy: 1879, 543
   size: 77, 75
   orig: 77, 75
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Warrior-1
   rotate: false
-  xy: 629, 286
+  xy: 1879, 460
   size: 77, 75
   orig: 77, 75
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Warrior-2
   rotate: false
-  xy: 629, 203
+  xy: 1879, 377
   size: 77, 75
   orig: 77, 75
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Wodnika
   rotate: false
-  xy: 629, 120
+  xy: 1879, 294
   size: 77, 75
   orig: 77, 75
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Tiles/Aeolian soils
-  rotate: false
-  xy: 714, 275
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Tiles/Aeolian soils+Carboniferous
-  rotate: false
-  xy: 714, 239
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Tiles/Aeolian soils-Carboniferous
-  rotate: false
-  xy: 714, 239
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Tiles/Aeolian soils+Devonian
-  rotate: false
-  xy: 714, 203
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Tiles/Aeolian soils-Devonian
-  rotate: false
-  xy: 714, 203
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Tiles/Aeolian soils+Permian
-  rotate: false
-  xy: 714, 167
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Tiles/Aeolian soils-Permian
-  rotate: false
-  xy: 714, 167
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Tiles/Alfisols
-  rotate: false
-  xy: 714, 131
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Tiles/Alfisols+Carboniferous
-  rotate: false
-  xy: 853, 466
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Tiles/Alfisols+Devonian
-  rotate: false
-  xy: 853, 466
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Tiles/Alfisols-Devonian
-  rotate: false
-  xy: 853, 466
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Tiles/Alfisols+Permian
-  rotate: false
-  xy: 853, 430
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Tiles/Alfisols-Permian
-  rotate: false
-  xy: 853, 430
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Tiles/Alfisols-Ordovician - Silurian
-  rotate: false
-  xy: 853, 394
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Tiles/Alfisols-Proterozoic
-  rotate: false
-  xy: 1478, 1056
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Tiles/Algae
-  rotate: false
-  xy: 1478, 1020
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Tiles/Archaeopteris
-  rotate: false
-  xy: 1984, 1272
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Tiles/Chalk soil
-  rotate: false
-  xy: 1984, 1236
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Tiles/Chalk soil+Carboniferous
-  rotate: false
-  xy: 1312, 948
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Tiles/Chalk soil+Devonian
-  rotate: false
-  xy: 1312, 948
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Tiles/Chalk soil+Permian
-  rotate: false
-  xy: 1312, 948
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Tiles/Chalk soil-Devonian
-  rotate: false
-  xy: 1312, 948
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Tiles/Charnia
-  rotate: false
-  xy: 1312, 912
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Tiles/Clay
-  rotate: false
-  xy: 1312, 876
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Tiles/Coast
-  rotate: false
-  xy: 1262, 757
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Tiles/Lakes
-  rotate: false
-  xy: 1262, 757
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Tiles/Coast+Carboniferous
-  rotate: false
-  xy: 1262, 721
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Tiles/Coast+Devonian
-  rotate: false
-  xy: 1262, 721
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Tiles/Coast+Permian
-  rotate: false
-  xy: 1262, 721
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Tiles/Coast-Devonian
-  rotate: false
-  xy: 1262, 721
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Tiles/Coast+Salt
-  rotate: false
-  xy: 1262, 685
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Tiles/Coast-Archean
-  rotate: false
-  xy: 772, 350
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Tiles/Cooksonia
-  rotate: false
-  xy: 772, 314
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Tiles/Coral
-  rotate: false
-  xy: 812, 350
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Tiles/Cordaites
-  rotate: false
-  xy: 812, 314
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Tiles/Forest
-  rotate: false
-  xy: 1158, 525
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Tiles/Forest-Carboniferous
-  rotate: false
-  xy: 1198, 525
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Tiles/Forest-Devonian
-  rotate: false
-  xy: 1238, 525
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Tiles/Forest-Permian
-  rotate: false
-  xy: 1274, 649
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Tiles/Lakes+Carboniferous
-  rotate: false
-  xy: 1274, 613
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Tiles/Lakes-Carboniferous
-  rotate: false
-  xy: 1274, 613
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Tiles/Lakes+Devonian
-  rotate: false
-  xy: 1274, 577
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Tiles/Lakes-Devonian
-  rotate: false
-  xy: 1274, 577
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Tiles/Lakes+Permian
-  rotate: false
-  xy: 1278, 541
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Tiles/Lakes-Permian
-  rotate: false
-  xy: 1278, 541
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Tiles/Lakes-Archean
-  rotate: false
-  xy: 1278, 505
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Tiles/Lava Lake
-  rotate: false
-  xy: 2007, 1330
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Tiles/Lepidodendron
-  rotate: false
-  xy: 754, 275
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Tiles/Limestone
-  rotate: false
-  xy: 754, 239
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Tiles/Marsh
-  rotate: false
-  xy: 754, 203
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Tiles/Moss
-  rotate: false
-  xy: 754, 167
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Tiles/Mountain
-  rotate: false
-  xy: 794, 270
-  size: 32, 36
-  orig: 32, 36
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Tiles/Mountain+Carboniferous
-  rotate: false
-  xy: 794, 226
-  size: 32, 36
-  orig: 32, 36
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Tiles/Mountain-Carboniferous
-  rotate: false
-  xy: 794, 226
-  size: 32, 36
-  orig: 32, 36
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Tiles/Mountain+Devonian
-  rotate: false
-  xy: 794, 182
-  size: 32, 36
-  orig: 32, 36
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Tiles/Mountain-Devonian
-  rotate: false
-  xy: 794, 182
-  size: 32, 36
-  orig: 32, 36
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Tiles/Mountain+Permian
-  rotate: false
-  xy: 754, 123
-  size: 32, 36
-  orig: 32, 36
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Tiles/Mountain-Permian
-  rotate: false
-  xy: 754, 123
-  size: 32, 36
-  orig: 32, 36
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Tiles/Mountain-Archean
-  rotate: false
-  xy: 794, 138
-  size: 32, 36
-  orig: 32, 36
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Tiles/Ocean
-  rotate: false
-  xy: 745, 87
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Tiles/Ocean+Carboniferous
-  rotate: false
-  xy: 745, 51
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Tiles/Ocean+Devonian
-  rotate: false
-  xy: 745, 51
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Tiles/Ocean+Permian
-  rotate: false
-  xy: 745, 51
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Tiles/Ocean-Devonian
-  rotate: false
-  xy: 745, 51
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Tiles/Ocean-Archean
-  rotate: false
-  xy: 745, 15
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Tiles/Petroleum
-  rotate: false
-  xy: 794, 102
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Tiles/River-Bottom
-  rotate: false
-  xy: 785, 66
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Tiles/River-BottomLeft
-  rotate: false
-  xy: 785, 30
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Tiles/River-BottomRight
-  rotate: false
-  xy: 834, 278
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Tiles/Sand
-  rotate: false
-  xy: 834, 242
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Tiles/Sand+Carboniferous
-  rotate: false
-  xy: 834, 206
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Tiles/Sand-Carboniferous
-  rotate: false
-  xy: 834, 206
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Tiles/Sand+Devonian
-  rotate: false
-  xy: 834, 170
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Tiles/Sand-Devonian
-  rotate: false
-  xy: 834, 170
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Tiles/Sand+Permian
-  rotate: false
-  xy: 834, 134
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Tiles/Sand-Permian
-  rotate: false
-  xy: 834, 134
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Tiles/Sand-Proterozoic
-  rotate: false
-  xy: 834, 98
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Tiles/Sandstone
-  rotate: false
-  xy: 825, 62
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Tiles/Sanfordiacaulis
-  rotate: false
-  xy: 825, 26
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Tiles/Seed Plant
-  rotate: false
-  xy: 1470, 1164
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Tiles/Seed Plant-Devonian
-  rotate: false
-  xy: 1510, 1164
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Tiles/Sigillaria
-  rotate: false
-  xy: 1501, 1128
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Tiles/Stromatolites
-  rotate: false
-  xy: 1501, 1092
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Tiles/Vertisols
-  rotate: false
-  xy: 1518, 1056
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Tiles/Vertisols+Carboniferous
-  rotate: false
-  xy: 1518, 1020
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Tiles/Vertisols-Carboniferous
-  rotate: false
-  xy: 1518, 1020
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Tiles/Vertisols+Devonian
-  rotate: false
-  xy: 845, 574
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Tiles/Vertisols-Devonian
-  rotate: false
-  xy: 845, 574
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Tiles/Vertisols+Permian
-  rotate: false
-  xy: 885, 574
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Tiles/Vertisols-Permian
-  rotate: false
-  xy: 885, 574
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Tiles/Volcanic Ash
-  rotate: false
-  xy: 925, 574
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Tiles/Volcano
-  rotate: false
-  xy: 876, 530
-  size: 32, 36
-  orig: 32, 36
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Tiles/Voltzia
-  rotate: false
-  xy: 916, 538
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Tiles/Walchia
-  rotate: false
-  xy: 1335, 984
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
 UnitIcons/Afrotaldycupes
   rotate: false
-  xy: 4, 1431
+  xy: 4, 1421
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Anarosaurus
+  rotate: false
+  xy: 436, 1421
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Anomalocaris
   rotate: false
-  xy: 512, 1831
+  xy: 512, 1929
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Archaeothyris
   rotate: false
-  xy: 4, 1215
+  xy: 512, 1713
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Archea
   rotate: false
-  xy: 112, 1323
+  xy: 512, 1605
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Arizonasaurus
+  rotate: false
+  xy: 620, 1929
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Arthropleura
   rotate: false
-  xy: 220, 1431
+  xy: 620, 1821
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Atopodentatus
+  rotate: false
+  xy: 620, 1605
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Atychodracon
+  rotate: false
+  xy: 544, 1389
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Austriadactylus
+  rotate: false
+  xy: 4, 1313
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Bacteria
   rotate: false
-  xy: 620, 1831
+  xy: 112, 1313
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Barameda
   rotate: false
-  xy: 728, 1939
+  xy: 220, 1313
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Barbclabornia
   rotate: false
-  xy: 4, 1107
+  xy: 328, 1313
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Cladoselache
   rotate: false
-  xy: 728, 1831
+  xy: 544, 1173
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Coelophysis
+  rotate: false
+  xy: 220, 1097
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Coloradisaurus
+  rotate: false
+  xy: 436, 1097
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Crassigyrinus
   rotate: false
-  xy: 4, 891
+  xy: 4, 881
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Ctenospondylus
   rotate: false
-  xy: 112, 999
+  xy: 220, 881
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Cymbospondylus
+  rotate: false
+  xy: 436, 881
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Dimetrodon
   rotate: false
-  xy: 328, 1107
+  xy: 220, 665
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Diplocaulus
   rotate: false
-  xy: 836, 1615
+  xy: 328, 665
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Dunkleosteous
   rotate: false
-  xy: 1160, 1939
+  xy: 4, 557
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Edaphosaurus
   rotate: false
-  xy: 944, 1615
+  xy: 4, 449
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Elephantoceras
   rotate: false
-  xy: 1052, 1723
+  xy: 112, 449
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Ennatosaurus
   rotate: false
-  xy: 1268, 1939
+  xy: 328, 449
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Eoraptor
+  rotate: false
+  xy: 436, 449
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Eretmorhipis
+  rotate: false
+  xy: 544, 417
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Ericiolacerta
+  rotate: false
+  xy: 4, 341
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Erythrosuchus
+  rotate: false
+  xy: 112, 341
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Eudimorphodon
+  rotate: false
+  xy: 220, 341
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Eukaryote
   rotate: false
-  xy: 4, 567
+  xy: 328, 341
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Eurypterus
   rotate: false
-  xy: 328, 891
+  xy: 4, 233
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Fasolasuchus
+  rotate: false
+  xy: 4, 125
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Geochemical Process
   rotate: false
-  xy: 4, 243
+  xy: 652, 1173
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Goldringia
   rotate: false
-  xy: 1484, 1723
+  xy: 652, 525
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Guiyu
   rotate: false
-  xy: 1592, 1831
+  xy: 652, 417
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Helicoprion
   rotate: false
-  xy: 1700, 1939
+  xy: 652, 201
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Herrerasaurus
+  rotate: false
+  xy: 652, 93
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Hybodus
+  rotate: false
+  xy: 836, 1929
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Hylonomus
   rotate: false
-  xy: 220, 351
+  xy: 836, 1713
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Hyneria
   rotate: false
-  xy: 328, 459
+  xy: 836, 1605
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Ischigualastia
+  rotate: false
+  xy: 760, 1065
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Itchyostega
   rotate: false
-  xy: 1700, 1831
+  xy: 760, 957
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Kerygmachela
   rotate: false
-  xy: 1808, 1939
+  xy: 760, 849
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Lemurosaurus
   rotate: false
-  xy: 1700, 1723
+  xy: 760, 93
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Lessemsaurus
+  rotate: false
+  xy: 944, 1929
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Liliensternus
+  rotate: false
+  xy: 944, 1713
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Lupeosaurus
   rotate: false
-  xy: 328, 243
+  xy: 868, 1281
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Lystrosaurus
+  rotate: false
+  xy: 868, 1065
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Machaeroprosopus
+  rotate: false
+  xy: 868, 957
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Mastodonsaurus
+  rotate: false
+  xy: 868, 93
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Megamastax
   rotate: false
-  xy: 1916, 1723
+  xy: 976, 1497
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Meganeura
   rotate: false
-  xy: 328, 27
+  xy: 1052, 1929
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Microbrachius
   rotate: false
-  xy: 1916, 1615
+  xy: 1052, 1821
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Mixosaurus
+  rotate: false
+  xy: 1052, 1605
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Moschops
   rotate: false
-  xy: 436, 1215
+  xy: 976, 1281
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Moschorhinus
   rotate: false
-  xy: 436, 1107
+  xy: 976, 1173
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Neopteroplax
   rotate: false
-  xy: 436, 567
+  xy: 976, 633
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Nicrosaurus
+  rotate: false
+  xy: 976, 525
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Nothosaurus
+  rotate: false
+  xy: 976, 417
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Opabinia
   rotate: false
-  xy: 436, 351
+  xy: 976, 93
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Peteinosaurus
+  rotate: false
+  xy: 1084, 1173
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Pistosaurus
+  rotate: false
+  xy: 1084, 741
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Placodus
+  rotate: false
+  xy: 1084, 525
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Plagiosaurus
+  rotate: false
+  xy: 1084, 417
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Plateosaurus
+  rotate: false
+  xy: 1084, 201
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Postosuchus
+  rotate: false
+  xy: 1192, 1497
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Prestosuchus
+  rotate: false
+  xy: 1268, 1929
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Proganochelys
+  rotate: false
+  xy: 1192, 1281
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Proterosuchus
+  rotate: false
+  xy: 1192, 1173
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Rhyniognatha
   rotate: false
-  xy: 544, 967
+  xy: 1192, 309
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Saivodus
   rotate: false
-  xy: 868, 1291
+  xy: 1376, 1821
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Saurosuchus
+  rotate: false
+  xy: 1300, 1281
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Secodontosaurus
   rotate: false
-  xy: 760, 1075
+  xy: 1300, 957
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Shonisaurus
+  rotate: false
+  xy: 1300, 417
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Smilosuchus
+  rotate: false
+  xy: 1300, 93
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Stethacanthus
   rotate: false
-  xy: 1084, 1291
+  xy: 1484, 1605
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Tanystropheous
+  rotate: false
+  xy: 1408, 633
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Thelodonti
   rotate: false
-  xy: 1192, 1291
+  xy: 1408, 417
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Thrinaxodon
+  rotate: false
+  xy: 1408, 201
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Tiktaalik
   rotate: false
-  xy: 544, 535
+  xy: 1516, 1497
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Titanosuchus
   rotate: false
-  xy: 652, 643
+  xy: 1592, 1929
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Trilobite
   rotate: false
-  xy: 760, 751
+  xy: 1516, 633
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Trucidocynodon
+  rotate: false
+  xy: 1516, 417
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Utatsusaurus
+  rotate: false
+  xy: 1516, 309
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Volcanic Rock
   rotate: false
-  xy: 1408, 1399
+  xy: 1700, 1821
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Warrior
   rotate: false
-  xy: 1408, 1399
+  xy: 1700, 1821
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Wodnika
   rotate: false
-  xy: 976, 859
+  xy: 1624, 1065
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Anomalocarididae
   rotate: false
-  xy: 629, 4
+  xy: 1622, 11
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Chelicerata
   rotate: false
-  xy: 795, 386
+  xy: 1937, 178
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Dinocarida
   rotate: false
-  xy: 1204, 677
+  xy: 1978, 1863
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Eurypterida
   rotate: false
-  xy: 1385, 1092
+  xy: 1978, 1805
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Lobopodia
   rotate: false
-  xy: 1636, 1250
+  xy: 1987, 1167
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 UnitPromotionIcons/Radiodonta
   rotate: false
-  xy: 1254, 926
+  xy: 1964, 486
   size: 50, 50
   orig: 50, 50
+  offset: 0, 0
+  index: -1
+
+game2.png
+size: 2048, 128
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+PolicyIcons/Selenium
+  rotate: false
+  xy: 4, 62
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+PolicyIcons/Silicon
+  rotate: false
+  xy: 4, 4
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+PolicyIcons/Sodium
+  rotate: false
+  xy: 62, 62
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+PolicyIcons/Strontium
+  rotate: false
+  xy: 62, 4
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+PolicyIcons/Sulphur
+  rotate: false
+  xy: 120, 62
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+PolicyIcons/Titanium
+  rotate: false
+  xy: 120, 4
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+PolicyIcons/Vanadium
+  rotate: false
+  xy: 178, 62
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+PolicyIcons/Yttrium
+  rotate: false
+  xy: 178, 4
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+PolicyIcons/Zinc
+  rotate: false
+  xy: 236, 62
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Aeolian soils
+  rotate: false
+  xy: 236, 26
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Aeolian soils+Carboniferous
+  rotate: false
+  xy: 294, 84
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Aeolian soils-Carboniferous
+  rotate: false
+  xy: 294, 84
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Aeolian soils+Devonian
+  rotate: false
+  xy: 334, 84
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Aeolian soils-Devonian
+  rotate: false
+  xy: 334, 84
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Aeolian soils+Permian
+  rotate: false
+  xy: 374, 84
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Aeolian soils-Permian
+  rotate: false
+  xy: 374, 84
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Alfisols
+  rotate: false
+  xy: 414, 84
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Alfisols+Carboniferous
+  rotate: false
+  xy: 454, 84
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Alfisols+Devonian
+  rotate: false
+  xy: 454, 84
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Alfisols-Devonian
+  rotate: false
+  xy: 454, 84
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Alfisols+Permian
+  rotate: false
+  xy: 494, 84
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Alfisols-Permian
+  rotate: false
+  xy: 494, 84
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Alfisols-Ordovician - Silurian
+  rotate: false
+  xy: 534, 84
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Alfisols-Proterozoic
+  rotate: false
+  xy: 574, 84
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Algae
+  rotate: false
+  xy: 614, 84
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Archaeopteris
+  rotate: false
+  xy: 654, 84
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Bennettitales
+  rotate: false
+  xy: 694, 84
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Chalk soil
+  rotate: false
+  xy: 734, 84
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Chalk soil+Carboniferous
+  rotate: false
+  xy: 774, 84
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Chalk soil+Devonian
+  rotate: false
+  xy: 774, 84
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Chalk soil+Permian
+  rotate: false
+  xy: 774, 84
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Chalk soil-Devonian
+  rotate: false
+  xy: 774, 84
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Charnia
+  rotate: false
+  xy: 814, 84
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Clay
+  rotate: false
+  xy: 854, 84
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Coast
+  rotate: false
+  xy: 894, 84
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Lakes
+  rotate: false
+  xy: 894, 84
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Coast+Carboniferous
+  rotate: false
+  xy: 934, 84
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Coast+Devonian
+  rotate: false
+  xy: 934, 84
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Coast+Permian
+  rotate: false
+  xy: 934, 84
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Coast-Devonian
+  rotate: false
+  xy: 934, 84
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Coast+Salt
+  rotate: false
+  xy: 974, 84
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Coast-Archean
+  rotate: false
+  xy: 1014, 84
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Cooksonia
+  rotate: false
+  xy: 1054, 84
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Coral
+  rotate: false
+  xy: 1094, 84
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Cordaites
+  rotate: false
+  xy: 1134, 84
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Crossotheca
+  rotate: false
+  xy: 1174, 84
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Cynepteris
+  rotate: false
+  xy: 1214, 84
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Forest
+  rotate: false
+  xy: 1254, 84
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Forest-Carboniferous
+  rotate: false
+  xy: 1294, 84
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Forest-Devonian
+  rotate: false
+  xy: 1334, 84
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Forest-Permian
+  rotate: false
+  xy: 1374, 84
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Forest-Triassic
+  rotate: false
+  xy: 1414, 84
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Ginkoales
+  rotate: false
+  xy: 1454, 84
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Lake
+  rotate: false
+  xy: 1494, 84
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Lakes+Carboniferous
+  rotate: false
+  xy: 1534, 84
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Lakes-Carboniferous
+  rotate: false
+  xy: 1534, 84
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Lakes+Devonian
+  rotate: false
+  xy: 1574, 84
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Lakes-Devonian
+  rotate: false
+  xy: 1574, 84
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Lakes+Permian
+  rotate: false
+  xy: 1614, 84
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Lakes-Permian
+  rotate: false
+  xy: 1614, 84
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Lakes-Archean
+  rotate: false
+  xy: 1654, 84
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Lava Lake
+  rotate: false
+  xy: 1694, 84
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Lepidodendron
+  rotate: false
+  xy: 1734, 84
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Limestone
+  rotate: false
+  xy: 1774, 84
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Marsh
+  rotate: false
+  xy: 1814, 84
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Moss
+  rotate: false
+  xy: 1854, 84
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Mountain
+  rotate: false
+  xy: 1894, 76
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Mountain+Carboniferous
+  rotate: false
+  xy: 1934, 76
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Mountain-Carboniferous
+  rotate: false
+  xy: 1934, 76
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Mountain+Devonian
+  rotate: false
+  xy: 1974, 76
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Mountain-Devonian
+  rotate: false
+  xy: 1974, 76
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Mountain+Permian
+  rotate: false
+  xy: 294, 40
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Mountain-Permian
+  rotate: false
+  xy: 294, 40
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Mountain-Archean
+  rotate: false
+  xy: 334, 40
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Oasis
+  rotate: false
+  xy: 374, 48
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Ocean
+  rotate: false
+  xy: 414, 48
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Ocean+Carboniferous
+  rotate: false
+  xy: 454, 48
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Ocean+Devonian
+  rotate: false
+  xy: 454, 48
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Ocean+Permian
+  rotate: false
+  xy: 454, 48
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Ocean-Devonian
+  rotate: false
+  xy: 454, 48
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Ocean-Archean
+  rotate: false
+  xy: 494, 48
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Petroleum
+  rotate: false
+  xy: 534, 48
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Pleuromeia
+  rotate: false
+  xy: 574, 48
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/River-Bottom
+  rotate: false
+  xy: 614, 48
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/River-BottomLeft
+  rotate: false
+  xy: 654, 48
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/River-BottomRight
+  rotate: false
+  xy: 694, 48
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Sand
+  rotate: false
+  xy: 734, 48
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Sand+Carboniferous
+  rotate: false
+  xy: 774, 48
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Sand-Carboniferous
+  rotate: false
+  xy: 774, 48
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Sand+Devonian
+  rotate: false
+  xy: 814, 48
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Sand-Devonian
+  rotate: false
+  xy: 814, 48
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Sand+Permian
+  rotate: false
+  xy: 854, 48
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Sand-Permian
+  rotate: false
+  xy: 854, 48
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Sand-Proterozoic
+  rotate: false
+  xy: 894, 48
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Sandstone
+  rotate: false
+  xy: 934, 48
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Sanfordiacaulis
+  rotate: false
+  xy: 974, 48
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Seed Plant
+  rotate: false
+  xy: 1014, 48
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Seed Plant-Devonian
+  rotate: false
+  xy: 1054, 48
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Sigillaria
+  rotate: false
+  xy: 1094, 48
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Stromatolites
+  rotate: false
+  xy: 1134, 48
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Vertisols
+  rotate: false
+  xy: 1174, 48
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Vertisols+Carboniferous
+  rotate: false
+  xy: 1214, 48
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Vertisols-Carboniferous
+  rotate: false
+  xy: 1214, 48
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Vertisols+Devonian
+  rotate: false
+  xy: 1254, 48
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Vertisols-Devonian
+  rotate: false
+  xy: 1254, 48
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Vertisols+Permian
+  rotate: false
+  xy: 1294, 48
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Vertisols-Permian
+  rotate: false
+  xy: 1294, 48
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Volcanic Ash
+  rotate: false
+  xy: 1334, 48
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Volcano
+  rotate: false
+  xy: 1374, 40
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Voltzia
+  rotate: false
+  xy: 1414, 48
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Walchia
+  rotate: false
+  xy: 1454, 48
+  size: 32, 28
+  orig: 32, 28
   offset: 0, 0
   index: -1
