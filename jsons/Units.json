@@ -65,7 +65,12 @@
 		"strength": 15,
 		"cost": 80,
                 "requiredTech": "Eukaryotes",
-                "uniques": ["May create improvements on water resources","Limited to [2] per Civilization","Cost increases by [50] per owned city","Can build [Algae] improvements on tiles","Can build [Charnia] improvements on tiles","Can build [Coral] improvements on tiles","Can build [Moss] improvements on tiles","Can build [Cooksonia] improvements on tiles","Can build [Seed Plant] improvements on tiles","Can build [Archaeopteris] improvements on tiles", "Automation is a primary action"],
+                "uniques": ["May create improvements on water resources","Limited to [2] per Civilization","Cost increases by [50] per owned city","Can build [Algae] improvements on tiles","Can build [Charnia] improvements on tiles","Can build [Coral] improvements on tiles","Can build [Moss] improvements on tiles","Can build [Cooksonia] improvements on tiles","Can build [Seed Plant] improvements on tiles","Can build [Archaeopteris] improvements on tiles",
+
+
+"Can build [Sanfordiacaulis] improvements on tiles","Can build [Lepidodendron] improvements on tiles","Can build [Sigillaria] improvements on tiles","Can build [Cordaites] improvements on tiles","Can build [Voltzia] improvements on tiles","Can build [Walchia] improvements on tiles","Can build [Crossotheca] improvements on tiles","Can build [Ginkoales] improvements on tiles","Can build [Bennettitales] improvements on tiles","Can build [Pleuromeia] improvements on tiles","Can build [Cynepteris] improvements on tiles",
+
+ "Automation is a primary action"],
 		"attackSound": "nonmetalhit",
         "civilopediaText": [
 			{"text": "Eukaryotes constitute the domain of Eukarya or Eukaryota, organisms whose cells have a membrane-bound nucleus. All animals, plants, fungi, and many unicellular organisms are eukaryotes. They constitute a major group of life forms alongside the two groups of prokaryotes, the Bacteria and the Archaea. Eukaryotes represent a small minority of the number of organisms, but given their generally much larger size, their collective global biomass is much larger than that of prokaryotes."}
@@ -953,7 +958,7 @@ It is a member of the Herrerasauridae, a family of similar genera that were amon
 		"name": "Erythrosuchus",
 		"unitType": "Land Chordata",
 		"movement": 2,
-		"strength": 150,
+		"strength": 153,
 		"cost": 280,
                 "requiredTech": "Recovery from Extinction",
                 "obsoleteTech": "Archosaurs",
@@ -962,6 +967,23 @@ It is a member of the Herrerasauridae, a family of similar genera that were amon
 			{"text": "Erythrosuchus (from Greek: ἐρυθρός eruthrós, 'red' and Greek: σοῦχος soukhos, 'crocodile') is an extinct genus of archosauriform reptiles from the early Triassic of South Africa. Remains have been found from the Cynognathus Assemblage Zone of the Beaufort Group in the Karoo of South Africa.
 
 In the Late Triassic, the ecological niche left by Erythrosuchus was filled by archosaurs including Saurosuchus and Postosuchus."}
+		]
+	},
+{
+		"name": "Lotosaurus",
+		"unitType": "Land Chordata",
+		"movement": 3,
+		"strength": 231,
+		"cost": 219,
+                "requiredTech": "Archosaurs",
+                "obsoleteTech": "Triassic Jurassic Extinction",
+		"attackSound": "nonmetalhit",
+        "civilopediaText": [
+			{"text": "Lotosaurus is an extinct genus of sail-backed poposauroid known from Hunan Province of central China.
+
+Lotosaurus was originally thought to be a thecodont, probably related to Ctenosauriscus and other archosaur taxa with elongated neural spines (Ctenosauriscidae). Although modern cladistic analyses have abandoned the order Thecodontia, they have also supported the theory that Lotosaurus was a distant relative of ctenosauriscids. Nesbitt (2007) was the first to suggest that Lotosaurus is more closely related to Shuvosaurus (a shuvosaurid) than to Arizonasaurus (a ctenosauriscid). In his massive revision of archosaurs which included a large cladistic analysis, Sterling J. Nesbitt (2011) found Lotosaurus to be a member of the group Poposauroidea. Poposauroids were part of Pseudosuchia, the lineage of reptiles which also includes aetosaurs, raisuchids, and modern crocodilians.
+
+Within Poposauroidea, Lotosaurus was placed as a relative of the Shuvosauridae, and therefore it is not included in the Ctenosauriscidae. Although shuvosaurids walked on two legs and lacked sails, their toothless beaks and presumed herbivorous habits resembled those of Lotosaurus. Ctenosauriscids were carnivores with many sharp teeth and high, theropod-like skulls, in contrast to Lotosaurus and shuvosaurids. Nevertheless, Lotosaurus is still considered a distant relative of ctenosauriscids, as that family is also placed within Poposauroidea. Further studies confirmed these results."}
 		]
 	},
 {
